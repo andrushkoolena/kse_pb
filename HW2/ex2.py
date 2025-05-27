@@ -1,0 +1,6 @@
+zminna1=int(input(""))
+zminna2=int(input(""))
+print(zminna1+zminna2)
+print(zminna1-zminna2)
+print(zminna1*zminna2)
+print(zminna1/zminna2)
