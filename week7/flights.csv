@@ -1,0 +1,1001 @@
+flight_number,airline_name,departure_airport,departure_city,departure_country,departure_time,arrival_airport,arrival_city,arrival_country,duration_hours,airline_code,departure_airport_code,arrival_airport_code,flight_date,flight_time,flight_distance,passenger_capacity,ticket_price,flight_status,gate_number
+WN2160,Southwest Airlines,Los Angeles International,Sanhe,China,6:02 PM,John F. Kennedy International,Darovskoy,Russia,17,WN,CSB,ROB,9/10/2022,6:27 AM,9968.44,492,475.69,On Time,C1
+QF2874,Qantas,Sydney Airport,Landim,Portugal,2:29 PM,Melbourne Airport,Jamalteca,Honduras,7,QF,PYA,OAZ,7/10/2022,7:21 AM,7327.07,362,273.09,On Time,C2
+SK9881,SAS Scandinavian,Copenhagen Airport,Shënmëri,Albania,3:22 PM,Charles de Gaulle,Zhongfeng,China,8,SK,COC,NLN,10/29/2022,11:09 PM,9301.21,191,497.79,On Time,A2
+KL5799,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Cabeço de Vide,Portugal,6:40 PM,Munich Airport,Kadyy,Russia,2,KL,LVS,MTE,9/23/2022,3:44 AM,9195.5,95,243.48,On Time,A3
+NH2322,All Nippon Airways,Haneda,Darłowo,Poland,4:37 AM,Incheon International,Itambé,Brazil,22,NH,JNA,YYM,2/19/2022,5:19 AM,3958.12,324,224.91,On Time,A1
+SK1423,SAS Scandinavian,Copenhagen Airport,Senada,Morocco,4:27 PM,Charles de Gaulle,Anyar,Indonesia,20,SK,PIO,LAS,7/27/2022,6:50 AM,9692.51,182,227.81,On Time,B2
+AI5177,Air India,Indira Gandhi International,Vicente Guerrero,Mexico,9:11 PM,Chhatrapati Shivaji International,Gambalidio,Philippines,7,AI,YGG,GBZ,3/17/2022,2:24 PM,8217.07,399,262.48,On Time,B1
+SK4327,SAS Scandinavian,Copenhagen Airport,Palaiseau,France,7:02 AM,Charles de Gaulle,Bassar,Togo,14,SK,XQU,EJT,5/6/2022,7:42 PM,1295.67,98,335.94,Delayed,A3
+AV5645,Avianca,El Dorado International,la Massana,Andorra,12:41 AM,O'Hare International,Siaton,Philippines,5,AV,MKS,YKF,2/17/2022,11:51 PM,9784.39,191,271.72,On Time,B1
+NZ7644,Air New Zealand,Auckland Airport,Rurrenabaque,Bolivia,11:40 PM,Sydney Airport,Psygansu,Russia,6,NZ,KAP,NSV,4/26/2022,1:43 PM,7294.15,172,219.88,On Time,B1
+QR6953,Qatar Airways,Hamad International,Kamenjane,Macedonia,4:50 AM,Frankfurt Airport,Bandung,Indonesia,24,QR,FAC,MMB,1/10/2022,12:53 AM,2135.95,232,101.18,On Time,B1
+LA6492,LATAM Airlines,São Paulo/Guarulhos International,Surat Thani,Thailand,7:48 PM,Ministro Pistarini International,Xiaojiangba,China,8,LA,BWN,RAV,4/26/2022,7:15 PM,6425.42,487,138.8,Cancelled,C1
+DL9737,Delta Air Lines,John F. Kennedy International,Calancuasan Norte,Philippines,3:33 PM,Hartsfield-Jackson Atlanta,Mílos,Greece,8,DL,BNG,0,8/30/2022,12:51 PM,8016.13,209,128.63,On Time,C1
+IB2418,Iberia,Adolfo Suárez Madrid–Barajas,Czarna,Poland,12:57 AM,Charles de Gaulle,Taobei,China,10,IB,AKE,ISQ,6/12/2022,6:37 AM,4507.46,332,369.29,On Time,C4
+AZ6961,Alitalia,Leonardo da Vinci International,La Esperanza,Mexico,2:35 PM,Charles de Gaulle,Nowa Dęba,Poland,16,AZ,PEU,PNG,6/2/2022,7:35 AM,7933.75,189,64.17,On Time,C2
+ET6241,Ethiopian Airlines,Bole International,Ramalhal,Portugal,6:33 PM,Hamad International,Arauca,Colombia,2,ET,ELM,BJK,10/8/2022,8:03 AM,2010.18,466,164.32,Delayed,A1
+AA5562,American Airlines,John F. Kennedy International,Tangxian,China,10:43 AM,Hartsfield-Jackson Atlanta,Kuala Lumpur,Malaysia,6,AA,AYU,OKV,7/4/2022,7:10 AM,5089.41,59,351.16,On Time,C1
+AA7899,American Airlines,John F. Kennedy International,Zagoryanskiy,Russia,3:26 AM,Hartsfield-Jackson Atlanta,Xinba,China,23,AA,BIB,GPA,6/4/2022,11:05 AM,829.75,79,266.68,Delayed,A2
+AA8220,American Airlines,John F. Kennedy International,Liushan,China,12:59 AM,Hartsfield-Jackson Atlanta,Turar Ryskulov,Kazakhstan,9,AA,AAC,BMC,5/29/2022,2:19 AM,9798.84,152,315.47,On Time,B2
+AV5400,Avianca,El Dorado International,Örebro,Sweden,6:13 AM,O'Hare International,Nikol’sk,Russia,8,AV,NPR,ODE,6/16/2022,4:06 PM,1415.93,289,456.0,On Time,C3
+LH5030,Lufthansa,Frankfurt Airport,Ganjaran,Indonesia,6:25 AM,Charles de Gaulle,Tijucas,Brazil,1,LH,MCW,YZV,12/24/2022,3:16 PM,8296.54,275,215.02,On Time,A2
+AM8310,Aeroméxico,Benito Juárez International,Słupno,Poland,5:01 AM,O'Hare International,Anadia,Portugal,16,AM,PSX,MYC,11/19/2022,10:55 PM,7268.08,125,280.13,Cancelled,C3
+CX9277,Cathay Pacific,Hong Kong International,Taojiahe,China,1:42 PM,Charles de Gaulle,Lokwabe,Botswana,24,CX,ICL,MBS,12/28/2022,2:53 AM,8756.96,351,382.92,On Time,C2
+SK7951,SAS Scandinavian,Copenhagen Airport,Bungtiang Barat,Indonesia,9:21 AM,Munich Airport,Comagascas,Philippines,9,SK,NME,RTA,11/21/2022,2:10 AM,194.0,455,59.04,On Time,C4
+NZ8208,Air New Zealand,Auckland Airport,Ust’-Isha,Russia,9:23 AM,Sydney Airport,Banjar Sengguan,Indonesia,23,NZ,RBD,TXM,8/23/2022,11:14 AM,5338.32,473,379.8,On Time,C2
+TG6294,Thai Airways,Suvarnabhumi,Hanting,China,10:32 AM,Changi,Bellevue,United States,19,TG,CCG,AKI,5/24/2022,2:59 PM,1513.49,178,293.22,Delayed,C1
+EK9670,Emirates,Dubai International,Banī Khallād,Tunisia,10:40 AM,Los Angeles International,Shitun,China,5,EK,YUX,VCL,12/5/2022,8:29 AM,9736.28,346,417.67,On Time,B2
+QF7218,Qantas,Sydney Airport,Achoma,Peru,5:23 AM,Melbourne Airport,Pantian,China,16,QF,HOC,WMI,11/18/2022,11:08 AM,4216.11,426,466.16,On Time,C4
+AF8882,Air France,Charles de Gaulle,Weizhou,China,6:45 AM,Frankfurt Airport,Popil'nya,Ukraine,9,AF,XJD,SRA,1/3/2022,5:51 AM,6628.15,344,128.61,On Time,A1
+TG2641,Thai Airways,Suvarnabhumi,Siaya,Kenya,9:37 PM,Changi,Tidili Mesfioua,Morocco,8,TG,QYD,IKB,5/8/2022,11:50 AM,7398.52,78,351.67,On Time,C1
+NZ2252,Air New Zealand,Auckland Airport,Huangzhawan,China,6:55 AM,Sydney Airport,Guozhuang,China,21,NZ,WSN,ONG,6/23/2022,7:28 PM,4782.86,159,153.91,On Time,C1
+NZ2165,Air New Zealand,Auckland Airport,Meilin,China,10:23 AM,Sydney Airport,Le Blanc-Mesnil,France,23,NZ,XBB,PLR,9/23/2022,12:29 PM,9928.51,128,460.65,Cancelled,C4
+AF1967,Air France,Charles de Gaulle,Saint Petersburg,United States,8:07 AM,Stockholm Arlanda,Turka,Ukraine,20,AF,JCB,UNA,5/29/2022,8:50 AM,7462.13,234,200.56,Delayed,C3
+LA8052,LATAM Airlines,São Paulo/Guarulhos International,San Vicente,Philippines,6:02 PM,Ministro Pistarini International,Presidente Epitácio,Brazil,13,LA,DVN,WET,1/31/2022,10:15 PM,3214.64,53,166.36,Delayed,B2
+SA2449,South African Airways,O.R. Tambo International,Mūsá Qal‘ah,Afghanistan,12:23 AM,Charles de Gaulle,Vellinge,Sweden,18,SA,MEV,DRJ,5/28/2022,12:34 AM,9820.45,187,239.95,On Time,C4
+AM6852,Aeroméxico,Benito Juárez International,Jiuhua,China,7:50 PM,Ministro Pistarini International,Korydallós,Greece,3,AM,TKU,WPM,10/18/2022,2:54 AM,9543.4,300,459.04,Delayed,C1
+WN6914,Southwest Airlines,Los Angeles International,Voznesenskoye,Russia,8:07 AM,Toronto Pearson,Ya’ngan,China,6,WN,HVD,HLN,7/3/2022,10:33 AM,3337.61,164,352.74,On Time,A3
+WN9442,Southwest Airlines,Los Angeles International,Paucarcolla,Peru,6:35 AM,Stockholm Arlanda,Västra Frölunda,Sweden,21,WN,KDB,YXZ,4/26/2022,8:34 PM,9050.51,312,399.18,On Time,B2
+AM6955,Aeroméxico,Benito Juárez International,Longbei,China,4:55 PM,John F. Kennedy International,Saint-Maur-des-Fossés,France,15,AM,PRD,LGR,1/31/2022,10:51 PM,8459.36,243,316.74,On Time,C3
+WN1086,Southwest Airlines,Los Angeles International,Maibu,Philippines,1:53 PM,San Francisco International,Curanilahue,Chile,24,WN,JAA,YHE,12/4/2022,5:43 AM,1106.26,141,210.63,Delayed,C4
+TG7442,Thai Airways,Suvarnabhumi,Mbigou,Gabon,1:55 AM,Changi,Gweedore,Ireland,10,TG,ZTU,RBJ,9/4/2022,1:04 PM,4586.89,73,432.62,Delayed,C2
+KE9018,Korean Air,Incheon International,Shuanghe,China,4:23 PM,Haneda,Jindayris,Syria,15,KE,LTO,DAS,12/6/2022,3:58 PM,7739.42,207,297.02,On Time,C3
+QF4801,Qantas,Sydney Airport,Akat Amnuai,Thailand,10:48 PM,Melbourne Airport,Banamba,Mali,5,QF,PDL,JGR,4/30/2022,2:41 PM,7906.26,400,272.55,On Time,A2
+QR9862,Qatar Airways,Hamad International,Paiçandu,Brazil,2:47 AM,Bole International,Talas,Kyrgyzstan,15,QR,MSM,SUK,8/25/2022,4:12 AM,6535.23,103,476.39,Cancelled,B1
+AV9889,Avianca,El Dorado International,Roun Satu,Indonesia,8:04 AM,O'Hare International,Baklashi,Russia,3,AV,ORM,JGB,2/18/2022,8:28 PM,7640.3,277,248.66,On Time,C1
+KL1948,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Ovacik,Turkey,7:58 AM,Cape Town International,Qingshi,China,13,KL,BFU,RMS,11/21/2022,1:57 PM,6397.61,297,207.08,Cancelled,C3
+AI8609,Air India,Indira Gandhi International,Karangampel,Indonesia,2:50 PM,Zurich Airport,Parung,Indonesia,6,AI,WPB,PMD,9/30/2022,5:17 PM,8081.96,225,80.42,On Time,A2
+AC1283,Air Canada,Toronto Pearson,Newtown,United Kingdom,8:32 PM,John F. Kennedy International,Fort-de-France,Martinique,3,AC,PRE,ELB,8/20/2022,7:29 PM,2690.35,171,182.75,Delayed,A2
+SK4004,SAS Scandinavian,Copenhagen Airport,Yuanjiazhuang,China,4:26 PM,Leonardo da Vinci International,Dayushu,China,3,SK,MXL,QNC,3/14/2022,2:44 PM,6157.51,371,228.75,On Time,B2
+EK7011,Emirates,Dubai International,Muara,Indonesia,12:57 AM,Hamad International,Narva,Estonia,15,EK,YUD,YEO,4/5/2022,8:03 PM,4337.47,62,254.37,On Time,B1
+NH4423,All Nippon Airways,Haneda,Svetlogorsk,Russia,1:02 AM,Incheon International,Laï,Chad,21,NH,RHV,LSC,1/5/2022,11:53 PM,6457.8,95,61.67,On Time,C2
+AV9047,Avianca,El Dorado International,Lincuo,China,8:26 PM,São Paulo/Guarulhos International,San Agustin,Mexico,4,AV,ZTB,YTF,10/14/2022,2:10 PM,4584.36,149,283.94,On Time,A3
+BA5939,British Airways,Heathrow,Tangkolo,Indonesia,4:51 AM,Cape Town International,Xiongzhou,China,6,BA,CFR,JED,8/22/2022,4:05 PM,6331.53,487,56.8,Delayed,B1
+TG2641,Thai Airways,Suvarnabhumi,Sungaipuntik,Indonesia,11:56 PM,Changi,Dalam,Indonesia,17,TG,PFR,VND,2/14/2022,2:12 PM,9591.6,399,376.97,On Time,A2
+NZ8173,Air New Zealand,Auckland Airport,Ilovka,Russia,1:49 AM,Sydney Airport,Caigangan,Philippines,17,NZ,RLA,RHV,7/27/2022,3:08 AM,1022.33,346,491.06,On Time,C4
+BA9490,British Airways,Heathrow,Ampanihy,Madagascar,12:38 AM,Charles de Gaulle,Stockholm,Sweden,8,BA,DLE,IDR,3/31/2022,6:03 PM,7433.4,122,420.8,Delayed,A1
+LA4035,LATAM Airlines,São Paulo/Guarulhos International,Las Lomas,Panama,10:55 AM,Hamad International,Linëvo,Russia,4,LA,ATT,MTI,4/29/2022,8:27 PM,143.94,202,147.81,On Time,C1
+DL4345,Delta Air Lines,John F. Kennedy International,Frederiksberg,Denmark,4:01 AM,Copenhagen Airport,Baoshi,China,20,DL,CKI,TJQ,2/7/2022,6:45 PM,381.44,103,100.26,On Time,C4
+DL4369,Delta Air Lines,John F. Kennedy International,Altuf’yevskiy,Russia,5:43 PM,Amsterdam Airport Schiphol,Ad Dann,Yemen,22,DL,0,ILO,11/28/2022,1:00 AM,6270.08,380,365.3,Delayed,A3
+EK6819,Emirates,Dubai International,Quimilí,Argentina,6:49 PM,Hamad International,Piła,Poland,9,EK,KPR,JYR,3/21/2022,9:25 AM,7479.32,66,304.3,On Time,C4
+IB9562,Iberia,Adolfo Suárez Madrid–Barajas,Naranjal,Paraguay,9:26 AM,Charles de Gaulle,Kuźnia Raciborska,Poland,23,IB,RET,KOE,3/20/2022,10:58 AM,332.1,470,490.69,Delayed,C1
+AC9578,Air Canada,Toronto Pearson,Międzyrzecz,Poland,6:01 AM,John F. Kennedy International,Canto,Portugal,1,AC,ALZ,BLI,11/22/2022,12:29 PM,818.42,157,243.8,Delayed,C3
+NH4392,All Nippon Airways,Haneda,Lishui,China,6:01 AM,Incheon International,Torrão,Portugal,1,NH,PNN,YHB,10/9/2022,3:31 PM,3357.55,223,98.01,Delayed,C3
+AV3025,Avianca,El Dorado International,Kanaya,Japan,11:13 PM,O'Hare International,Palecenan,Indonesia,7,AV,UUN,FAR,10/26/2022,10:28 PM,5865.49,325,257.5,Delayed,B2
+IB1849,Iberia,Adolfo Suárez Madrid–Barajas,Sangat,Philippines,8:38 PM,Chhatrapati Shivaji International,Niigata-shi,Japan,21,IB,BMV,PUN,9/22/2022,7:00 PM,3718.4,311,421.99,Delayed,B2
+TG9476,Thai Airways,Suvarnabhumi,Nowa Sól,Poland,10:28 AM,Changi,Baolong,China,22,TG,DJU,WMC,5/10/2022,6:12 PM,5969.75,115,103.81,Delayed,A3
+QF4565,Qantas,Sydney Airport,Xiaocheng,China,10:48 AM,Melbourne Airport,Tashi,China,7,QF,HJR,YFL,1/22/2022,1:00 PM,4100.19,270,165.13,On Time,C4
+BA1149,British Airways,Heathrow,Chacarita,Costa Rica,3:04 PM,Charles de Gaulle,Kafr Zaytā,Syria,1,BA,YSV,HKA,3/20/2022,9:00 PM,3167.37,243,291.85,Cancelled,A2
+DL5644,Delta Air Lines,John F. Kennedy International,Ficksburg,South Africa,11:36 PM,Denver International,Jinjiang,China,3,DL,IMK,GTF,7/28/2022,12:59 PM,9438.67,177,486.41,On Time,C4
+NZ1569,Air New Zealand,Auckland Airport,Shilibu,China,3:51 PM,Sydney Airport,Sojo,Peru,2,NZ,YWA,FNU,6/9/2022,6:16 PM,784.34,381,360.8,On Time,C3
+UA7792,United Airlines,Los Angeles International,Smederevo,Serbia,2:55 PM,Dallas/Fort Worth International,Tsybli,Ukraine,4,UA,PEG,BMT,8/24/2022,12:25 PM,5687.77,402,364.2,On Time,C3
+AZ8666,Alitalia,Leonardo da Vinci International,Budapest,Hungary,3:57 PM,Charles de Gaulle,Maraã,Brazil,13,AZ,OKC,VLU,12/27/2022,1:03 AM,8203.56,387,197.45,On Time,A3
+WN6482,Southwest Airlines,Los Angeles International,Bīleh Savār,Iran,3:27 AM,Denver International,Gowa,Indonesia,7,WN,HSP,AIZ,5/1/2022,8:44 PM,1462.82,236,290.12,Cancelled,A3
+EK5011,Emirates,Dubai International,Kamuli,Uganda,6:57 AM,Suvarnabhumi,Heichengzi,China,4,EK,TCC,SLG,4/2/2022,9:13 PM,4599.71,269,87.3,On Time,C3
+WN5430,Southwest Airlines,Los Angeles International,Dingqing,China,3:27 PM,San Francisco International,Kruisfontein,South Africa,8,WN,VDA,CAR,6/26/2022,9:00 PM,1710.77,382,114.16,On Time,C4
+NZ9667,Air New Zealand,Auckland Airport,Molde,Norway,12:20 AM,Hong Kong International,Nakatsugawa,Japan,15,NZ,YHS,OML,8/10/2022,11:46 AM,9730.8,264,262.51,On Time,A2
+SQ7691,Singapore Airlines,Changi,Kandang Timur,Indonesia,2:57 PM,Copenhagen Airport,Pirg,Albania,8,SQ,GTO,YLV,4/27/2022,2:10 PM,746.31,379,357.26,On Time,B2
+SA4382,South African Airways,O.R. Tambo International,Camacupa,Angola,5:31 AM,Charles de Gaulle,Kantemirovka,Russia,19,SA,PJC,MRX,12/11/2022,6:04 PM,4287.9,220,395.72,On Time,C3
+AI3675,Air India,Indira Gandhi International,Atlanta,United States,2:59 AM,Chhatrapati Shivaji International,Hengjiang,China,18,AI,BBN,CYT,7/30/2022,4:54 AM,5694.91,286,76.36,On Time,A3
+UA1028,United Airlines,Los Angeles International,Watuka,Indonesia,8:14 AM,San Francisco International,Palaífyto,Greece,9,UA,CMY,SVL,5/13/2022,2:44 PM,4786.2,129,329.08,Cancelled,A2
+LA3329,LATAM Airlines,São Paulo/Guarulhos International,Obo,China,10:49 AM,Ministro Pistarini International,Tucdao,Philippines,17,LA,STL,BCH,2/25/2022,10:00 AM,2092.27,333,343.87,On Time,A2
+SK8778,SAS Scandinavian,Copenhagen Airport,Seltjarnarnes,Iceland,10:54 AM,Kuala Lumpur International,Shimonoseki,Japan,16,SK,OGE,BQB,11/5/2022,1:28 PM,3411.55,359,107.02,On Time,B2
+KL5452,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Pechenga,Russia,1:22 PM,Charles de Gaulle,Spassk-Dal’niy,Russia,20,KL,CUR,WNN,9/12/2022,1:35 PM,9881.4,353,332.53,On Time,A3
+TG7327,Thai Airways,Suvarnabhumi,Arwād,Syria,7:44 PM,Changi,Arcos de Valdevez,Portugal,4,TG,WBQ,KRV,1/19/2022,11:54 PM,460.18,201,279.37,Delayed,C1
+QR4365,Qatar Airways,Hamad International,Beloostrov,Russia,2:59 AM,Benito Juárez International,Meilin,China,19,QR,DGO,NKC,2/21/2022,7:53 PM,3856.17,339,148.48,On Time,C4
+AV6783,Avianca,El Dorado International,Xinshancun,China,9:25 PM,O'Hare International,Valença,Brazil,11,AV,BWJ,MUI,9/16/2022,5:00 AM,9653.62,451,114.65,On Time,A3
+AC5211,Air Canada,Toronto Pearson,Kallíthiron,Greece,5:33 PM,Dallas/Fort Worth International,Rada Tilly,Argentina,11,AC,SWN,IRK,12/17/2022,2:54 AM,4231.92,173,342.19,On Time,B2
+QR9968,Qatar Airways,Hamad International,Cofimvaba,South Africa,11:47 PM,Bole International,Bastia,France,20,QR,VNS,BVV,9/2/2022,2:03 PM,914.64,88,309.49,Cancelled,C1
+AC4014,Air Canada,Toronto Pearson,Da-an Sur,Philippines,2:04 PM,Hartsfield-Jackson Atlanta,Chignayhua,Peru,24,AC,HBH,BBP,8/29/2022,1:43 AM,5509.4,473,276.18,On Time,A2
+KE1537,Korean Air,Incheon International,Baie-Comeau,Canada,4:00 PM,Changi,Bobo-Dioulasso,Burkina Faso,17,KE,TST,RVA,9/19/2022,9:38 PM,661.76,92,381.96,On Time,A3
+AC3232,Air Canada,Toronto Pearson,Irákleia,Greece,6:08 AM,John F. Kennedy International,Pires do Rio,Brazil,20,AC,CLX,SUY,10/4/2022,2:54 PM,6828.96,214,66.32,Delayed,A1
+AV6614,Avianca,El Dorado International,Baška Voda,Croatia,9:30 AM,O'Hare International,Miyazaki-shi,Japan,2,AV,ZTA,ROR,10/27/2022,5:30 AM,4516.69,296,375.06,Delayed,C4
+SA2779,South African Airways,O.R. Tambo International,Vänersborg,Sweden,8:14 AM,Charles de Gaulle,Bailan,Philippines,21,SA,ZCO,PKE,11/23/2022,10:51 PM,7628.84,451,59.83,On Time,C2
+BA4649,British Airways,Heathrow,Didou,China,7:04 AM,Charles de Gaulle,Semeljci,Croatia,23,BA,AUN,WWT,1/20/2022,1:16 PM,9667.27,316,291.54,On Time,B2
+SA9741,South African Airways,O.R. Tambo International,Diriá,Nicaragua,11:47 AM,Charles de Gaulle,Pedro II,Brazil,13,SA,CYW,YQJ,1/5/2022,2:41 PM,5151.42,270,164.87,Delayed,C3
+CX7274,Cathay Pacific,Hong Kong International,Kalkara,Malta,7:50 PM,Changi,El Ocotón,Honduras,16,CX,TGU,ALT,4/12/2022,5:22 PM,8059.81,121,371.81,On Time,C4
+KE1824,Korean Air,Incheon International,Zouma,China,1:12 AM,Beijing Capital International,Simimbaan,Philippines,7,KE,XNA,TGT,4/26/2022,3:15 PM,9183.53,293,494.23,Delayed,B2
+ET6237,Ethiopian Airlines,Bole International,Santa Bárbara d'Oeste,Brazil,6:51 PM,Frankfurt Airport,Cangzhou,China,1,ET,SXO,WGN,12/20/2022,5:51 PM,2191.17,200,341.05,On Time,A2
+CX7596,Cathay Pacific,Hong Kong International,Osielec,Poland,1:33 PM,Leonardo da Vinci International,Guali,China,22,CX,GGC,YTY,9/6/2022,11:36 AM,7497.0,182,67.77,On Time,B2
+KE5043,Korean Air,Incheon International,Xiabeisi,China,5:37 AM,Haneda,San Ramón,Uruguay,1,KE,KHT,TNK,12/26/2022,1:17 AM,7740.08,443,106.52,On Time,B2
+IB4821,Iberia,Adolfo Suárez Madrid–Barajas,Maki,Japan,1:44 AM,Suvarnabhumi,Aţ Ţīrah,Palestinian Territory,2,IB,VPS,YFI,4/19/2022,12:14 AM,7261.15,471,430.2,On Time,A2
+AC3914,Air Canada,Toronto Pearson,Jincheng,China,6:19 AM,Bole International,Barţa‘ah ash Sharqīyah,Palestinian Territory,22,AC,YKD,BFR,11/24/2022,10:12 PM,1272.91,441,185.1,Delayed,B1
+LH1464,Lufthansa,Frankfurt Airport,Yŏng-dong,South Korea,5:59 AM,Charles de Gaulle,Xinjiebu,China,7,LH,LGQ,OUZ,3/16/2022,4:35 AM,5864.26,96,430.9,Delayed,B2
+LH7515,Lufthansa,Frankfurt Airport,Babakankalong,Indonesia,3:33 PM,Charles de Gaulle,Bunisari,Indonesia,22,LH,SMA,FPO,2/16/2022,3:43 PM,4209.41,329,345.66,On Time,C1
+DL5999,Delta Air Lines,John F. Kennedy International,Kabarnet,Kenya,10:43 AM,Los Angeles International,Hinlayagan Ilaud,Philippines,4,DL,JMK,PSO,7/14/2022,6:28 AM,9157.66,363,289.59,Delayed,A2
+DL6886,Delta Air Lines,John F. Kennedy International,Colesberg,South Africa,5:04 PM,Bole International,Jundian,China,17,DL,XMG,QRO,3/8/2022,2:26 PM,2005.61,115,284.6,On Time,C1
+ET3233,Ethiopian Airlines,Bole International,San Fernando,Philippines,3:29 PM,Hamad International,Trinidad,Peru,12,ET,HHI,KPA,11/22/2022,8:08 PM,2457.86,209,157.44,Delayed,C2
+ET8685,Ethiopian Airlines,Bole International,Verenchanka,Ukraine,8:56 PM,Adolfo Suárez Madrid–Barajas,Tulsīpur,Nepal,3,ET,DIL,KAX,3/17/2022,2:53 AM,9746.92,212,482.04,On Time,C2
+TG2024,Thai Airways,Suvarnabhumi,Minien East,Philippines,9:28 AM,Changi,Maracanã,Brazil,13,TG,TCW,DNI,3/11/2022,4:07 PM,2608.47,189,393.3,On Time,B1
+QF1061,Qantas,Sydney Airport,Eslöv,Sweden,12:16 AM,Melbourne Airport,Lai Lai Bisi Kopan,Indonesia,3,QF,OSU,BTC,6/28/2022,11:44 PM,9143.83,90,470.28,On Time,A1
+AM2579,Aeroméxico,Benito Juárez International,Huelkail,Indonesia,8:34 AM,Hartsfield-Jackson Atlanta,Nanqiao,China,19,AM,RCH,CEC,1/22/2022,9:53 AM,688.96,473,281.32,On Time,C4
+CX9392,Cathay Pacific,Hong Kong International,Vila Nova,Portugal,3:54 AM,Changi,Riyadh,Saudi Arabia,22,CX,IAL,SBV,2/20/2022,10:20 AM,9180.9,414,497.66,On Time,B2
+DL8642,Delta Air Lines,John F. Kennedy International,Prochnookopskaya,Russia,8:02 AM,Hartsfield-Jackson Atlanta,Thị Trấn Nước Hai,Vietnam,14,DL,JUH,HRT,1/5/2022,12:54 AM,3429.91,126,431.11,Delayed,A1
+BA1044,British Airways,Heathrow,Kolsko,Poland,6:45 AM,Charles de Gaulle,Ogod,Philippines,18,BA,PVU,HCJ,12/8/2022,2:37 PM,5394.68,381,106.3,On Time,A1
+TG5210,Thai Airways,Suvarnabhumi,Independencia,Mexico,2:58 AM,Beijing Capital International,Chŏngju,North Korea,13,TG,JCY,MEE,2/22/2022,6:03 AM,170.6,465,90.42,On Time,A3
+KE6224,Korean Air,Incheon International,Irkliyevskaya,Russia,12:26 PM,Jomo Kenyatta International,Medenychi,Ukraine,4,KE,TGE,ELV,8/27/2022,1:58 AM,3843.64,97,279.65,On Time,B2
+UA8201,United Airlines,Los Angeles International,Juzhen,China,8:06 AM,San Francisco International,Wąsosz,Poland,22,UA,STS,MGP,3/30/2022,2:57 PM,910.11,172,144.67,Cancelled,A3
+ET6593,Ethiopian Airlines,Bole International,Si Bun Rueang,Thailand,7:54 PM,Changi,Leping,China,23,ET,OSN,CAV,9/4/2022,10:42 AM,517.38,455,338.58,On Time,C3
+SQ6766,Singapore Airlines,Changi,Vale Maceiras,Portugal,12:29 AM,Beijing Capital International,Chojata,Peru,15,SQ,STE,DCA,11/15/2022,5:13 AM,988.47,218,330.02,Delayed,C2
+NH2891,All Nippon Airways,Haneda,Liangyaping,China,6:45 PM,Incheon International,Corupá,Brazil,16,NH,0,DLH,1/14/2022,6:38 PM,2238.99,311,311.88,On Time,C4
+QF4565,Qantas,Sydney Airport,Eha Amufu,Nigeria,8:26 PM,Melbourne Airport,Arue,French Polynesia,8,QF,LSX,MRU,3/1/2022,11:14 AM,1353.79,371,375.12,On Time,C1
+AV5027,Avianca,El Dorado International,Hamberang Sabrang,Indonesia,4:16 PM,O'Hare International,Talldaww,Syria,17,AV,MEE,MWV,11/4/2022,5:52 AM,1710.31,223,168.68,On Time,A2
+KE4411,Korean Air,Incheon International,Skrzyszów,Poland,5:58 AM,Munich Airport,Al Jamālīyah,Egypt,17,KE,WBD,EBD,11/11/2022,2:17 PM,6765.99,484,233.18,On Time,A1
+LH3591,Lufthansa,Frankfurt Airport,Opechenskiy Posad,Russia,3:47 PM,Charles de Gaulle,Hägersten,Sweden,14,LH,DVD,KAL,10/13/2022,6:45 PM,5345.68,81,358.55,On Time,B1
+AV9867,Avianca,El Dorado International,Ōi,Japan,2:00 AM,Miami International,La Purisima,Mexico,2,AV,ASN,IXC,9/21/2022,1:11 AM,181.83,92,295.96,Delayed,A1
+AA1923,American Airlines,John F. Kennedy International,Pancoran,Indonesia,11:38 PM,Hartsfield-Jackson Atlanta,Hoboksar,China,9,AA,HVG,LRJ,11/2/2022,4:09 PM,2066.39,353,435.5,On Time,A1
+KL3341,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Butahai,China,2:31 PM,Adolfo Suárez Madrid–Barajas,Atbasar,Kazakhstan,22,KL,GOI,NDJ,11/13/2022,10:57 PM,8444.62,287,172.33,Cancelled,A2
+NZ4284,Air New Zealand,Auckland Airport,Liufeng,China,1:35 AM,Beijing Capital International,Nanfeng,China,12,NZ,KEP,STP,4/11/2022,8:58 PM,103.41,445,354.12,On Time,C1
+LA7789,LATAM Airlines,São Paulo/Guarulhos International,Blantyre,Malawi,7:04 PM,Ministro Pistarini International,Chimanimani,Zimbabwe,12,LA,BAM,IDO,9/3/2022,7:52 AM,8799.61,396,430.58,Delayed,C2
+CX7552,Cathay Pacific,Hong Kong International,Pingshan,China,4:10 AM,Changi,Malvinas Argentinas,Argentina,12,CX,SIE,CFF,6/28/2022,3:11 PM,442.55,223,439.11,On Time,C4
+QR6945,Qatar Airways,Hamad International,Giemdiem,Vietnam,8:19 PM,Adolfo Suárez Madrid–Barajas,Siedliska,Poland,6,QR,WAC,LMZ,6/10/2022,11:40 PM,801.89,231,474.08,On Time,C1
+QR3056,Qatar Airways,Hamad International,Lucerna,Honduras,1:54 PM,Bole International,Buenos Aires,Honduras,14,QR,SPY,LOK,9/26/2022,1:42 AM,4598.01,248,469.77,Delayed,B1
+LH4905,Lufthansa,Frankfurt Airport,Ketapang,Indonesia,6:13 AM,Munich Airport,Untolovo,Russia,22,LH,TSD,WTS,11/8/2022,3:06 PM,6668.98,113,251.38,Delayed,B1
+TG6855,Thai Airways,Suvarnabhumi,Jarabacoa,Dominican Republic,4:01 AM,Changi,Mangqu,China,15,TG,QOJ,FNR,7/3/2022,3:41 PM,9734.56,83,57.17,On Time,C1
+UA3491,United Airlines,Los Angeles International,Manuel Cavazos Lerma,Mexico,8:28 PM,San Francisco International,Tabwakea Village,Kiribati,17,UA,WME,UAM,12/30/2022,11:28 AM,4124.99,138,164.1,On Time,B2
+AC7423,Air Canada,Toronto Pearson,Mikulovice,Czech Republic,3:06 PM,John F. Kennedy International,Ochojno,Poland,10,AC,FLY,KOV,10/21/2022,4:38 AM,3975.22,457,263.53,Cancelled,B1
+QR5361,Qatar Airways,Hamad International,Kulunda,Russia,12:19 AM,Jomo Kenyatta International,Dongdu,China,6,QR,LVO,MCO,8/24/2022,8:35 PM,6140.33,147,465.93,On Time,C1
+LA4064,LATAM Airlines,São Paulo/Guarulhos International,Cran-Gevrier,France,5:33 AM,Ministro Pistarini International,Saint-Dizier,France,20,LA,SXT,QGQ,9/7/2022,2:08 PM,4909.11,246,294.22,Delayed,B2
+AF1560,Air France,Charles de Gaulle,San Pablo,Costa Rica,3:21 AM,Frankfurt Airport,Yelan’,Russia,13,AF,CJJ,WDH,10/6/2022,8:20 AM,3932.29,348,74.39,Delayed,C4
+WN6726,Southwest Airlines,Los Angeles International,Quinta,Portugal,11:15 AM,San Francisco International,Farmahīn,Iran,15,WN,MCZ,MRD,3/29/2022,6:48 AM,7747.44,394,90.84,Cancelled,A2
+UA4283,United Airlines,Los Angeles International,Gamay,Philippines,10:46 AM,San Francisco International,Yunyang,China,10,UA,OLJ,RNI,4/8/2022,9:22 AM,5835.81,350,215.54,On Time,C3
+IB9753,Iberia,Adolfo Suárez Madrid–Barajas,Manaoag,Philippines,5:07 PM,Heathrow,Chão,Portugal,23,IB,SPQ,YLC,4/13/2022,1:47 PM,851.6,190,315.77,On Time,A1
+NZ5489,Air New Zealand,Auckland Airport,Changping,China,7:21 PM,Sydney Airport,Sosnogorsk,Russia,13,NZ,-,HKD,4/8/2022,1:15 AM,7492.12,492,72.43,On Time,B2
+KE4629,Korean Air,Incheon International,Hŭngnam,North Korea,6:59 AM,Ministro Pistarini International,Kota Ternate,Indonesia,15,KE,BGB,KRI,6/29/2022,1:36 PM,907.3,439,221.92,Cancelled,A2
+AI5999,Air India,Indira Gandhi International,Broby,Finland,10:59 AM,Chhatrapati Shivaji International,Serowe,Botswana,10,AI,RAX,KED,8/19/2022,6:02 AM,8233.69,181,424.09,On Time,B2
+IB4996,Iberia,Adolfo Suárez Madrid–Barajas,Dudchany,Ukraine,1:06 AM,Charles de Gaulle,Mugango,Tanzania,12,IB,NLG,SWQ,12/3/2022,1:37 PM,4212.05,84,248.62,Delayed,A2
+LH4249,Lufthansa,Frankfurt Airport,Sop Pong,Thailand,12:23 AM,Charles de Gaulle,Digah,Azerbaijan,14,LH,SLL,AMC,6/12/2022,11:38 AM,9008.81,435,484.01,On Time,C4
+AM7137,Aeroméxico,Benito Juárez International,Igang,Philippines,12:43 AM,Chhatrapati Shivaji International,Portela,Portugal,3,AM,POW,SGD,8/17/2022,3:15 AM,532.47,474,156.47,On Time,A1
+UA2052,United Airlines,Los Angeles International,Zhangjiahe,China,3:10 PM,San Francisco International,Mnich,Poland,24,UA,TYN,SRY,11/4/2022,1:07 PM,485.87,70,394.68,Cancelled,C1
+EK7739,Emirates,Dubai International,Shuibatang,China,7:30 AM,Hamad International,Tunguang,China,15,EK,OSC,RKP,8/28/2022,4:08 PM,7989.82,115,348.78,Delayed,B1
+CX3529,Cathay Pacific,Hong Kong International,Dzüünharaa,Mongolia,7:43 AM,Changi,Cluain Meala,Ireland,13,CX,YCR,ZWA,6/22/2022,12:53 PM,162.47,392,116.13,On Time,C2
+KL3432,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Vapnyarka,Ukraine,3:57 PM,Beijing Capital International,Frederiksberg,Denmark,9,KL,0,SPQ,8/22/2022,4:07 AM,607.37,213,426.28,On Time,C2
+DL1739,Delta Air Lines,John F. Kennedy International,Villanueva,Colombia,10:05 AM,Hamad International,Posedarje,Croatia,6,DL,CSF,YIE,12/25/2022,12:45 PM,4585.63,321,152.8,On Time,A2
+EK9373,Emirates,Dubai International,Chongjin,North Korea,12:40 AM,Hamad International,Kuching,Malaysia,15,EK,BBM,CLG,7/11/2022,9:00 AM,616.39,77,280.42,On Time,C1
+DL2266,Delta Air Lines,John F. Kennedy International,Padaan,Indonesia,11:41 AM,Hartsfield-Jackson Atlanta,Capissayan Sur,Philippines,3,DL,ZEM,TEL,3/21/2022,3:46 PM,481.6,59,460.18,On Time,B2
+BA6603,British Airways,Heathrow,Op,Indonesia,6:30 PM,Copenhagen Airport,Parral,Chile,18,BA,CTN,YAH,3/19/2022,1:32 PM,323.13,315,64.93,On Time,C2
+QR1805,Qatar Airways,Hamad International,Sanqiao,China,3:34 AM,Bole International,Umeå,Sweden,14,QR,RHT,CCP,4/17/2022,4:26 PM,6372.74,465,337.62,On Time,A1
+QF2814,Qantas,Sydney Airport,Likupang,Indonesia,9:40 PM,Melbourne Airport,Hengdian,China,1,QF,PYV,ONP,2/11/2022,2:06 PM,372.8,416,196.6,On Time,B1
+WN5923,Southwest Airlines,Los Angeles International,Jiangjia,China,6:50 AM,San Francisco International,Tëploye,Russia,9,WN,NTG,AFW,9/22/2022,8:52 PM,9806.85,226,247.34,Cancelled,B1
+AV7364,Avianca,El Dorado International,Guanyinsi,China,5:15 PM,Hartsfield-Jackson Atlanta,Staromyshastovskaya,Russia,10,AV,NVN,UCZ,7/2/2022,3:47 PM,3936.08,362,171.1,On Time,C1
+AZ3705,Alitalia,Leonardo da Vinci International,Ketian,China,12:38 PM,Charles de Gaulle,Novokayakent,Russia,15,AZ,SJP,CJB,9/30/2022,2:20 PM,2388.07,57,242.1,Cancelled,C2
+QR4473,Qatar Airways,Hamad International,Zaytā,Palestinian Territory,7:48 AM,Bole International,Datagon,Philippines,15,QR,RTL,TEK,2/26/2022,2:48 AM,7815.97,237,110.97,On Time,C1
+QF6069,Qantas,Sydney Airport,Lëbushë,Kosovo,11:47 PM,Melbourne Airport,Kota Bharu,Malaysia,2,QF,CSA,URR,12/28/2022,3:39 PM,8448.77,448,348.36,On Time,C1
+NZ9937,Air New Zealand,Auckland Airport,Gaoyao,China,12:05 PM,Vancouver International,Chupa,Russia,23,NZ,DBC,LAH,3/2/2022,5:27 PM,6473.83,493,276.5,On Time,A3
+NH6266,All Nippon Airways,Haneda,Međa,Serbia,6:02 PM,Sydney Airport,Hexia,China,24,NH,PHN,JIL,4/28/2022,1:39 PM,7913.58,327,422.34,On Time,A1
+QR9291,Qatar Airways,Hamad International,San Jose,United States,8:36 PM,Charles de Gaulle,Gala,Portugal,5,QR,PAP,BBQ,11/23/2022,7:04 AM,3510.51,394,354.94,On Time,B1
+KL6164,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Fenghuangshan,China,6:14 PM,Charles de Gaulle,Neuville,Canada,12,KL,MET,NZC,6/11/2022,7:26 AM,993.52,364,379.87,Delayed,B2
+BA2542,British Airways,Heathrow,Liuche,China,9:01 AM,Charles de Gaulle,Galle,Sri Lanka,7,BA,HAV,POB,7/12/2022,2:39 PM,9220.88,94,160.56,On Time,C4
+EK9670,Emirates,Dubai International,Dukuhturi,Indonesia,8:56 PM,Los Angeles International,Pingshui,China,9,EK,PVA,GGW,1/2/2022,11:10 AM,7637.05,116,91.47,On Time,C1
+LH3929,Lufthansa,Frankfurt Airport,Yuecheng,China,5:23 PM,Munich Airport,Miaoqian,China,16,LH,ROV,NAM,2/27/2022,5:23 AM,6264.09,431,193.0,Delayed,B1
+TG5430,Thai Airways,Suvarnabhumi,El Rosario,Nicaragua,8:05 AM,Charles de Gaulle,Baisha,China,24,TG,HTR,YNE,4/3/2022,6:29 PM,2957.09,143,216.14,On Time,A1
+AV3789,Avianca,El Dorado International,Bondokodi,Indonesia,10:41 PM,O'Hare International,Yushu,China,1,AV,OBD,ONI,7/22/2022,8:06 AM,3834.97,159,289.88,On Time,A3
+QR9095,Qatar Airways,Hamad International,Trollhättan,Sweden,12:30 PM,Charles de Gaulle,Tabor,Slovenia,16,QR,VIR,FKQ,3/14/2022,5:34 PM,6876.69,83,442.78,On Time,C3
+SQ9772,Singapore Airlines,Changi,Lucun,China,1:47 AM,Munich Airport,Auray,France,16,SQ,HLZ,UPR,9/18/2022,10:09 PM,8249.56,183,414.73,On Time,C2
+UA2884,United Airlines,Los Angeles International,Wschowa,Poland,11:25 AM,Seattle-Tacoma International,Mesa,United States,23,UA,WDN,BCP,6/9/2022,7:05 PM,8560.11,413,469.96,On Time,C4
+AI4444,Air India,Indira Gandhi International,Baitu,China,3:03 AM,Chhatrapati Shivaji International,Itapaci,Brazil,7,AI,MRB,YHF,6/16/2022,7:22 AM,3447.55,391,352.19,Delayed,C2
+BA9018,British Airways,Heathrow,Picos,Brazil,1:35 PM,Charles de Gaulle,El Dividive,Venezuela,12,BA,DCI,JIL,9/28/2022,3:59 AM,3634.6,452,57.68,Delayed,A1
+SQ5593,Singapore Airlines,Changi,Kantemirovka,Russia,9:42 PM,Hamad International,Yong’an,China,6,SQ,AKE,ULK,1/23/2022,2:52 AM,1463.86,65,129.72,On Time,C1
+AI5732,Air India,Indira Gandhi International,Ourovéni,Comoros,7:12 AM,Chhatrapati Shivaji International,Setro,Indonesia,5,AI,CEF,OGE,1/20/2022,4:21 PM,9624.7,215,278.34,On Time,B2
+AV6446,Avianca,El Dorado International,La Palma,Mexico,11:41 AM,O'Hare International,Makrýgialos,Greece,3,AV,DJJ,XMS,8/3/2022,5:38 AM,4070.06,307,226.21,On Time,C3
+LA6180,LATAM Airlines,São Paulo/Guarulhos International,Housuo,China,10:17 AM,Kuala Lumpur International,Kapotnya,Russia,6,LA,QBC,BVA,1/13/2022,3:37 AM,4338.48,142,162.5,On Time,A3
+BA8519,British Airways,Heathrow,Cibitung,Indonesia,10:18 PM,Chhatrapati Shivaji International,Taishihe,China,9,BA,CLN,YIE,3/10/2022,4:47 PM,1024.0,316,217.18,On Time,A1
+SQ1881,Singapore Airlines,Changi,Kavallári,Greece,12:44 AM,Beijing Capital International,Melissochóri,Greece,23,SQ,ESP,STZ,4/12/2022,10:15 AM,9447.97,188,276.68,On Time,C3
+SQ8152,Singapore Airlines,Changi,Anshun,China,11:54 PM,Beijing Capital International,Quillo,Peru,11,SQ,MUJ,CZL,6/24/2022,6:22 AM,2865.94,144,205.51,On Time,A3
+AC8533,Air Canada,Toronto Pearson,Sandia,Peru,2:27 AM,El Dorado International,Nancheng,China,1,AC,MID,BXV,7/6/2022,10:28 PM,4007.62,491,280.63,Cancelled,C4
+IB2730,Iberia,Adolfo Suárez Madrid–Barajas,Bulacan,Philippines,7:36 AM,Hamad International,Longgang,China,11,IB,ULG,YTG,1/2/2022,1:43 AM,866.94,277,415.21,On Time,B2
+LH2851,Lufthansa,Frankfurt Airport,Pule,Indonesia,9:25 AM,Charles de Gaulle,Piritiba,Brazil,14,LH,BKL,TBF,9/20/2022,10:01 PM,7927.75,433,121.54,Delayed,A1
+DL8854,Delta Air Lines,John F. Kennedy International,Sabirabad,Azerbaijan,4:13 PM,Miami International,Huayang,China,3,DL,ONL,YHF,7/24/2022,12:38 PM,1532.15,131,414.93,Cancelled,C1
+ET5759,Ethiopian Airlines,Bole International,Estacion,Philippines,9:15 PM,Munich Airport,Wola Rębkowska,Poland,9,ET,MTK,SSU,10/9/2022,2:24 AM,705.59,379,108.07,On Time,C2
+AF1326,Air France,Charles de Gaulle,Xialu,China,12:08 PM,Arturo Merino Benítez International,Venlo,Netherlands,13,AF,0,TAX,8/11/2022,2:41 PM,5437.28,151,391.63,Delayed,C2
+AM3262,Aeroméxico,Benito Juárez International,Pameungpeuk,Indonesia,12:49 AM,Dallas/Fort Worth International,Sidenreng,Indonesia,1,AM,HIM,MBP,12/11/2022,10:17 AM,2037.2,167,60.97,On Time,A1
+NH7962,All Nippon Airways,Haneda,La Cruz,Mexico,6:04 PM,Hong Kong International,Šardice,Czech Republic,19,NH,ESD,QPG,9/30/2022,8:13 AM,3231.67,467,254.83,On Time,B1
+SQ6000,Singapore Airlines,Changi,Margos,Philippines,11:15 AM,Beijing Capital International,Yamaranguila,Honduras,14,SQ,IKK,TGD,5/3/2022,12:48 PM,2699.76,499,214.9,On Time,A2
+AM2018,Aeroméxico,Benito Juárez International,Lexington,United States,8:01 AM,O'Hare International,Gornje Živinice,Bosnia and Herzegovina,18,AM,NRY,CSV,6/8/2022,7:25 AM,1995.66,68,402.56,On Time,A1
+AZ1863,Alitalia,Leonardo da Vinci International,Orlando,United States,5:51 PM,Frankfurt Airport,Gobō,Japan,15,AZ,BMK,ELE,3/8/2022,12:47 AM,4144.43,288,322.99,On Time,C4
+SQ3494,Singapore Airlines,Changi,Dioknisi,Georgia,12:55 AM,Beijing Capital International,Andamui,Indonesia,12,SQ,RNN,MHQ,10/5/2022,11:04 PM,4824.17,351,300.72,Delayed,C1
+AM5106,Aeroméxico,Benito Juárez International,Khirbat Tīn Nūr,Syria,4:55 PM,O'Hare International,Pilaya,Bolivia,7,AM,LWE,0,5/19/2022,12:58 AM,9958.74,69,103.34,Delayed,C2
+AI6535,Air India,Indira Gandhi International,Slavyanovo,Bulgaria,5:57 AM,Chhatrapati Shivaji International,Cravinhos,Brazil,13,AI,YGB,BLU,2/11/2022,8:25 AM,1878.08,422,89.0,On Time,C2
+DL9212,Delta Air Lines,John F. Kennedy International,Mabini,Philippines,2:01 AM,Hartsfield-Jackson Atlanta,Yucheng,China,21,DL,YNG,VBP,2/15/2022,1:49 PM,1920.48,126,100.64,On Time,A2
+LH5458,Lufthansa,Frankfurt Airport,Nelahozeves,Czech Republic,5:00 PM,Charles de Gaulle,Guadalupe,Mexico,8,LH,KAQ,SMZ,8/9/2022,11:19 AM,7046.78,189,260.69,On Time,A1
+IB7853,Iberia,Adolfo Suárez Madrid–Barajas,Buri,Brazil,12:50 PM,Charles de Gaulle,Huohua,China,3,IB,BAL,XLO,9/23/2022,3:05 AM,1958.84,444,360.27,On Time,C4
+SQ4035,Singapore Airlines,Changi,Vukovar,Croatia,10:51 AM,Beijing Capital International,Manosque,France,6,SQ,TOZ,GID,10/11/2022,9:38 PM,3842.65,148,54.8,On Time,C1
+SA5492,South African Airways,O.R. Tambo International,Narew,Poland,9:59 PM,Bole International,Haolin,China,23,SA,PGX,KNX,12/9/2022,8:26 PM,7962.9,128,397.95,On Time,B2
+LA6794,LATAM Airlines,São Paulo/Guarulhos International,Nacka,Sweden,1:44 AM,Ministro Pistarini International,Omiš,Croatia,19,LA,BRD,GLZ,9/26/2022,10:21 PM,9355.91,367,128.09,On Time,C1
+AV2250,Avianca,El Dorado International,Buqei‘a,Israel,8:49 AM,Hartsfield-Jackson Atlanta,Baiqi,China,18,AV,MKR,REY,10/5/2022,6:04 AM,9843.43,263,358.26,On Time,C1
+ET6157,Ethiopian Airlines,Bole International,Charleston,United States,3:21 PM,Hamad International,Junshan,China,2,ET,MXS,LZN,7/18/2022,7:50 PM,1707.27,291,338.35,On Time,A2
+AM3107,Aeroméxico,Benito Juárez International,Caparrapí,Colombia,1:55 PM,O'Hare International,Šumice,Czech Republic,21,AM,HBK,BYF,6/4/2022,6:30 PM,1404.55,336,345.17,On Time,B1
+AA6702,American Airlines,John F. Kennedy International,Engure,Latvia,10:00 AM,Hartsfield-Jackson Atlanta,Carrasqueira,Portugal,21,AA,VKT,PHN,4/16/2022,9:02 AM,1034.51,350,266.21,On Time,C1
+SK2136,SAS Scandinavian,Copenhagen Airport,Kolno,Poland,4:35 PM,Charles de Gaulle,Golacir,Indonesia,18,SK,IBZ,RSB,11/26/2022,12:46 PM,5150.38,73,426.71,On Time,C3
+AI6039,Air India,Indira Gandhi International,Titiakar,Indonesia,1:19 PM,Kuala Lumpur International,Bang Rakam,Thailand,19,AI,YYT,BPG,3/3/2022,10:56 PM,2833.57,165,290.07,On Time,C1
+QR1607,Qatar Airways,Hamad International,Qacha’s Nek,Lesotho,10:09 AM,Bole International,Tiko,Cameroon,17,QR,PPQ,ZTS,11/3/2022,8:34 PM,4500.5,316,440.33,On Time,C2
+AZ3705,Alitalia,Leonardo da Vinci International,Bulan,Philippines,9:53 AM,Charles de Gaulle,Kitchener,Canada,12,AZ,NDN,FUE,10/9/2022,7:16 AM,7923.81,184,105.29,Delayed,C3
+SK4886,SAS Scandinavian,Copenhagen Airport,Placer,Philippines,3:13 AM,Charles de Gaulle,Steinkjer,Norway,11,SK,NKM,YAQ,11/15/2022,5:20 PM,5292.31,435,52.66,Delayed,C4
+LA1925,LATAM Airlines,São Paulo/Guarulhos International,Itabaianinha,Brazil,9:07 PM,Toronto Pearson,Athens,Greece,14,LA,TMH,MYJ,9/19/2022,12:00 PM,7419.46,208,141.86,On Time,C4
+LH4742,Lufthansa,Frankfurt Airport,Xinxu,China,5:19 PM,Charles de Gaulle,Fenghuanglu,China,21,LH,LED,ITN,12/24/2022,7:02 PM,5262.65,199,187.29,On Time,A2
+DL7030,Delta Air Lines,John F. Kennedy International,Stare Miasto,Poland,1:55 PM,Hartsfield-Jackson Atlanta,Fengyang,China,22,DL,GSM,OBN,6/19/2022,1:07 PM,2048.68,362,342.21,On Time,A1
+BA7041,British Airways,Heathrow,Lokosovo,Russia,5:02 PM,Charles de Gaulle,Koror Town,Palau,1,BA,LCV,SZR,12/6/2022,11:22 AM,9378.55,494,293.34,On Time,C3
+AZ3705,Alitalia,Leonardo da Vinci International,Brampton,Canada,9:17 PM,Charles de Gaulle,Balayong,Philippines,17,AZ,NCR,0,7/1/2022,3:40 PM,3092.63,221,260.17,Delayed,B2
+LA2548,LATAM Airlines,São Paulo/Guarulhos International,Zabrat,Azerbaijan,8:01 AM,Ministro Pistarini International,Teruel,Spain,23,LA,UIL,BMQ,4/23/2022,12:14 AM,4890.29,318,157.67,Cancelled,B2
+SA8722,South African Airways,O.R. Tambo International,Togitsu,Japan,3:04 PM,Charles de Gaulle,Jianli,China,12,SA,WHK,GUV,1/12/2022,8:05 PM,9963.96,462,299.7,On Time,C4
+AF3446,Air France,Charles de Gaulle,Valinhos,Brazil,5:17 PM,Adolfo Suárez Madrid–Barajas,Guiwu,China,3,AF,GPA,RZS,1/14/2022,8:20 PM,1702.41,278,106.22,On Time,C4
+WN9133,Southwest Airlines,Los Angeles International,Thị Trấn Than Uyên,Vietnam,6:09 PM,San Francisco International,Jun’an,China,23,WN,ABW,ENE,2/23/2022,5:05 PM,7515.45,350,156.26,On Time,B2
+AZ9379,Alitalia,Leonardo da Vinci International,Pedro Juan Caballero,Paraguay,4:33 PM,Charles de Gaulle,Achoma,Peru,8,AZ,PSR,SZS,3/19/2022,4:29 AM,8051.15,290,298.22,On Time,C2
+KE5573,Korean Air,Incheon International,Campinas,Brazil,10:35 AM,Haneda,Cañete,Chile,1,KE,RCT,JUV,7/9/2022,5:55 PM,7079.19,179,458.93,On Time,A2
+KE1824,Korean Air,Incheon International,Douarnenez,France,1:57 PM,Beijing Capital International,Áno Kopanákion,Greece,18,KE,RJL,OPO,8/1/2022,7:37 AM,1121.11,387,93.28,Delayed,A3
+AV4872,Avianca,El Dorado International,Gračec,Croatia,1:50 AM,O'Hare International,Haridimun,Indonesia,20,AV,KBV,DWO,1/2/2022,5:43 PM,8126.14,253,74.66,On Time,A2
+AF1252,Air France,Charles de Gaulle,Spokoynaya,Russia,5:00 AM,Amsterdam Airport Schiphol,Tukhlya,Ukraine,22,AF,IGM,BGU,4/30/2022,4:35 PM,7659.03,439,347.24,Delayed,A3
+AV7927,Avianca,El Dorado International,Palos,Tajikistan,9:55 AM,O'Hare International,Postupice,Czech Republic,16,AV,SIN,TLN,11/28/2022,9:29 AM,6520.51,394,131.83,Delayed,B2
+TG9224,Thai Airways,Suvarnabhumi,Shambu,Ethiopia,7:09 PM,Changi,Silab,Philippines,2,TG,SDE,NEC,5/26/2022,1:32 AM,8280.19,154,359.88,On Time,A1
+AC8774,Air Canada,Toronto Pearson,Jawor,Poland,4:29 AM,O'Hare International,Sendang,Indonesia,5,AC,TOA,PBO,7/4/2022,2:54 AM,162.57,284,257.2,On Time,A1
+EK7739,Emirates,Dubai International,Al Majd,Palestinian Territory,2:59 AM,Hamad International,Banaran,Indonesia,11,EK,SDT,VRE,3/27/2022,9:03 AM,3987.79,193,203.04,Delayed,C2
+BA9697,British Airways,Heathrow,Pinheiro Machado,Brazil,8:14 PM,Frankfurt Airport,Tracal,Indonesia,21,BA,LZU,WMK,10/11/2022,9:59 PM,2102.83,56,66.96,On Time,C4
+AM4035,Aeroméxico,Benito Juárez International,Reconquista,Argentina,2:38 PM,O'Hare International,Oliveira de Frades,Portugal,7,AM,EUX,GUB,5/24/2022,8:05 AM,146.04,301,459.13,Cancelled,C3
+TG5067,Thai Airways,Suvarnabhumi,Solna,Sweden,6:45 AM,Changi,Raniżów,Poland,12,TG,ISO,USK,2/17/2022,5:23 PM,5662.95,278,436.28,On Time,A1
+KE4715,Korean Air,Incheon International,Dubá,Czech Republic,11:44 PM,Haneda,Tanxi,China,22,KE,CBD,HMO,7/2/2022,9:37 AM,385.06,226,311.93,Cancelled,A1
+AC9760,Air Canada,Toronto Pearson,Gorodets,Russia,5:20 AM,John F. Kennedy International,Dumbéa,New Caledonia,6,AC,KAV,CBB,3/27/2022,8:54 AM,5722.05,198,150.04,On Time,C4
+QF7218,Qantas,Sydney Airport,Pukkila,Finland,10:07 AM,Melbourne Airport,Moriki,Nigeria,21,QF,STQ,RBV,1/8/2022,1:54 AM,6527.59,258,170.64,On Time,A1
+AA1385,American Airlines,John F. Kennedy International,Bendo,Indonesia,5:56 AM,Hartsfield-Jackson Atlanta,Sanpai,China,9,AA,TPQ,BUM,1/24/2022,5:18 PM,9688.92,82,199.61,On Time,A1
+TG5265,Thai Airways,Suvarnabhumi,Coronel,Chile,7:07 PM,Changi,Suruhan,Indonesia,5,TG,UKX,VHV,10/3/2022,3:31 PM,1043.69,189,125.16,Cancelled,C4
+TG1711,Thai Airways,Suvarnabhumi,Cavalões,Portugal,12:01 AM,Incheon International,Achada,Portugal,19,TG,VAI,RAC,2/1/2022,8:11 AM,2151.66,476,366.77,Delayed,B2
+EK1649,Emirates,Dubai International,Jacareí,Brazil,11:47 PM,Hamad International,Dardhas,Albania,6,EK,COY,AVI,2/10/2022,7:19 PM,7768.34,206,421.65,Cancelled,B2
+SK2193,SAS Scandinavian,Copenhagen Airport,Verkhnyaya Tura,Russia,12:23 AM,Charles de Gaulle,Daşoguz,Turkmenistan,11,SK,BOO,POO,9/19/2022,12:05 AM,6499.97,363,193.35,On Time,C1
+AM2515,Aeroméxico,Benito Juárez International,Kalbugan,Philippines,9:13 AM,Adolfo Suárez Madrid–Barajas,Santo Adrião Vizela,Portugal,21,AM,DJO,HPB,1/11/2022,9:47 PM,788.62,244,424.51,Delayed,B1
+BA6160,British Airways,Heathrow,Chengzhong,China,1:24 PM,Charles de Gaulle,Xinchong,China,3,BA,GET,NCT,7/11/2022,2:39 AM,4879.2,150,276.53,On Time,C1
+AA3272,American Airlines,John F. Kennedy International,Stockholm,Sweden,7:28 PM,Hartsfield-Jackson Atlanta,Burgas,Bulgaria,23,AA,SBG,PHT,10/4/2022,9:25 AM,5795.11,129,278.99,Delayed,B1
+AI1923,Air India,Indira Gandhi International,Ivot,Russia,8:57 PM,Chhatrapati Shivaji International,Cabean,Indonesia,9,AI,THY,MYZ,4/21/2022,6:40 PM,476.54,264,268.23,On Time,C2
+NZ9063,Air New Zealand,Auckland Airport,Vincennes,France,4:37 PM,Sydney Airport,Brak,Indonesia,22,NZ,IGE,BGL,5/22/2022,7:14 PM,2573.24,93,75.57,On Time,C2
+KL8773,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Hultsfred,Sweden,7:30 AM,Charles de Gaulle,Ciodeng,Indonesia,10,KL,LUM,SOA,10/7/2022,1:20 PM,5986.78,363,273.06,Delayed,B1
+SK8474,SAS Scandinavian,Copenhagen Airport,Zhukovskiy,Russia,3:16 PM,Charles de Gaulle,Malya,Tanzania,13,SK,DBB,SCR,9/4/2022,3:16 PM,1296.83,488,330.54,Delayed,C4
+QF2553,Qantas,Sydney Airport,Etinan,Nigeria,10:47 AM,El Dorado International,Lolayan,Indonesia,7,QF,OTS,SRO,9/23/2022,1:52 PM,5494.82,95,196.07,Cancelled,B1
+SA9869,South African Airways,O.R. Tambo International,Kuantan,Malaysia,3:23 AM,Charles de Gaulle,Sulaco,Honduras,12,SA,PTT,KUA,12/28/2022,8:00 PM,646.96,113,69.63,On Time,C4
+LH1888,Lufthansa,Frankfurt Airport,Jawa,Indonesia,6:34 PM,Charles de Gaulle,Lumbang,Philippines,16,LH,ZYL,SMM,2/16/2022,4:03 AM,5307.84,183,364.31,On Time,A1
+LA6997,LATAM Airlines,São Paulo/Guarulhos International,Arbais,Indonesia,5:27 PM,Ministro Pistarini International,Wensu,China,23,LA,CRZ,GYN,8/8/2022,2:00 PM,1504.08,321,464.59,Delayed,C3
+AV8487,Avianca,El Dorado International,Krojo,Indonesia,7:00 AM,O'Hare International,Mezinovskiy,Russia,3,AV,SHU,BMP,5/30/2022,9:58 AM,9711.42,189,448.19,Delayed,C1
+AV3547,Avianca,El Dorado International,Pukkila,Finland,1:24 AM,Copenhagen Airport,Vegachí,Colombia,2,AV,AKO,AUZ,9/6/2022,11:18 AM,3782.48,467,382.47,Cancelled,C3
+AZ7278,Alitalia,Leonardo da Vinci International,Kasingan,Indonesia,5:26 AM,Charles de Gaulle,Bariri,Brazil,19,AZ,PWM,GLT,6/23/2022,12:05 AM,1175.05,270,342.96,On Time,A2
+AC3652,Air Canada,Toronto Pearson,Campos Gerais,Brazil,6:32 AM,Miami International,Baun,Indonesia,15,AC,UKG,CSQ,1/16/2022,6:04 PM,1789.14,412,123.61,Delayed,C4
+LA3180,LATAM Airlines,São Paulo/Guarulhos International,Xue’an,China,7:26 PM,Kuala Lumpur International,Ilhabela,Brazil,5,LA,DAX,AAF,9/7/2022,7:55 PM,1315.25,385,370.22,On Time,B2
+AM7841,Aeroméxico,Benito Juárez International,Ourense,Spain,9:00 AM,O'Hare International,Liaozhong,China,19,AM,ISB,MRS,2/14/2022,2:50 PM,8906.76,362,192.89,Delayed,C3
+SK4657,SAS Scandinavian,Copenhagen Airport,Cipasung,Indonesia,12:35 PM,Charles de Gaulle,Detroit,United States,5,SK,SCV,ULX,3/9/2022,12:21 PM,4399.18,387,348.09,Cancelled,A1
+AZ3133,Alitalia,Leonardo da Vinci International,Little Baguio,Philippines,4:21 AM,Charles de Gaulle,Castelo,Portugal,19,AZ,KBZ,PAS,7/19/2022,4:20 AM,649.49,393,462.02,On Time,A2
+AC9050,Air Canada,Toronto Pearson,Suraż,Poland,1:03 AM,John F. Kennedy International,Coxim,Brazil,13,AC,KDR,YPC,9/27/2022,9:58 PM,7606.69,453,481.84,On Time,B1
+LH4196,Lufthansa,Frankfurt Airport,Kisela Voda,Macedonia,3:28 AM,Ministro Pistarini International,Józefosław,Poland,16,LH,KTE,MHY,1/7/2022,1:05 PM,1703.64,342,120.34,Delayed,A1
+EK1409,Emirates,Dubai International,Lille,France,9:37 AM,Bole International,Hispania,Colombia,13,EK,OOR,ADV,10/2/2022,3:24 PM,9231.18,480,286.45,Delayed,C1
+UA3441,United Airlines,Los Angeles International,Cimanggu,Indonesia,2:34 PM,San Francisco International,Hyesan-si,North Korea,11,UA,DCK,POL,1/22/2022,9:46 AM,8148.58,133,98.28,Delayed,B1
+EK6770,Emirates,Dubai International,Kasongo,Democratic Republic of the Congo,6:15 PM,Hamad International,Le Lamentin,Martinique,9,EK,JFR,OCH,8/8/2022,1:00 PM,3375.88,387,83.25,On Time,C4
+WN2783,Southwest Airlines,Los Angeles International,Tamorong,Philippines,5:37 PM,San Francisco International,Honghe,China,13,WN,WVB,NEV,1/9/2022,12:02 PM,4114.56,232,342.24,Delayed,A3
+IB6663,Iberia,Adolfo Suárez Madrid–Barajas,Zykovo,Russia,2:31 PM,Hamad International,Dingle,Philippines,7,IB,PSZ,REC,12/24/2022,3:09 PM,8956.28,269,182.58,On Time,C4
+EK3102,Emirates,Dubai International,Krajan,Indonesia,4:20 PM,Hamad International,Três Coroas,Brazil,3,EK,ONT,STQ,5/28/2022,9:36 PM,6644.08,252,384.49,Cancelled,C1
+SA4050,South African Airways,O.R. Tambo International,Nürnberg,Germany,5:01 PM,Charles de Gaulle,Fengshuling,China,21,SA,BEQ,AOR,3/15/2022,9:36 AM,4484.91,454,226.53,Cancelled,A2
+CX7552,Cathay Pacific,Hong Kong International,Musan-ŭp,North Korea,11:16 AM,Changi,Trá Mhór,Ireland,15,CX,RBO,WDI,10/22/2022,10:16 PM,5551.92,53,424.24,On Time,C3
+AI3656,Air India,Indira Gandhi International,Rio Preto da Eva,Brazil,12:51 PM,Chhatrapati Shivaji International,Viale,Argentina,10,AI,BDP,KBL,11/2/2022,10:01 PM,9508.15,277,355.93,On Time,B2
+UA7495,United Airlines,Los Angeles International,Haliut,China,6:51 PM,San Francisco International,Hongqi,China,24,UA,CWA,ULP,7/13/2022,12:58 PM,4932.51,397,261.89,On Time,A1
+AZ1957,Alitalia,Leonardo da Vinci International,Naivasha,Kenya,12:58 PM,Charles de Gaulle,Serra de Santa Marinha,Portugal,6,AZ,CZW,CDA,5/29/2022,12:32 AM,2756.19,226,259.3,On Time,B2
+TG4778,Thai Airways,Suvarnabhumi,Khairpur Nathan Shāh,Pakistan,4:32 PM,Changi,Dasiping,China,11,TG,PTB,BDE,12/6/2022,12:52 PM,651.75,175,151.78,On Time,C3
+QR1777,Qatar Airways,Hamad International,Fatumuti,Indonesia,4:08 AM,Zurich Airport,Cikondang,Indonesia,23,QR,OTI,MHO,12/1/2022,2:55 PM,833.21,291,266.82,On Time,B1
+SQ1881,Singapore Airlines,Changi,Ponta da Garça,Portugal,3:55 PM,Beijing Capital International,Lembur Tengah,Indonesia,2,SQ,AQJ,FMI,2/12/2022,9:45 PM,3676.37,248,133.42,Delayed,A3
+NH1314,All Nippon Airways,Haneda,Aş Şafaqayn,Yemen,10:59 PM,Incheon International,Guanyao,China,7,NH,KDX,KQA,10/5/2022,12:08 AM,9965.75,77,426.54,On Time,C2
+SK4970,SAS Scandinavian,Copenhagen Airport,Doblas,Argentina,6:35 PM,Charles de Gaulle,Alfenas,Brazil,13,SK,OES,NDE,2/3/2022,3:17 AM,1038.0,464,499.86,On Time,B1
+AV7378,Avianca,El Dorado International,Thap Than,Thailand,6:29 PM,O.R. Tambo International,Laocheng,China,20,AV,NHS,CDC,12/19/2022,2:33 PM,860.35,209,422.83,Cancelled,A1
+CX4991,Cathay Pacific,Hong Kong International,Chiba,Japan,11:49 AM,Changi,Lago,Sierra Leone,12,CX,OWK,UMY,7/1/2022,12:42 PM,9583.97,466,432.09,Delayed,C1
+AA3791,American Airlines,John F. Kennedy International,El Paso,United States,12:31 PM,O'Hare International,Paulo Afonso,Brazil,2,AA,DBT,BWD,9/27/2022,3:52 AM,3676.51,291,152.81,On Time,C3
+NZ1560,Air New Zealand,Auckland Airport,Bairro,Portugal,12:50 AM,Sydney Airport,Ambovombe,Madagascar,17,NZ,CRL,BLN,4/9/2022,5:29 AM,6465.58,251,313.11,On Time,C4
+NZ1569,Air New Zealand,Auckland Airport,Mokolo,Cameroon,1:24 AM,Sydney Airport,Rupe,Indonesia,24,NZ,TRK,TMG,10/23/2022,6:01 AM,5545.33,360,134.65,On Time,C1
+CX3481,Cathay Pacific,Hong Kong International,Buga,Colombia,10:35 PM,Dubai International,Xing’an,China,17,CX,PHC,ZQL,11/30/2022,1:18 PM,6209.87,347,236.27,On Time,C3
+KL3748,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Krajan Siki,Indonesia,9:35 PM,San Francisco International,Jiefu,China,4,KL,ILX,LUS,2/6/2022,4:56 AM,7359.47,477,312.98,On Time,A1
+UA1033,United Airlines,Los Angeles International,San Sebastian,Mexico,1:19 AM,San Francisco International,Atipuluhan,Philippines,1,UA,TKP,SYC,9/1/2022,3:51 PM,4430.63,451,67.63,Delayed,C2
+LH4128,Lufthansa,Frankfurt Airport,Mirocin,Poland,12:38 PM,Charles de Gaulle,Atalaia,Portugal,11,LH,NJF,UGB,4/14/2022,9:29 AM,2052.2,302,65.52,On Time,C2
+KL5155,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Casa Nova,Portugal,6:28 AM,Charles de Gaulle,Makurazaki,Japan,11,KL,YPI,NTA,8/23/2022,11:37 PM,5464.52,221,93.71,On Time,A1
+QR8726,Qatar Airways,Hamad International,Eling,China,3:25 PM,O.R. Tambo International,Plátanos,Greece,1,QR,CVC,HCR,9/19/2022,12:51 PM,5132.76,411,225.36,On Time,C3
+KE6093,Korean Air,Incheon International,Weizheng,China,7:40 PM,Zurich Airport,Domašinec,Croatia,6,KE,PVZ,YAX,10/14/2022,5:15 AM,4283.65,462,374.75,On Time,C2
+CX1836,Cathay Pacific,Hong Kong International,Casa Nova,Portugal,10:08 PM,Changi,Shitong,China,23,CX,LKC,GLV,2/24/2022,6:50 PM,1261.68,425,286.65,Cancelled,C4
+TG1711,Thai Airways,Suvarnabhumi,Wińsko,Poland,11:08 PM,Incheon International,Pundong,Indonesia,6,TG,NOJ,AUV,8/26/2022,2:25 PM,8794.66,228,401.85,Cancelled,C1
+TG3079,Thai Airways,Suvarnabhumi,Burgersfort,South Africa,5:36 PM,Hong Kong International,Mīr Bachah Kōṯ,Afghanistan,4,TG,ZQW,DXE,12/18/2022,2:38 AM,1654.35,84,76.92,On Time,B1
+SK9753,SAS Scandinavian,Copenhagen Airport,Marfino,Russia,2:58 AM,Vancouver International,Kuala Lumpur,Malaysia,3,SK,GPB,UIL,2/6/2022,11:33 PM,4252.94,468,326.19,Cancelled,C1
+KE5983,Korean Air,Incheon International,Vasil’yevskiy Mokh,Russia,1:37 PM,Haneda,Ticrapo,Peru,24,KE,DYU,KSC,12/9/2022,1:44 AM,4626.52,252,112.26,On Time,A2
+LA9236,LATAM Airlines,São Paulo/Guarulhos International,Krajanbonjor,Indonesia,12:41 PM,Logan International,Pingqiao,China,23,LA,ERZ,RKI,10/27/2022,3:39 PM,6057.45,240,432.4,On Time,A1
+KL9278,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Dainan,China,2:31 AM,Charles de Gaulle,Sunne,Sweden,9,KL,YQT,XVL,4/6/2022,6:16 AM,4709.96,221,234.25,On Time,C2
+SK9524,SAS Scandinavian,Copenhagen Airport,Pasadena,United States,11:15 AM,Charles de Gaulle,Launceston,Australia,15,SK,SHE,AAJ,1/25/2022,4:41 PM,9121.56,50,100.21,Delayed,A3
+CX6613,Cathay Pacific,Hong Kong International,Palmdale,United States,3:27 AM,Changi,Kebon,Indonesia,8,CX,BKN,THK,10/4/2022,8:01 PM,1687.62,314,488.31,On Time,C4
+ET2047,Ethiopian Airlines,Bole International,Chãos,Portugal,2:00 PM,Hamad International,Loma Bonita,Mexico,3,ET,YRR,LXU,9/23/2022,4:03 AM,5896.58,392,263.87,Delayed,C3
+TG4328,Thai Airways,Suvarnabhumi,Igaraçu do Tietê,Brazil,12:23 PM,Changi,Krajan,Indonesia,13,TG,TEI,QCJ,5/2/2022,12:08 AM,522.05,246,228.85,On Time,C2
+QR5811,Qatar Airways,Hamad International,Fusagasuga,Colombia,1:27 AM,Bole International,Skeldon,Guyana,18,QR,THY,TMA,9/9/2022,9:56 AM,2167.13,73,68.25,Delayed,C2
+AF1560,Air France,Charles de Gaulle,Fray Bentos,Uruguay,8:44 AM,Frankfurt Airport,Sheshan,China,10,AF,TIC,UKN,5/31/2022,8:06 PM,1216.36,238,416.1,Delayed,C1
+SK1308,SAS Scandinavian,Copenhagen Airport,Barguzin,Russia,6:07 AM,Charles de Gaulle,Nansheng,China,2,SK,WTN,CIV,5/28/2022,1:04 PM,7250.11,349,275.36,On Time,B1
+AZ4087,Alitalia,Leonardo da Vinci International,Oslo,Norway,5:21 PM,Charles de Gaulle,Khāngāh Dogrān,Pakistan,24,AZ,GSB,IXN,5/11/2022,10:55 AM,4461.02,68,203.59,On Time,C1
+EK3787,Emirates,Dubai International,Ji’an,China,9:58 AM,Hamad International,Uspenskoye,Russia,17,EK,SMK,YKL,11/21/2022,3:44 AM,9310.23,111,320.56,Delayed,C4
+QR5930,Qatar Airways,Hamad International,Lypnyazhka,Ukraine,3:26 AM,Bole International,Syzran’,Russia,12,QR,LUB,CPD,5/30/2022,9:04 PM,5595.76,496,90.46,Cancelled,B2
+NH9718,All Nippon Airways,Haneda,Gurupi,Brazil,7:52 PM,Incheon International,Bogra,Bangladesh,11,NH,PUW,STV,4/12/2022,8:07 PM,8914.62,328,266.36,Delayed,A3
+SK7480,SAS Scandinavian,Copenhagen Airport,Oullins,France,10:14 AM,Charles de Gaulle,Guankou,China,17,SK,BUB,YVT,3/19/2022,4:57 PM,2960.6,71,289.06,Delayed,C3
+SK2568,SAS Scandinavian,Copenhagen Airport,Tietê,Brazil,3:37 PM,Charles de Gaulle,Naguanagua,Venezuela,24,SK,WIN,HLA,10/30/2022,2:10 PM,4312.48,84,206.23,On Time,C1
+WN3122,Southwest Airlines,Los Angeles International,Ellinikó,Greece,5:25 AM,San Francisco International,Cuispes,Peru,13,WN,MVV,OBE,5/5/2022,12:44 PM,140.69,407,172.37,Cancelled,C1
+QR6387,Qatar Airways,Hamad International,Zorak,Armenia,5:38 PM,Bole International,Huayucachi,Peru,19,QR,CIP,PCU,2/11/2022,12:17 PM,9542.42,476,353.17,Delayed,B2
+ET9188,Ethiopian Airlines,Bole International,Wenceslau Braz,Brazil,2:03 AM,Hamad International,Oslo,Norway,2,ET,LGF,BDH,11/2/2022,7:51 AM,3090.15,249,260.64,Delayed,C2
+SA8769,South African Airways,O.R. Tambo International,Liubo,China,8:18 PM,Munich Airport,Naurskaya,Russia,17,SA,QRF,NST,3/21/2022,10:19 PM,6498.84,382,396.73,Delayed,A1
+AM6207,Aeroméxico,Benito Juárez International,Samphanthawong,Thailand,6:57 AM,Incheon International,Dogbo,Benin,5,AM,PFR,BWY,3/20/2022,10:25 PM,2974.03,351,313.04,On Time,C3
+AZ7009,Alitalia,Leonardo da Vinci International,Nanyaojie,China,2:42 AM,Cairo International,Těšetice,Czech Republic,21,AZ,MDM,TES,10/28/2022,12:48 AM,4359.45,108,269.06,Delayed,A1
+AF3819,Air France,Charles de Gaulle,Pesnica pri Mariboru,Slovenia,9:25 PM,Frankfurt Airport,Katwijk,Netherlands,11,AF,ODH,HUZ,1/13/2022,11:35 AM,1670.99,411,193.88,On Time,A2
+SQ9239,Singapore Airlines,Changi,Yuracyacu,Peru,12:16 AM,Beijing Capital International,Sanhe,China,8,SQ,KNF,NDM,1/4/2022,8:47 AM,6299.06,171,476.89,On Time,C3
+NZ1813,Air New Zealand,Auckland Airport,Alor Setar,Malaysia,6:20 AM,Sydney Airport,Nong Khae,Thailand,3,NZ,KBV,YWO,1/28/2022,5:01 PM,1287.68,139,472.19,On Time,C1
+AM7841,Aeroméxico,Benito Juárez International,Pantenan,Indonesia,1:23 AM,O'Hare International,Uhlove,Ukraine,19,AM,MDZ,NDR,7/7/2022,8:30 PM,6275.19,187,231.28,On Time,C4
+AA2865,American Airlines,John F. Kennedy International,Huangdao,China,1:46 PM,Hartsfield-Jackson Atlanta,Gaplek,Indonesia,3,AA,LUT,BSC,9/5/2022,3:53 PM,1512.84,382,88.45,On Time,B2
+EK3612,Emirates,Dubai International,Rado,Indonesia,2:55 AM,Hamad International,Tipaz,Philippines,19,EK,JTR,KEF,1/6/2022,12:34 AM,9428.16,83,156.4,On Time,B1
+DL2593,Delta Air Lines,John F. Kennedy International,Ladushkin,Russia,6:55 PM,Hartsfield-Jackson Atlanta,Gogosuket,Indonesia,4,DL,CGK,0,8/20/2022,8:56 PM,4133.58,324,248.96,Cancelled,C1
+AF2465,Air France,Charles de Gaulle,Kobylanka,Poland,11:56 PM,Frankfurt Airport,Guanmian,China,9,AF,KDV,BLA,10/25/2022,3:39 AM,5581.1,429,217.4,On Time,C2
+AA9999,American Airlines,John F. Kennedy International,Xiaojian,China,9:38 PM,Hartsfield-Jackson Atlanta,Olejet,Indonesia,9,AA,DIR,SGP,3/17/2022,11:09 PM,9541.33,312,466.92,Delayed,A3
+WN8861,Southwest Airlines,Los Angeles International,Baraguá,Cuba,7:16 AM,Seattle-Tacoma International,Puerto Cisnes,Chile,22,WN,NBB,CNN,6/9/2022,9:46 PM,4667.36,275,323.93,On Time,C4
+NZ8978,Air New Zealand,Auckland Airport,Lachowice,Poland,5:49 PM,Changi,Songkhla,Thailand,19,NZ,FTE,XLU,4/22/2022,7:54 PM,2094.61,95,425.85,On Time,A3
+UA4657,United Airlines,Los Angeles International,Rongcheng,China,5:23 AM,San Francisco International,Xiangzhou,China,12,UA,AER,KLW,7/2/2022,7:35 AM,7495.95,366,118.76,Delayed,C3
+BA7866,British Airways,Heathrow,Liushikou,China,10:52 AM,Zurich Airport,Las Cruces,United States,16,BA,RJI,RAK,8/13/2022,4:49 PM,358.76,140,290.65,On Time,C4
+AI9401,Air India,Indira Gandhi International,Faya-Largeau,Chad,10:17 PM,Dubai International,Pimenta Bueno,Brazil,16,AI,LIE,CBK,3/1/2022,12:19 PM,1775.33,399,328.09,On Time,C4
+NZ8312,Air New Zealand,Auckland Airport,Partizan,Russia,5:22 AM,Hong Kong International,Fatikchari,Bangladesh,6,NZ,GLZ,ORX,9/29/2022,8:14 AM,1166.49,266,178.69,On Time,C2
+DL6443,Delta Air Lines,John F. Kennedy International,Cergy-Pontoise,France,4:08 AM,Hartsfield-Jackson Atlanta,Timbaúba,Brazil,3,DL,IXW,BUY,10/2/2022,11:19 PM,1633.59,188,391.08,Cancelled,C4
+ET4912,Ethiopian Airlines,Bole International,Veguitas,Venezuela,3:14 AM,Hamad International,Barayong,Philippines,9,ET,BWF,BLQ,7/9/2022,12:15 PM,5842.13,140,233.71,On Time,A2
+LA7277,LATAM Airlines,São Paulo/Guarulhos International,Weru,Indonesia,9:35 AM,Amsterdam Airport Schiphol,Lubbock,United States,11,LA,RBI,BHI,7/8/2022,10:19 AM,6047.92,352,496.21,On Time,C2
+NH7272,All Nippon Airways,Haneda,Kansas City,United States,2:13 AM,Changi,Jiufeng,China,7,NH,OTM,KML,12/14/2022,8:07 AM,1356.85,471,311.52,On Time,C3
+SQ6690,Singapore Airlines,Changi,Vodstroy,Russia,10:57 PM,Beijing Capital International,Łubniany,Poland,20,SQ,RKH,CBQ,1/29/2022,1:24 PM,6659.41,305,99.25,Delayed,A2
+AM6576,Aeroméxico,Benito Juárez International,Tayug,Philippines,2:09 PM,Los Angeles International,Yanfolila,Mali,22,AM,PGB,MDD,4/6/2022,4:52 AM,6683.26,280,92.8,On Time,A1
+QR7697,Qatar Airways,Hamad International,Rudnyy,Kazakhstan,12:33 PM,Bole International,Baratleke,Indonesia,22,QR,CIZ,PSK,6/2/2022,2:05 PM,4698.06,263,321.66,On Time,C3
+AC9772,Air Canada,Toronto Pearson,Bagorejo,Indonesia,8:13 AM,John F. Kennedy International,Linköping,Sweden,4,AC,LAP,MNJ,6/10/2022,6:17 PM,1810.66,63,118.05,Cancelled,A2
+KL7951,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Xiaogang,China,5:41 AM,Charles de Gaulle,Tanda,Ivory Coast,4,KL,MDN,LBD,12/23/2022,11:18 AM,1432.81,484,249.02,On Time,A2
+KE5668,Korean Air,Incheon International,Shaoha,China,10:49 PM,Haneda,Yucun,China,19,KE,LRS,IXT,12/20/2022,12:31 PM,2285.81,60,459.32,Delayed,A1
+TG5038,Thai Airways,Suvarnabhumi,Hāsilpur,Pakistan,10:45 AM,Changi,Shuishi,China,22,TG,BZR,KSA,12/10/2022,10:57 AM,6249.7,274,132.99,On Time,A2
+DL4692,Delta Air Lines,John F. Kennedy International,Rammūn,Palestinian Territory,3:56 PM,Hartsfield-Jackson Atlanta,Oslo,Norway,1,DL,SEP,LAE,9/12/2022,5:18 AM,6592.09,97,270.67,On Time,C4
+DL3040,Delta Air Lines,John F. Kennedy International,El Suyatal,Honduras,7:31 AM,Miami International,Solo,Philippines,2,DL,ANX,WMB,1/10/2022,6:39 PM,7223.08,368,225.23,Delayed,C1
+CX8163,Cathay Pacific,Hong Kong International,Fray Luis A. Beltrán,Argentina,9:29 PM,Kuala Lumpur International,Baturité,Brazil,22,CX,TXL,GOV,2/23/2022,9:08 PM,6281.33,387,71.26,Delayed,C3
+BA5126,British Airways,Heathrow,Monte do Outeiro,Portugal,5:59 PM,Charles de Gaulle,Pensacola,United States,24,BA,FNH,PLM,3/26/2022,8:00 PM,111.98,62,177.24,On Time,A3
+CX3529,Cathay Pacific,Hong Kong International,Qujiang,China,12:06 PM,Changi,Maha Sarakham,Thailand,13,CX,VII,AFW,10/14/2022,1:57 AM,9027.51,416,185.21,On Time,B2
+AV2697,Avianca,El Dorado International,Cocieri,Moldova,3:05 PM,O'Hare International,Laoxingchang,China,21,AV,OIT,YCV,4/1/2022,1:34 AM,8574.26,328,378.48,On Time,B2
+QF3711,Qantas,Sydney Airport,Rouen,France,6:59 AM,Melbourne Airport,Pecka,Czech Republic,2,QF,MPL,YBB,5/9/2022,9:57 AM,473.39,288,179.4,On Time,A2
+TG4168,Thai Airways,Suvarnabhumi,Kalisangkrah Lor,Indonesia,5:04 PM,Los Angeles International,Bunder,Indonesia,20,TG,MSF,LUE,6/13/2022,10:01 PM,6372.9,487,483.99,On Time,B2
+KE3490,Korean Air,Incheon International,Valle de La Pascua,Venezuela,7:56 PM,Haneda,Kangdong-ŭp,North Korea,17,KE,OCF,YUB,11/30/2022,2:12 PM,3309.21,390,482.63,On Time,B1
+UA3441,United Airlines,Los Angeles International,Koumac,New Caledonia,4:47 PM,San Francisco International,Nahrīn,Afghanistan,4,UA,PCJ,EPS,4/22/2022,7:57 AM,2877.81,222,163.82,On Time,B2
+LH1606,Lufthansa,Frankfurt Airport,Nakło nad Notecią,Poland,8:58 PM,Zurich Airport,Bintawan,Philippines,18,LH,SVP,BDY,6/20/2022,12:42 AM,3616.38,86,86.51,Delayed,A2
+TG1200,Thai Airways,Suvarnabhumi,Jinshandian,China,12:18 PM,Changi,IJmuiden,Netherlands,23,TG,OXD,NSK,2/17/2022,8:49 PM,4725.51,155,465.2,On Time,A1
+BA5635,British Airways,Heathrow,Guangping,China,2:36 AM,Charles de Gaulle,Palotina,Brazil,24,BA,0,LTL,10/11/2022,11:26 AM,2098.13,174,196.9,Delayed,B2
+EK8073,Emirates,Dubai International,Gayamdesa,Indonesia,3:35 AM,Bole International,Tucurú,Guatemala,15,EK,MEM,PKF,8/1/2022,11:25 AM,9888.58,170,180.46,On Time,B1
+LH4752,Lufthansa,Frankfurt Airport,Chumen,China,12:46 PM,Charles de Gaulle,Shilong,China,19,LH,JNI,JOE,1/23/2022,7:44 AM,6575.64,142,233.32,On Time,A1
+LH7299,Lufthansa,Frankfurt Airport,Shadrinsk,Russia,2:42 AM,Amsterdam Airport Schiphol,Itapemirim,Brazil,14,LH,ODN,CFQ,3/9/2022,12:01 AM,4994.26,77,89.51,On Time,A2
+AI6793,Air India,Indira Gandhi International,Shijiazhuang,China,6:12 AM,Chhatrapati Shivaji International,Manuel Cavazos Lerma,Mexico,14,AI,ZKP,DPS,2/10/2022,10:33 PM,935.76,93,268.29,Delayed,B2
+QR3556,Qatar Airways,Hamad International,Columbus,United States,9:26 PM,Miami International,Mulhouse,France,9,QR,SMR,NMP,2/10/2022,9:27 AM,3134.37,208,407.14,On Time,A2
+NZ1648,Air New Zealand,Auckland Airport,Néa Flogitá,Greece,2:57 AM,Sydney Airport,Lazaro Cardenas,Mexico,18,NZ,GPA,SDT,5/12/2022,8:37 PM,9894.42,312,391.69,On Time,C4
+BA3679,British Airways,Heathrow,Västerås,Sweden,2:23 AM,Charles de Gaulle,Североморск-3,Russia,21,BA,OUD,FAH,3/3/2022,10:00 AM,1734.89,67,189.66,On Time,C2
+AZ5395,Alitalia,Leonardo da Vinci International,Hengdaohezi,China,2:06 AM,Cape Town International,Jelcz,Poland,10,AZ,WLH,TXU,3/15/2022,3:48 AM,9889.65,385,480.92,On Time,A2
+IB7148,Iberia,Adolfo Suárez Madrid–Barajas,Barusuda,Indonesia,6:36 PM,Charles de Gaulle,Xilin,China,12,IB,KNE,FRG,2/13/2022,4:55 AM,2761.36,52,424.64,On Time,B1
+KL2077,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Fonseca,Colombia,10:28 AM,Charles de Gaulle,Piraí do Sul,Brazil,12,KL,DLH,YIB,11/2/2022,9:42 PM,9109.04,376,308.01,On Time,C1
+QR2866,Qatar Airways,Hamad International,Youhua,China,8:44 PM,Bole International,Daying,China,23,QR,RUG,THE,2/4/2022,4:07 PM,1276.23,287,171.02,Delayed,C2
+EK4479,Emirates,Dubai International,Pilar,Paraguay,12:25 PM,Hamad International,Muzaffargarh,Pakistan,18,EK,AQA,VCF,1/30/2022,11:29 AM,7251.43,405,342.15,On Time,A3
+KE9760,Korean Air,Incheon International,Khodasy,Belarus,5:52 PM,Jorge Chávez International,Askaniya Nova,Ukraine,24,KE,RDP,NLC,2/21/2022,5:51 PM,5790.66,308,174.33,Delayed,B2
+EK3314,Emirates,Dubai International,Bungereng,Indonesia,1:54 AM,Leonardo da Vinci International,Obigarm,Tajikistan,20,EK,PRD,KMU,5/25/2022,6:36 PM,5570.51,360,146.69,On Time,C3
+CX5044,Cathay Pacific,Hong Kong International,Anchorage,United States,6:56 PM,Changi,Neftegorsk,Russia,19,CX,MUN,MYD,10/24/2022,4:03 AM,7275.19,365,130.41,On Time,C1
+TG6065,Thai Airways,Suvarnabhumi,Zambujeira do Mar,Portugal,2:26 PM,Changi,Ikot-Ekpene,Nigeria,12,TG,SAS,MID,6/23/2022,12:27 PM,9063.32,252,234.09,On Time,C3
+BA6528,British Airways,Heathrow,Pelabuhan Dagang,Indonesia,5:07 PM,Vienna International,Huangcun,China,13,BA,MJU,NAO,8/13/2022,1:46 PM,2046.95,397,487.1,On Time,A1
+ET9826,Ethiopian Airlines,Bole International,Junchuan,China,9:21 PM,Hamad International,Portland,United States,23,ET,RZH,JUZ,3/27/2022,10:04 PM,2413.18,494,388.67,Delayed,A3
+QR9021,Qatar Airways,Hamad International,Panawuan,Indonesia,1:38 PM,Bole International,Puteaux,France,12,QR,BIQ,QHN,12/17/2022,8:45 PM,3198.07,99,348.31,On Time,C2
+AA4958,American Airlines,John F. Kennedy International,Dayton,United States,12:47 PM,Hartsfield-Jackson Atlanta,Lelekovice,Czech Republic,5,AA,RHE,CKV,3/3/2022,2:53 PM,6803.12,139,282.37,On Time,C3
+SQ5181,Singapore Airlines,Changi,Charlesland,Ireland,1:39 PM,Hong Kong International,Chełmiec,Poland,11,SQ,KRI,FJR,7/6/2022,11:52 PM,2162.91,137,114.4,Delayed,C4
+QF6081,Qantas,Sydney Airport,Libertador General San Martín,Argentina,10:41 PM,Melbourne Airport,Stryków,Poland,3,QF,GUI,RAK,9/6/2022,9:03 AM,8443.29,441,261.63,On Time,C2
+AA5562,American Airlines,John F. Kennedy International,Tokuyama,Japan,6:43 PM,Hartsfield-Jackson Atlanta,Gazimurskiy Zavod,Russia,17,AA,RXS,QRA,10/25/2022,4:29 AM,9028.38,163,269.19,On Time,B1
+QF2199,Qantas,Sydney Airport,Keroka,Kenya,12:47 PM,Melbourne Airport,Los Angeles,United States,3,QF,CPO,KRR,11/12/2022,8:47 AM,9701.44,150,418.57,On Time,A3
+CX9238,Cathay Pacific,Hong Kong International,Cordova,Philippines,2:54 PM,Logan International,Rosa Zarate,Ecuador,8,CX,GLM,CGN,2/11/2022,8:58 AM,3726.57,425,94.6,Delayed,C3
+TG5220,Thai Airways,Suvarnabhumi,Nkpor,Nigeria,9:05 PM,Changi,Zbůch,Czech Republic,21,TG,IWK,CNQ,4/30/2022,7:45 AM,3826.27,227,230.95,Delayed,C3
+CX1682,Cathay Pacific,Hong Kong International,Zadní Mostek,Czech Republic,12:57 PM,Melbourne Airport,Pedreira,Portugal,22,CX,MSE,TEX,8/6/2022,12:11 PM,758.04,261,103.06,Delayed,C2
+AI1813,Air India,Indira Gandhi International,Tōkamachi,Japan,2:05 PM,Dubai International,Rychtal,Poland,10,AI,CTT,ICA,12/17/2022,10:33 AM,4734.1,107,345.95,On Time,C3
+KE2630,Korean Air,Incheon International,Nunhala,Indonesia,4:25 PM,Haneda,Rio Claro,Trinidad and Tobago,22,KE,EUE,YAA,5/19/2022,9:41 AM,1560.84,70,70.84,Delayed,C4
+AA4087,American Airlines,John F. Kennedy International,Hearst,Canada,5:17 PM,Miami International,Telpaneca,Nicaragua,2,AA,BEB,JIP,11/30/2022,7:11 AM,4069.21,456,210.46,On Time,B1
+TG3173,Thai Airways,Suvarnabhumi,Metz,France,10:50 AM,Beijing Capital International,Verin Artashat,Armenia,20,TG,SSQ,KLH,10/2/2022,6:11 PM,2761.69,221,380.28,Cancelled,B1
+AZ5938,Alitalia,Leonardo da Vinci International,Campbellton,Canada,12:28 AM,Charles de Gaulle,Tarlac City,Philippines,8,AZ,SNH,POC,12/13/2022,8:35 AM,581.24,222,240.92,Cancelled,B2
+KE9732,Korean Air,Incheon International,Angkup,Indonesia,3:14 PM,Haneda,Dvinskoy,Russia,4,KE,KQL,VNE,7/15/2022,10:38 AM,7568.77,286,268.13,On Time,C2
+ET9224,Ethiopian Airlines,Bole International,Grootfontein,Namibia,4:03 PM,Heathrow,Norfolk,United States,14,ET,AWK,0,5/8/2022,5:32 AM,5512.92,181,419.1,Delayed,A3
+NH6772,All Nippon Airways,Haneda,RMI Capitol,Marshall Islands,10:50 PM,Dallas/Fort Worth International,Khanu Woralaksaburi,Thailand,14,NH,SQY,CCF,3/14/2022,3:37 PM,5577.32,499,316.48,On Time,C4
+SK5933,SAS Scandinavian,Copenhagen Airport,Bang Mun Nak,Thailand,9:01 AM,Munich Airport,Kandhkot,Pakistan,13,SK,SJY,GGE,11/6/2022,3:57 PM,3090.91,379,263.94,Delayed,C2
+KE7948,Korean Air,Incheon International,Kabukarudi,Indonesia,1:39 AM,Haneda,Birigui,Brazil,22,KE,NOU,CAT,4/29/2022,12:32 PM,1420.39,169,206.62,On Time,C1
+ET3206,Ethiopian Airlines,Bole International,Amnat Charoen,Thailand,8:46 PM,Hamad International,Senlis,France,19,ET,RKO,ANJ,4/16/2022,12:18 AM,866.2,241,87.28,On Time,C4
+LH7474,Lufthansa,Frankfurt Airport,Cereté,Colombia,7:42 AM,Cairo International,Gabi,Philippines,2,LH,POY,FAR,1/15/2022,8:20 AM,5324.41,408,131.02,On Time,C1
+NZ3010,Air New Zealand,Auckland Airport,Polloc,Philippines,1:24 PM,Sydney Airport,Bābol,Iran,1,NZ,TOL,SVC,3/11/2022,4:37 AM,6818.86,77,192.47,On Time,C4
+WN9115,Southwest Airlines,Los Angeles International,Haapajärvi,Finland,5:50 AM,San Francisco International,Katsuura,Japan,19,WN,PSH,TDW,2/21/2022,8:55 AM,7120.75,366,468.44,On Time,C2
+BA9137,British Airways,Heathrow,Kubangkondang,Indonesia,4:48 AM,Munich Airport,Gostivar,Macedonia,3,BA,CBK,LFW,6/22/2022,2:28 AM,6780.36,296,471.53,Delayed,A2
+CX7337,Cathay Pacific,Hong Kong International,Abadiânia,Brazil,12:21 PM,Changi,Ramenki,Russia,23,CX,MEL,ILE,11/25/2022,1:01 AM,7954.9,55,238.08,On Time,A2
+WN2356,Southwest Airlines,Los Angeles International,Bringinanom,Indonesia,9:29 PM,San Francisco International,Oltintopkan,Tajikistan,5,WN,NTO,AXK,6/15/2022,8:19 AM,2174.07,166,409.86,Cancelled,A1
+KL7828,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Palecenan,Indonesia,8:10 PM,Stockholm Arlanda,Bagé,Brazil,3,KL,HOP,TID,8/24/2022,2:44 AM,1383.88,137,369.29,On Time,C1
+DL1787,Delta Air Lines,John F. Kennedy International,Weiwangzhuang,China,7:34 PM,Hartsfield-Jackson Atlanta,Ligang,China,18,DL,GAO,LHS,10/28/2022,9:26 AM,7797.01,361,465.86,On Time,B2
+ET7435,Ethiopian Airlines,Bole International,Asheville,United States,7:17 PM,Hamad International,Tanout,Niger,10,ET,MYA,MMB,3/22/2022,5:14 AM,9403.12,170,171.23,Delayed,C4
+AV7494,Avianca,El Dorado International,Pabuaran,Indonesia,1:11 AM,Vancouver International,Nieuwegein,Netherlands,17,AV,PNB,PHP,7/20/2022,9:30 PM,1633.65,308,398.62,Cancelled,A2
+WN4429,Southwest Airlines,Los Angeles International,Yinglong,China,2:47 PM,San Francisco International,Chivilcoy,Argentina,5,WN,ELK,MXY,6/6/2022,1:59 AM,8204.81,112,148.83,Delayed,A1
+UA4288,United Airlines,Los Angeles International,Guernica,Argentina,7:22 PM,San Francisco International,Dhankutā,Nepal,22,UA,PZB,STE,5/27/2022,6:36 AM,3819.51,271,352.65,Delayed,C4
+SA4830,South African Airways,O.R. Tambo International,Brody,Poland,10:08 AM,Bole International,Przecław,Poland,2,SA,GSP,HNM,10/26/2022,5:00 AM,9232.57,182,362.23,On Time,A1
+CX1836,Cathay Pacific,Hong Kong International,Um Jar Al Gharbiyya,Sudan,10:17 AM,Changi,Wangji,China,9,CX,TUE,PIA,1/16/2022,2:34 PM,6985.65,347,120.16,On Time,C3
+AF8413,Air France,Charles de Gaulle,Środa Wielkopolska,Poland,7:47 PM,Frankfurt Airport,Singajaya,Indonesia,1,AF,MUE,DTR,10/5/2022,5:09 AM,8079.22,328,156.62,On Time,A1
+QR6609,Qatar Airways,Hamad International,Ystad,Sweden,8:25 AM,Bole International,Warwick,Canada,3,QR,TDP,LPS,6/13/2022,7:30 PM,4617.92,361,402.94,On Time,B1
+IB2730,Iberia,Adolfo Suárez Madrid–Barajas,Várzea,Portugal,4:34 PM,Hamad International,Bhairab Bāzār,Bangladesh,20,IB,PPV,TUA,2/24/2022,3:11 AM,6472.69,452,144.98,On Time,C2
+LH2743,Lufthansa,Frankfurt Airport,Metsamor,Armenia,3:43 PM,Charles de Gaulle,Gaotuan,China,17,LH,USS,FLZ,3/14/2022,10:50 PM,907.92,423,257.07,On Time,A3
+AI1615,Air India,Indira Gandhi International,Kabīrwāla,Pakistan,9:35 AM,Chhatrapati Shivaji International,Cincinnati,United States,5,AI,YQI,AOT,8/13/2022,8:24 PM,1005.96,456,384.83,On Time,B1
+LA8757,LATAM Airlines,São Paulo/Guarulhos International,Concordia,Honduras,1:33 AM,Ministro Pistarini International,La Purisima,Mexico,8,LA,BUN,YZV,11/20/2022,11:57 AM,5097.64,359,190.0,On Time,A3
+NH1537,All Nippon Airways,Haneda,Birnin Kebbi,Nigeria,9:38 AM,Changi,Yanchi,China,4,NH,PDA,BAP,10/7/2022,9:59 AM,3700.38,300,369.09,Delayed,C2
+LA9061,LATAM Airlines,São Paulo/Guarulhos International,Copa,Peru,5:26 AM,Ministro Pistarini International,Urung,Indonesia,12,LA,PSL,NVA,4/2/2022,3:16 AM,1297.96,441,438.29,On Time,C2
+BA1206,British Airways,Heathrow,Hangchuan,China,2:15 PM,Copenhagen Airport,Arbuzynka,Ukraine,11,BA,TAV,SGP,7/22/2022,6:49 PM,4797.95,351,416.58,On Time,A1
+AM6666,Aeroméxico,Benito Juárez International,Soledade,Brazil,12:45 AM,O'Hare International,Bang Khon Thi,Thailand,11,AM,RTB,YTQ,8/19/2022,4:11 AM,9430.32,363,441.2,Delayed,A1
+LA4848,LATAM Airlines,São Paulo/Guarulhos International,Al Jubayl,Saudi Arabia,8:50 AM,Ministro Pistarini International,Singaraja,Indonesia,4,LA,SXN,IRU,1/13/2022,10:19 AM,4561.91,106,169.62,On Time,C3
+CX7704,Cathay Pacific,Hong Kong International,Barra Cheia,Portugal,11:04 AM,Changi,Hostos,Dominican Republic,9,CX,IOR,QNY,9/29/2022,1:53 AM,3848.51,244,182.98,On Time,A3
+SA3103,South African Airways,O.R. Tambo International,Sugiharjo,Indonesia,6:33 AM,Charles de Gaulle,Pingshi,China,10,SA,OME,OLR,11/4/2022,9:45 AM,1995.18,499,164.75,Delayed,C2
+QF6330,Qantas,Sydney Airport,Sundre,Canada,6:01 PM,Melbourne Airport,Okulovka,Russia,10,QF,YMT,BPM,9/16/2022,3:54 AM,814.81,321,206.24,Delayed,C4
+AZ5428,Alitalia,Leonardo da Vinci International,Varnávas,Greece,1:36 PM,Charles de Gaulle,Gosen,Japan,16,AZ,KMV,SKB,11/30/2022,8:34 PM,2370.95,105,351.1,On Time,C3
+AZ7909,Alitalia,Leonardo da Vinci International,Mizi,China,10:33 PM,Charles de Gaulle,Cowansville,Canada,21,AZ,CZM,AHI,6/15/2022,6:21 AM,5382.1,249,146.57,Delayed,B1
+LA2324,LATAM Airlines,São Paulo/Guarulhos International,Alivéri,Greece,3:44 AM,Ministro Pistarini International,Campanário,Portugal,5,LA,BXR,AEY,5/18/2022,7:34 PM,6963.88,297,54.47,Cancelled,B1
+KE3621,Korean Air,Incheon International,Stamford,United States,3:56 PM,Jorge Chávez International,Cerro Corá,Argentina,12,KE,BSD,BDQ,1/5/2022,8:21 AM,8557.86,152,227.92,Delayed,A3
+AC9149,Air Canada,Toronto Pearson,Ushuaia,Argentina,4:41 PM,Arturo Merino Benítez International,Leer,South Sudan,6,AC,MXR,CYD,12/6/2022,10:45 AM,1325.72,447,424.15,On Time,B1
+CX8163,Cathay Pacific,Hong Kong International,Moneghetti,Monaco,9:10 AM,Kuala Lumpur International,Sere,Indonesia,6,CX,FSN,TKE,12/6/2022,12:51 AM,5367.61,492,163.78,On Time,B2
+LA1514,LATAM Airlines,São Paulo/Guarulhos International,Fukura,Japan,8:58 PM,Ministro Pistarini International,Jiaoqi,China,11,LA,IKT,CTT,8/10/2022,8:08 AM,3575.88,149,277.09,On Time,C4
+DL4260,Delta Air Lines,John F. Kennedy International,Surgut,Russia,10:37 AM,Munich Airport,Chernivtsi,Ukraine,11,DL,AOO,BCH,7/2/2022,10:00 AM,5937.05,188,493.01,On Time,A3
+SK3846,SAS Scandinavian,Copenhagen Airport,Yevlakh,Azerbaijan,2:21 PM,Charles de Gaulle,Kairouan,Tunisia,16,SK,PUS,ODJ,3/17/2022,7:40 AM,3615.66,242,306.46,Delayed,C2
+KE2298,Korean Air,Incheon International,Angoulême,France,7:30 PM,Chhatrapati Shivaji International,Woloara,Indonesia,20,KE,LBR,PQM,6/11/2022,7:12 AM,1156.6,251,139.9,On Time,C4
+AZ7873,Alitalia,Leonardo da Vinci International,Puerto Colombia,Colombia,8:51 PM,Charles de Gaulle,Huyuan,China,11,AZ,WLC,SFZ,9/14/2022,7:11 PM,7298.6,210,489.72,On Time,C4
+TG9224,Thai Airways,Suvarnabhumi,Yangiyŭl,Uzbekistan,8:42 AM,Changi,Rakhiv,Ukraine,3,TG,TJB,INF,3/9/2022,6:03 AM,2857.95,189,125.6,Delayed,A3
+KE7076,Korean Air,Incheon International,Guhuai,China,10:53 PM,Haneda,Puncaksempur,Indonesia,13,KE,RZH,LBA,11/16/2022,7:35 AM,7310.12,325,234.36,On Time,A1
+AF4803,Air France,Charles de Gaulle,Ampara,Sri Lanka,9:22 AM,Amsterdam Airport Schiphol,Budayuan,China,9,AF,HMR,MFA,2/6/2022,9:38 AM,7372.28,446,383.75,Delayed,A2
+IB7632,Iberia,Adolfo Suárez Madrid–Barajas,Desnogorsk,Russia,6:58 PM,Cape Town International,Mwene-Ditu,Democratic Republic of the Congo,6,IB,HAN,BLV,12/12/2022,8:44 AM,2658.11,397,443.54,On Time,A3
+BA3470,British Airways,Heathrow,Mboursou Léré,Chad,10:04 AM,Charles de Gaulle,Baton Rouge,United States,3,BA,UTD,CLG,3/2/2022,6:19 PM,4793.65,496,372.91,On Time,C4
+KE2522,Korean Air,Incheon International,Armenia,Philippines,11:20 AM,Haneda,Mazongling,China,9,KE,NAT,RIH,11/9/2022,8:44 PM,4286.36,110,75.17,On Time,C2
+SQ4586,Singapore Airlines,Changi,Mocímboa,Mozambique,6:57 AM,Vienna International,Örgön,Mongolia,24,SQ,ICT,ART,10/30/2022,3:09 AM,6088.17,236,130.77,On Time,C1
+LH9851,Lufthansa,Frankfurt Airport,Xarsingma,China,8:06 PM,Charles de Gaulle,Krajan Curahcotok,Indonesia,15,LH,CNI,LYM,10/16/2022,4:03 AM,8178.74,238,170.53,On Time,C4
+QF8539,Qantas,Sydney Airport,Dongtang,China,12:03 AM,Incheon International,Cikujang,Indonesia,14,QF,0,SNR,5/25/2022,8:17 AM,7998.29,115,202.0,On Time,C3
+IB7148,Iberia,Adolfo Suárez Madrid–Barajas,Amado Nervo,Mexico,1:35 AM,Charles de Gaulle,Oenunu,Indonesia,6,IB,DEE,SVH,4/27/2022,7:10 PM,3970.85,397,302.64,On Time,C4
+QR4872,Qatar Airways,Hamad International,Kalanchak,Ukraine,4:51 PM,Bole International,Heyu,China,17,QR,KMW,TQP,2/1/2022,5:05 AM,8469.15,177,215.81,Delayed,C1
+AC8993,Air Canada,Toronto Pearson,Caluya,Philippines,1:23 PM,John F. Kennedy International,Uppsala,Sweden,18,AC,PPN,HZG,10/29/2022,10:02 PM,2002.38,398,450.58,Delayed,A1
+KL2024,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Marne-la-Vallée,France,7:34 PM,Charles de Gaulle,Xicun,China,20,KL,SJB,PNU,9/19/2022,10:11 AM,239.47,88,498.17,On Time,C1
+AV8136,Avianca,El Dorado International,Xiachen,China,11:30 AM,O'Hare International,Tía Juana,Venezuela,1,AV,HAN,LUH,1/25/2022,1:51 PM,603.3,313,156.55,Delayed,C4
+AV4290,Avianca,El Dorado International,Marki,Poland,10:14 AM,O'Hare International,Amphawa,Thailand,11,AV,IRP,YAD,12/19/2022,12:30 AM,870.68,263,486.21,On Time,C3
+DL3679,Delta Air Lines,John F. Kennedy International,Bolboc,Philippines,9:26 AM,Los Angeles International,Arroyo Seco,Mexico,24,DL,IPN,VDH,2/14/2022,9:49 AM,9677.61,499,152.03,Delayed,B2
+AA2376,American Airlines,John F. Kennedy International,Bronnitsy,Russia,2:55 PM,Hartsfield-Jackson Atlanta,Albuera,Philippines,21,AA,TRH,NGE,10/10/2022,1:03 PM,1766.92,357,249.81,On Time,A3
+WN9446,Southwest Airlines,Los Angeles International,Huancheng,China,11:21 PM,San Francisco International,Kopychyntsi,Ukraine,20,WN,RMK,EKA,6/23/2022,9:22 PM,2017.75,109,205.04,On Time,A3
+NZ7772,Air New Zealand,Auckland Airport,Vila Flor,Portugal,5:15 PM,Sydney Airport,Sar-e Pul,Afghanistan,7,NZ,LRS,BAF,1/13/2022,11:49 PM,5586.38,216,488.07,On Time,A1
+AA5924,American Airlines,John F. Kennedy International,Brodósqui,Brazil,6:11 PM,Hartsfield-Jackson Atlanta,Blachownia,Poland,23,AA,KWY,NVP,7/10/2022,12:39 AM,6578.08,242,280.23,Cancelled,C1
+SA9162,South African Airways,O.R. Tambo International,Rakszawa,Poland,10:10 AM,Charles de Gaulle,Mascote,Brazil,5,SA,NZA,TLY,11/20/2022,9:02 PM,6736.86,121,370.31,Delayed,A2
+AV5838,Avianca,El Dorado International,Antipolo,Philippines,12:38 PM,O'Hare International,Dukuhtengah,Indonesia,17,AV,ABT,CEH,12/12/2022,8:32 AM,5263.97,270,129.73,On Time,A3
+AM5087,Aeroméxico,Benito Juárez International,Bayzhansay,Kazakhstan,2:34 PM,O'Hare International,Wagar,Sudan,15,AM,KSF,KBY,4/11/2022,7:08 PM,357.58,141,66.12,On Time,A1
+EK7276,Emirates,Dubai International,Lappi,Finland,1:09 AM,Bole International,Kowale,Poland,22,EK,EUN,MIA,12/12/2022,11:24 AM,9777.67,115,64.36,On Time,B2
+ET5853,Ethiopian Airlines,Bole International,Monte Redondo,Portugal,5:46 PM,Hamad International,Artur Nogueira,Brazil,15,ET,OHS,IML,6/14/2022,7:37 PM,5488.97,375,92.3,Delayed,A1
+QR9685,Qatar Airways,Hamad International,Phuket,Thailand,3:55 AM,Charles de Gaulle,Yangkang,China,7,QR,QSC,YDG,2/11/2022,4:16 PM,1347.92,282,324.48,On Time,C3
+ET1969,Ethiopian Airlines,Bole International,Bến Cầu,Vietnam,6:03 PM,Hamad International,Dalo,Indonesia,21,ET,EDM,NAZ,4/19/2022,9:10 PM,2375.29,389,363.42,On Time,A1
+DL6641,Delta Air Lines,John F. Kennedy International,Nova Olímpia,Brazil,2:53 PM,San Francisco International,Salt Lake City,United States,7,DL,PKX,BWH,3/4/2022,8:17 AM,4758.94,456,385.56,On Time,C4
+TG7636,Thai Airways,Suvarnabhumi,Fezna,Morocco,8:22 PM,Changi,Tungipāra,Bangladesh,22,TG,SHT,KAJ,1/31/2022,4:29 AM,8737.01,314,478.75,Cancelled,A1
+EK7699,Emirates,Dubai International,Asmara,Eritrea,6:01 PM,Bole International,Mānānwāla,Pakistan,8,EK,PPV,BZT,8/3/2022,1:11 PM,9068.34,394,78.46,On Time,B1
+LH3418,Lufthansa,Frankfurt Airport,Jengglungharjo,Indonesia,7:37 PM,Charles de Gaulle,Orlovo,Russia,10,LH,LHG,GRW,12/28/2022,7:29 PM,7270.85,424,270.68,On Time,B1
+AC2322,Air Canada,Toronto Pearson,Potrerillos,Honduras,8:35 AM,John F. Kennedy International,Yantongtun,China,19,AC,FOU,PBQ,10/18/2022,9:00 AM,2534.03,173,275.53,Delayed,B1
+QR2435,Qatar Airways,Hamad International,Masoli,Philippines,5:05 AM,Frankfurt Airport,Surulangun Rawas,Indonesia,4,QR,VDM,RDS,4/10/2022,9:26 AM,3117.13,254,158.15,Cancelled,B1
+AI7015,Air India,Indira Gandhi International,New Glasgow,Canada,12:02 PM,Chhatrapati Shivaji International,Álvares Machado,Brazil,16,AI,DWS,KMQ,11/20/2022,8:30 PM,6277.08,256,151.49,Delayed,B1
+LH7839,Lufthansa,Frankfurt Airport,Ohrid,Macedonia,2:48 PM,Zurich Airport,Bielsk Podlaski,Poland,5,LH,DWO,NLH,11/14/2022,3:05 AM,8188.54,232,169.5,Cancelled,C4
+LH7299,Lufthansa,Frankfurt Airport,Tegalsari,Indonesia,5:09 AM,Amsterdam Airport Schiphol,Naguilian,Philippines,18,LH,JFN,IOS,3/7/2022,12:05 AM,6941.52,110,354.15,On Time,A1
+AF8946,Air France,Charles de Gaulle,Nagornyy,Russia,3:42 AM,Frankfurt Airport,Los Angeles,United States,12,AF,0,ANR,10/31/2022,7:21 PM,2261.85,241,370.45,On Time,A2
+KE5573,Korean Air,Incheon International,Hawassa,Ethiopia,9:00 PM,Haneda,Las Carreras,Bolivia,17,KE,YOE,AKT,4/7/2022,5:36 AM,2761.06,211,227.52,On Time,A2
+BA8723,British Airways,Heathrow,Pergamino,Argentina,4:09 PM,Charles de Gaulle,Otrokovice,Czech Republic,19,BA,NUL,OLK,4/4/2022,7:49 PM,4615.57,416,487.99,On Time,C4
+AA2932,American Airlines,John F. Kennedy International,Vodnjan,Croatia,9:16 PM,Hartsfield-Jackson Atlanta,Karakol,Kyrgyzstan,8,AA,COD,HZH,3/22/2022,1:23 AM,7226.88,344,212.0,On Time,A2
+SA2814,South African Airways,O.R. Tambo International,Adolfo Lopez Mateos,Mexico,7:38 AM,Charles de Gaulle,Bayt Ūlā,Palestinian Territory,10,SA,URN,AUO,3/7/2022,5:41 PM,3650.14,252,230.87,Delayed,B1
+TG3079,Thai Airways,Suvarnabhumi,Hargeysa,Somalia,11:43 PM,Hong Kong International,Tanahbeureum,Indonesia,21,TG,UVA,SEE,3/13/2022,8:13 PM,9662.41,188,298.78,On Time,A2
+AI1237,Air India,Indira Gandhi International,Beicang,China,8:30 PM,Chhatrapati Shivaji International,Fiorentino,San Marino,18,AI,HMB,WSP,9/30/2022,4:34 PM,7396.28,285,83.08,Delayed,A1
+NH3973,All Nippon Airways,Haneda,Dongqu,China,6:20 PM,Incheon International,Pankshin,Nigeria,17,NH,WIL,DIY,4/26/2022,4:39 PM,5427.57,444,254.3,On Time,B2
+UA6429,United Airlines,Los Angeles International,Stockholm,Sweden,1:26 PM,San Francisco International,São Bartolomeu,Portugal,4,UA,WLH,OKY,2/25/2022,12:24 AM,4512.74,78,51.44,On Time,A2
+UA8235,United Airlines,Los Angeles International,Lapi,Philippines,4:59 PM,San Francisco International,Larangan,Indonesia,14,UA,LLF,PRA,2/12/2022,6:10 AM,6860.99,94,108.34,On Time,C4
+AM6576,Aeroméxico,Benito Juárez International,Hancheng,China,5:18 AM,Los Angeles International,Sarband,Tajikistan,8,AM,CJM,AGC,8/4/2022,6:22 PM,6235.21,498,183.53,On Time,A1
+IB3428,Iberia,Adolfo Suárez Madrid–Barajas,Bularit,Philippines,7:21 PM,Charles de Gaulle,Naurskaya,Russia,3,IB,BCV,LBJ,9/17/2022,6:05 AM,8384.05,78,240.6,On Time,C3
+EK1142,Emirates,Dubai International,Gävle,Sweden,4:36 PM,Hamad International,Zuwārah,Libya,10,EK,EVG,LDZ,12/26/2022,6:39 AM,8142.76,117,458.64,On Time,C3
+LH3957,Lufthansa,Frankfurt Airport,Sierra Imataca,Venezuela,4:28 PM,Charles de Gaulle,Congonhas,Brazil,3,LH,ZLX,COW,11/1/2022,3:56 PM,8263.8,460,340.52,Delayed,C3
+BA7089,British Airways,Heathrow,Tanjungsari Barat,Indonesia,1:09 AM,Frankfurt Airport,Banikoara,Benin,16,BA,TMR,HSJ,6/21/2022,9:42 PM,6219.55,384,339.81,On Time,A2
+AM7841,Aeroméxico,Benito Juárez International,Tríkala,Greece,5:15 PM,O'Hare International,Montélimar,France,16,AM,YDV,MEW,4/26/2022,6:36 PM,5050.97,114,429.21,On Time,B2
+LA1166,LATAM Airlines,São Paulo/Guarulhos International,Mulhouse,France,9:04 PM,Ministro Pistarini International,Badovinci,Serbia,12,LA,YLJ,SEX,4/27/2022,10:34 PM,2521.34,76,85.45,Cancelled,B1
+KE1298,Korean Air,Incheon International,Mulyadadi,Indonesia,11:34 PM,Haneda,Santo Adrião Vizela,Portugal,19,KE,RKE,PMX,4/21/2022,6:42 PM,4244.52,466,208.08,On Time,C1
+BA6452,British Airways,Heathrow,Tegallega,Indonesia,11:49 PM,Charles de Gaulle,Xiaopu,China,10,BA,YBP,QIT,8/4/2022,11:51 AM,1014.24,364,231.2,Delayed,A3
+LH2858,Lufthansa,Frankfurt Airport,Nyanga,Zimbabwe,3:57 AM,Charles de Gaulle,Llipa,Peru,3,LH,XRY,CIR,11/21/2022,4:11 PM,9998.29,119,59.81,Cancelled,C2
+ET5802,Ethiopian Airlines,Bole International,Aurora,Philippines,11:00 PM,Hamad International,Núi Sập,Vietnam,18,ET,HSC,OMO,10/5/2022,1:22 AM,3208.73,77,413.04,On Time,B2
+UA8235,United Airlines,Los Angeles International,Olofström,Sweden,7:09 AM,San Francisco International,Dārayyā,Syria,6,UA,MCN,LWM,3/13/2022,3:05 PM,5252.12,282,264.13,On Time,C1
+QR9299,Qatar Airways,Hamad International,Borkowice,Poland,2:48 AM,Bole International,Jaraguá do Sul,Brazil,13,QR,ZMD,LSV,5/6/2022,8:27 PM,5355.92,366,203.93,On Time,C3
+AV5239,Avianca,El Dorado International,Lumphăt,Cambodia,9:37 AM,Denver International,Zvezdara,Serbia,10,AV,KMC,DYM,12/5/2022,1:53 AM,8733.63,286,103.44,On Time,C4
+QR5930,Qatar Airways,Hamad International,Ronneby,Sweden,8:01 PM,Bole International,El Paso,United States,15,QR,BXL,RWL,10/14/2022,9:33 PM,5159.8,308,462.8,Delayed,A2
+CX9264,Cathay Pacific,Hong Kong International,Wujingfu,China,5:23 AM,Changi,Talhār,Pakistan,24,CX,ILX,KMU,9/18/2022,5:42 PM,7467.47,490,246.58,On Time,C1
+AI1534,Air India,Indira Gandhi International,Tsybulevka,Ukraine,7:40 AM,Chhatrapati Shivaji International,Saltsjöbaden,Sweden,16,AI,CWE,AJA,10/25/2022,3:30 PM,2582.06,62,226.27,On Time,C1
+CX4540,Cathay Pacific,Hong Kong International,Zhongpai,China,9:29 AM,Changi,Bacong,Philippines,13,CX,LQN,SMF,6/5/2022,9:01 AM,3405.6,326,105.51,Delayed,B2
+NZ8575,Air New Zealand,Auckland Airport,Fenggang,China,6:15 AM,Suvarnabhumi,Makubetsu,Japan,16,NZ,KVG,VJQ,8/21/2022,4:25 AM,4990.71,214,319.37,On Time,C2
+AA7813,American Airlines,John F. Kennedy International,Osan,South Korea,12:35 AM,Hartsfield-Jackson Atlanta,Xinying,China,7,AA,WAD,STV,9/30/2022,4:46 AM,9058.38,100,273.0,On Time,C4
+KE4188,Korean Air,Incheon International,Brescia,Italy,10:17 PM,Haneda,Bedalewun,Indonesia,2,KE,JCY,LAC,2/27/2022,4:31 AM,9550.15,157,450.81,On Time,A3
+NH4392,All Nippon Airways,Haneda,Ongandjera,Namibia,3:54 PM,Incheon International,Ksour Essaf,Tunisia,1,NH,BIK,PXL,2/9/2022,12:43 AM,6748.14,294,276.62,On Time,A2
+LA7890,LATAM Airlines,São Paulo/Guarulhos International,Pasireurih,Indonesia,4:45 PM,Ministro Pistarini International,Pigí,Greece,13,LA,TSK,DUT,4/25/2022,9:41 AM,7600.01,184,354.32,Delayed,C4
+ET8839,Ethiopian Airlines,Bole International,Santa Rosa,Peru,12:30 AM,Adolfo Suárez Madrid–Barajas,Dondar Quşçu,Azerbaijan,4,ET,DZI,0,11/11/2022,12:53 AM,3061.3,209,250.87,On Time,C2
+LH7175,Lufthansa,Frankfurt Airport,Cikalaces,Indonesia,4:05 AM,Charles de Gaulle,Paris La Défense,France,1,LH,ORJ,CDH,5/29/2022,2:09 PM,1548.31,424,372.31,On Time,C2
+SK1308,SAS Scandinavian,Copenhagen Airport,Kalininaul,Russia,8:50 PM,Charles de Gaulle,Yudong,China,13,SK,APQ,FAF,7/9/2022,5:41 PM,1909.82,119,213.1,On Time,A1
+KE7078,Korean Air,Incheon International,Coaraci,Brazil,3:53 PM,Haneda,Muzi,China,8,KE,ALY,LAH,12/26/2022,9:19 PM,1922.64,337,159.27,On Time,A1
+EK3102,Emirates,Dubai International,Uvarovo,Russia,4:02 AM,Hamad International,Bantog,Philippines,13,EK,NEK,BLI,9/10/2022,12:29 AM,9126.83,86,108.56,On Time,C4
+AI5161,Air India,Indira Gandhi International,Terre Haute,United States,3:32 AM,Suvarnabhumi,Ihosy,Madagascar,6,AI,VPE,SFQ,1/27/2022,3:26 PM,3175.02,372,405.34,Delayed,C4
+KE3468,Korean Air,Incheon International,Kraton,Indonesia,11:00 PM,Haneda,Guangshan,China,20,KE,TSP,VLD,8/2/2022,9:01 PM,4965.85,414,418.11,On Time,C2
+EK7825,Emirates,Dubai International,Lishu,China,11:26 AM,Hamad International,Tarouca,Portugal,1,EK,HHI,ACE,10/11/2022,2:44 AM,898.94,356,495.07,Delayed,C3
+SQ3494,Singapore Airlines,Changi,Estrada,Portugal,2:34 AM,Beijing Capital International,Siikainen,Finland,8,SQ,YPR,ZFD,10/2/2022,5:42 PM,759.22,70,492.18,On Time,A3
+BA6099,British Airways,Heathrow,Wola Uhruska,Poland,4:38 AM,Hamad International,Yesan,South Korea,7,BA,IAR,STH,11/30/2022,2:20 AM,7659.61,244,456.04,On Time,B2
+AZ2284,Alitalia,Leonardo da Vinci International,Nanshe,China,11:44 PM,Charles de Gaulle,Tulusmulyo,Indonesia,6,AZ,QGU,DBK,12/29/2022,5:25 AM,8109.58,269,444.78,On Time,C3
+DL2404,Delta Air Lines,John F. Kennedy International,Shendang,China,6:06 PM,Hartsfield-Jackson Atlanta,Stuttgart Stuttgart-Mitte,Germany,8,DL,CCJ,DIL,7/13/2022,9:55 PM,1379.56,423,494.2,On Time,B1
+AI2223,Air India,Indira Gandhi International,Mhamid,Morocco,4:19 AM,Chhatrapati Shivaji International,Wiri,New Zealand,11,AI,YCM,NUG,10/6/2022,9:21 PM,102.23,54,406.61,Delayed,A1
+SQ2554,Singapore Airlines,Changi,Jalālpur Pīrwāla,Pakistan,1:18 AM,Haneda,Komyshany,Ukraine,2,SQ,FPR,PMV,8/24/2022,2:56 PM,981.54,383,56.65,On Time,C2
+NH9869,All Nippon Airways,Haneda,Cuntan,China,1:32 AM,Incheon International,Lab,China,7,NH,MYA,PEM,7/28/2022,1:13 AM,443.54,493,241.78,On Time,C3
+BA2574,British Airways,Heathrow,Shanhou,China,5:25 PM,Charles de Gaulle,Chibuto,Mozambique,8,BA,QGU,BCI,11/16/2022,3:47 AM,9331.52,374,297.28,Delayed,B2
+NZ3482,Air New Zealand,Auckland Airport,Armanāz,Syria,10:10 AM,Sydney Airport,Rancaerang,Indonesia,16,NZ,BJZ,PNB,5/15/2022,4:25 PM,3298.52,252,360.99,On Time,A1
+IB5832,Iberia,Adolfo Suárez Madrid–Barajas,Fiditi,Nigeria,1:21 PM,Charles de Gaulle,Mardakyany,Azerbaijan,22,IB,YAQ,SUB,5/25/2022,4:10 PM,4795.08,89,374.81,On Time,B2
+KE4039,Korean Air,Incheon International,Zagoryanskiy,Russia,11:17 AM,Auckland Airport,Yur’yev-Pol’skiy,Russia,24,KE,DAP,YOC,9/23/2022,6:39 AM,8271.29,111,437.09,Delayed,B2
+AF9595,Air France,Charles de Gaulle,Xuhui,China,10:08 AM,Frankfurt Airport,Calçada,Portugal,14,AF,MQV,INO,8/8/2022,10:09 AM,1064.65,480,204.33,On Time,C3
+IB3912,Iberia,Adolfo Suárez Madrid–Barajas,Bandhagen,Sweden,8:32 PM,John F. Kennedy International,San Miguel Dueñas,Guatemala,6,IB,MOY,CBC,7/7/2022,4:27 PM,761.35,382,149.35,Cancelled,A1
+WN9680,Southwest Airlines,Los Angeles International,Paôy Pêt,Cambodia,12:38 AM,San Francisco International,Rumbek,South Sudan,15,WN,GSP,BAM,7/4/2022,11:46 AM,6485.15,68,395.98,On Time,A3
+SA3542,South African Airways,O.R. Tambo International,Sol’-Iletsk,Russia,8:15 AM,Charles de Gaulle,Rangxi,China,15,SA,GZP,PZE,10/9/2022,12:25 AM,7061.47,456,180.53,On Time,B2
+DL7381,Delta Air Lines,John F. Kennedy International,Pulopaya,Indonesia,2:23 PM,Hartsfield-Jackson Atlanta,Mahdia,Guyana,23,DL,KIE,MYK,7/1/2022,8:03 AM,6592.54,159,230.12,On Time,A2
+KL2728,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Maych’ew,Ethiopia,9:19 PM,Charles de Gaulle,Obernai,France,7,KL,LAA,LDJ,3/17/2022,10:57 PM,8797.5,126,298.37,On Time,A2
+EK2648,Emirates,Dubai International,Al Maḩfid,Yemen,6:40 AM,Hamad International,Yamaranguila,Honduras,14,EK,DVD,MAX,5/11/2022,11:37 AM,4079.17,154,441.07,On Time,C2
+QR3022,Qatar Airways,Hamad International,Stavanger,Norway,12:28 AM,Bole International,São Luís do Quitunde,Brazil,21,QR,PPN,EMN,4/25/2022,6:53 PM,5085.03,429,272.85,Delayed,A3
+NZ8106,Air New Zealand,Auckland Airport,Leran,Indonesia,8:38 AM,Sydney Airport,Jiyang,China,3,NZ,KMI,SKH,6/11/2022,3:33 AM,5688.39,438,448.7,On Time,C2
+SA2908,South African Airways,O.R. Tambo International,Jakubowice Murowane,Poland,4:58 PM,Charles de Gaulle,Goshogawara,Japan,4,SA,RMP,FBL,1/10/2022,6:44 PM,6530.86,114,228.31,On Time,C4
+AI9127,Air India,Indira Gandhi International,Anjepy,Madagascar,5:46 PM,Chhatrapati Shivaji International,Pongkor,Indonesia,14,AI,WMT,AOG,3/26/2022,12:45 PM,1482.8,239,182.78,Cancelled,A1
+KE3686,Korean Air,Incheon International,Lichengdao,China,2:05 AM,Haneda,Croix,France,17,KE,THR,PIN,7/22/2022,1:58 AM,6790.81,174,459.36,Delayed,C2
+DL4493,Delta Air Lines,John F. Kennedy International,Maubara,East Timor,9:14 PM,Vienna International,Melissochóri,Greece,14,DL,JOM,PCU,1/3/2022,3:41 AM,4558.16,414,118.19,On Time,C4
+KL1922,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Jinan,China,9:14 PM,Adolfo Suárez Madrid–Barajas,Gowarczów,Poland,17,KL,JEJ,CKO,6/11/2022,10:03 AM,6905.25,324,146.95,Delayed,C2
+AF8531,Air France,Charles de Gaulle,Bystrytsya,Ukraine,3:14 PM,Frankfurt Airport,Biskamzha,Russia,15,AF,SPJ,HEE,11/6/2022,3:50 PM,4985.45,56,203.59,On Time,C3
+DL2192,Delta Air Lines,John F. Kennedy International,Toamasina,Madagascar,7:51 AM,Dallas/Fort Worth International,Akráta,Greece,13,DL,TWT,SHF,9/13/2022,10:18 AM,9537.74,472,228.16,Delayed,C1
+AM4818,Aeroméxico,Benito Juárez International,Fier-Çifçi,Albania,11:21 AM,Vienna International,Pajé,Comoros,11,AM,MLA,TEE,3/9/2022,1:23 PM,994.16,361,423.8,On Time,A3
+UA2781,United Airlines,Los Angeles International,La Unión,Peru,11:16 AM,San Francisco International,San Juan,Puerto Rico,7,UA,SWQ,MIG,2/6/2022,7:46 AM,8186.54,175,450.85,On Time,B2
+AM6269,Aeroméxico,Benito Juárez International,Wang Muang,Thailand,11:42 AM,Jorge Chávez International,Ústí nad Labem,Czech Republic,1,AM,YRQ,EPH,7/19/2022,1:14 PM,6816.59,321,106.4,On Time,A2
+BA6203,British Airways,Heathrow,Kukurečani,Macedonia,5:14 AM,Charles de Gaulle,Dondo,Mozambique,19,BA,0,ATH,12/9/2022,6:27 PM,6328.55,126,134.09,Delayed,C4
+SK7218,SAS Scandinavian,Copenhagen Airport,Ryczywół,Poland,6:24 PM,Ministro Pistarini International,Am Djarass,Chad,6,SK,INK,IUS,6/29/2022,10:02 AM,5224.59,344,482.33,On Time,A3
+CX9953,Cathay Pacific,Hong Kong International,Artémida,Greece,9:33 AM,Sydney Airport,La Dorada,Colombia,20,CX,LZY,LUG,10/11/2022,3:27 PM,6060.82,496,53.74,Cancelled,C2
+SQ1726,Singapore Airlines,Changi,Pessac,France,8:45 AM,El Dorado International,Maţarah,Yemen,9,SQ,WRB,PPJ,2/22/2022,4:23 PM,3096.54,491,149.51,On Time,B1
+LA5663,LATAM Airlines,São Paulo/Guarulhos International,Auray,France,4:57 PM,Ministro Pistarini International,Cergy-Pontoise,France,24,LA,MJR,TET,10/1/2022,3:32 PM,9465.61,68,207.92,Delayed,C3
+AV4964,Avianca,El Dorado International,Belyayevka,Russia,2:23 AM,O'Hare International,Antony,France,17,AV,NFL,BKR,5/17/2022,5:45 AM,6647.89,402,392.62,On Time,C4
+KL5690,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Karangtengah Lor,Indonesia,9:40 PM,Charles de Gaulle,Mosta,Malta,2,KL,EGS,RMN,4/13/2022,12:21 AM,8341.98,327,180.56,On Time,A3
+BA7257,British Airways,Heathrow,Kanturk,Ireland,10:10 AM,Charles de Gaulle,Shen’ao,China,18,BA,AYY,PHX,6/27/2022,12:10 AM,5599.3,156,52.95,On Time,A2
+TG5038,Thai Airways,Suvarnabhumi,Montpellier,France,9:20 AM,Changi,Lunik,Albania,12,TG,MPI,VAW,8/13/2022,6:42 PM,615.09,100,394.12,Delayed,A2
+IB9630,Iberia,Adolfo Suárez Madrid–Barajas,Shanhe,China,11:07 PM,Charles de Gaulle,Austin,United States,13,IB,BOC,BAG,9/13/2022,11:40 AM,1956.09,496,354.19,On Time,B1
+IB7558,Iberia,Adolfo Suárez Madrid–Barajas,Guchang,China,5:59 AM,Charles de Gaulle,Urasqui,Peru,21,IB,NEC,CPT,4/11/2022,4:31 PM,6382.96,290,423.14,On Time,A3
+LA1250,LATAM Airlines,São Paulo/Guarulhos International,Rio Covo,Portugal,7:46 AM,Ministro Pistarini International,Fuji,China,13,LA,ZWA,AKP,12/9/2022,9:49 PM,6942.55,347,471.16,On Time,B1
+AA8346,American Airlines,John F. Kennedy International,Ljupina,Croatia,7:48 AM,Los Angeles International,Šid,Serbia,7,AA,DLK,AHY,12/17/2022,10:42 AM,5518.29,335,80.95,On Time,C4
+SQ3539,Singapore Airlines,Changi,Brooklyn,United States,9:15 PM,Incheon International,Whitehorse,Canada,4,SQ,OGA,AMI,11/1/2022,4:22 PM,1836.28,132,92.05,On Time,A2
+AM8310,Aeroméxico,Benito Juárez International,Fermont,Canada,9:11 AM,O'Hare International,Muriaé,Brazil,2,AM,MWO,EMD,9/6/2022,10:23 AM,9909.96,487,266.41,Delayed,C1
+EK2864,Emirates,Dubai International,Nong Bun Nak,Thailand,9:56 AM,Hamad International,Taungoo,Myanmar,5,EK,OCN,SKM,11/29/2022,12:37 AM,668.59,156,113.9,Cancelled,C1
+LH8572,Lufthansa,Frankfurt Airport,Lanyang,China,9:02 AM,Charles de Gaulle,Kakamega,Kenya,15,LH,KYF,GIF,4/19/2022,5:10 AM,6830.41,154,222.18,Delayed,A1
+AF5997,Air France,Charles de Gaulle,Heyou,China,9:15 PM,Frankfurt Airport,Rejanegara,Indonesia,11,AF,LMZ,ULQ,6/21/2022,6:17 PM,6602.68,237,415.19,On Time,C3
+SA7437,South African Airways,O.R. Tambo International,Monte de Fralães,Portugal,12:07 PM,Charles de Gaulle,Yartsevo,Russia,10,SA,GGS,BAE,8/10/2022,3:55 PM,4922.73,380,93.92,Delayed,C3
+ET6494,Ethiopian Airlines,Bole International,Farasān,Saudi Arabia,6:33 PM,Hamad International,Glad,Philippines,4,ET,EJA,PAY,8/31/2022,6:27 PM,2280.62,484,361.33,Delayed,C1
+QR4438,Qatar Airways,Hamad International,Fenais da Ajuda,Portugal,2:29 AM,Vienna International,Alannay,Philippines,17,QR,OGB,NQL,11/5/2022,11:57 AM,3063.56,339,357.43,On Time,C2
+AI1448,Air India,Indira Gandhi International,Ruen,Bulgaria,7:44 AM,Chhatrapati Shivaji International,Baokou,China,23,AI,OKV,CBH,3/30/2022,11:27 AM,1449.77,50,438.85,On Time,B2
+KE3093,Korean Air,Incheon International,Kuching,Malaysia,3:05 AM,O.R. Tambo International,Zhoushizhuang,China,8,KE,KBH,UTT,11/17/2022,5:03 AM,7533.83,428,173.97,Cancelled,A3
+AI9507,Air India,Indira Gandhi International,Xintai,China,4:20 PM,Bole International,Divinópolis,Brazil,12,AI,STT,CAR,8/5/2022,3:28 PM,2459.19,59,96.11,On Time,C1
+UA5069,United Airlines,Los Angeles International,Ximapo,China,6:55 PM,San Francisco International,Nowe Warpno,Poland,15,UA,WLC,TCK,10/14/2022,10:28 AM,2640.0,146,109.67,Cancelled,C2
+AI7902,Air India,Indira Gandhi International,Karibib,Namibia,8:32 AM,Chhatrapati Shivaji International,Okhansk,Russia,3,AI,FYM,QIT,12/11/2022,3:36 PM,9589.45,238,482.56,Delayed,B1
+SK9881,SAS Scandinavian,Copenhagen Airport,Siyang,China,9:28 AM,Charles de Gaulle,El Carmen,Mexico,24,SK,PSX,IHN,5/11/2022,1:34 AM,5827.39,181,84.3,Delayed,C4
+EK1431,Emirates,Dubai International,Wuping,China,12:57 AM,Hamad International,Piranshahr,Iran,23,EK,LZU,RDT,9/1/2022,11:04 PM,4199.73,109,433.3,On Time,A3
+IB9642,Iberia,Adolfo Suárez Madrid–Barajas,Aizkraukle,Latvia,12:52 PM,Charles de Gaulle,Joaquín V. González,Argentina,13,IB,VKO,ANA,2/2/2022,9:06 PM,1554.69,206,83.87,On Time,C3
+KL5312,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Dongpu,China,2:42 AM,Charles de Gaulle,Padangguci,Indonesia,20,KL,RKS,HXX,5/24/2022,3:08 AM,1506.31,413,209.44,On Time,B2
+AZ7819,Alitalia,Leonardo da Vinci International,San Javier,Uruguay,11:54 PM,Charles de Gaulle,Wakduwa’ Barat,Indonesia,12,AZ,UNC,CPR,12/8/2022,9:13 AM,3829.56,203,294.02,On Time,A3
+NZ8627,Air New Zealand,Auckland Airport,Tsementnozavodskiy,Russia,10:21 PM,Melbourne Airport,Santyoku,South Korea,12,NZ,BBE,VCD,3/4/2022,7:03 AM,8905.99,385,346.23,Cancelled,C3
+LA1461,LATAM Airlines,São Paulo/Guarulhos International,Zhaobei,China,2:21 PM,Ministro Pistarini International,Kota Kinabalu,Malaysia,5,LA,MIJ,DDD,12/3/2022,6:53 AM,4842.45,262,89.39,Delayed,B1
+AM4189,Aeroméxico,Benito Juárez International,Baclayon,Philippines,2:25 AM,O'Hare International,Bartolomé Masó,Cuba,6,AM,LVD,ORK,9/14/2022,10:33 AM,1839.38,277,470.55,Delayed,C4
+QR9968,Qatar Airways,Hamad International,Rio Grande da Serra,Brazil,12:41 PM,Bole International,Baiquan,China,5,QR,RYK,QGA,9/17/2022,11:21 AM,6482.7,119,198.05,Cancelled,C4
+NH7063,All Nippon Airways,Haneda,Saint Croix,U.S. Virgin Islands,1:05 AM,Incheon International,Mombaça,Brazil,16,NH,HSB,MUH,2/6/2022,10:14 AM,5079.21,393,351.91,On Time,A1
+AF3394,Air France,Charles de Gaulle,Motuo,China,5:15 PM,Amsterdam Airport Schiphol,Rameshki,Russia,9,AF,KDK,HRG,11/30/2022,9:40 PM,4678.17,373,460.22,On Time,A1
+IB5963,Iberia,Adolfo Suárez Madrid–Barajas,Ágios Spyrídon,Greece,5:16 PM,Charles de Gaulle,Jianshe,China,2,IB,HLE,ZNC,11/13/2022,8:59 PM,668.04,299,224.94,On Time,C3
+AZ1593,Alitalia,Leonardo da Vinci International,Henglan,China,2:36 AM,Charles de Gaulle,Limoeiro do Norte,Brazil,10,AZ,BIY,CWC,3/14/2022,6:06 AM,2992.54,416,165.74,Cancelled,B1
+AI6155,Air India,Indira Gandhi International,Xinzha,China,11:51 AM,Chhatrapati Shivaji International,Birmingham,United States,23,AI,CZB,SHR,5/31/2022,4:32 PM,348.82,209,440.47,On Time,B1
+LH6903,Lufthansa,Frankfurt Airport,Estombar,Portugal,11:38 AM,Charles de Gaulle,Boawae,Indonesia,10,LH,POW,DIU,5/11/2022,7:45 AM,9324.75,109,181.49,Delayed,C1
+TG5588,Thai Airways,Suvarnabhumi,Yaogou,China,9:17 AM,Changi,Vyškov,Czech Republic,13,TG,FEL,SBA,6/6/2022,12:20 PM,5161.71,400,266.62,On Time,A1
+ET7115,Ethiopian Airlines,Bole International,General Levalle,Argentina,3:34 PM,Hamad International,Babat,Indonesia,7,ET,GII,BIF,1/22/2022,3:00 PM,3207.53,365,158.94,Delayed,C1
+AF7295,Air France,Charles de Gaulle,Sebedo,Indonesia,3:14 PM,Suvarnabhumi,Matanza,Colombia,9,AF,PUQ,GLB,10/16/2022,4:04 PM,6964.49,500,473.37,On Time,C4
+LA4953,LATAM Airlines,São Paulo/Guarulhos International,Baghlān,Afghanistan,12:56 PM,Ministro Pistarini International,Xiazhai,China,19,LA,CBK,YSE,2/23/2022,9:45 PM,9331.22,61,291.92,On Time,C3
+LH6315,Lufthansa,Frankfurt Airport,Sindangsari,Indonesia,6:14 AM,O.R. Tambo International,Hetou,China,9,LH,ADC,PNX,12/12/2022,3:25 AM,8086.36,153,188.28,On Time,B2
+BA6412,British Airways,Heathrow,Železný Brod,Czech Republic,10:15 AM,Dubai International,Bailieborough,Ireland,16,BA,RBS,BRN,12/13/2022,4:59 PM,3054.49,228,381.49,On Time,B1
+QR4568,Qatar Airways,Hamad International,Chiguang,China,2:25 PM,Jomo Kenyatta International,Évlalo,Greece,20,QR,SZQ,HFD,4/10/2022,12:03 AM,1661.77,385,331.53,On Time,A1
+NH7202,All Nippon Airways,Haneda,Poitiers,France,12:38 PM,Incheon International,Boston,United States,12,NH,NIO,PGZ,8/25/2022,7:23 PM,7438.03,487,201.54,Delayed,A3
+IB2849,Iberia,Adolfo Suárez Madrid–Barajas,Lewopao,Indonesia,2:20 AM,Charles de Gaulle,Seredeyskiy,Russia,14,IB,KSC,AOK,8/29/2022,8:01 AM,3446.52,52,390.2,On Time,A3
+QF8415,Qantas,Sydney Airport,Matangshan,China,11:09 PM,Haneda,Bayeux,Brazil,20,QF,AUJ,GOT,9/13/2022,4:11 PM,2671.88,245,333.12,Delayed,B1
+ET7222,Ethiopian Airlines,Bole International,Mayong,Indonesia,12:12 AM,Hamad International,Fangli,China,10,ET,HZB,LTC,6/21/2022,2:39 PM,2231.07,158,457.07,On Time,A1
+AC7018,Air Canada,Toronto Pearson,Banjar Budakeling,Indonesia,4:27 PM,John F. Kennedy International,Mikhnëvo,Russia,2,AC,JOE,KBJ,10/28/2022,1:25 PM,2347.01,253,101.97,Delayed,C3
+WN2597,Southwest Airlines,Los Angeles International,Shahe,China,1:04 AM,San Francisco International,Novogurovskiy,Russia,15,WN,SBX,QIT,11/6/2022,1:44 PM,4856.8,384,437.17,Delayed,C1
+ET7901,Ethiopian Airlines,Bole International,Verd,Slovenia,11:17 PM,Hamad International,Yuyapichis,Peru,9,ET,LUC,CQD,3/11/2022,1:22 AM,9986.48,110,52.41,Delayed,A2
+WN8141,Southwest Airlines,Los Angeles International,Ampera,Indonesia,3:04 PM,San Francisco International,Machala,Ecuador,24,WN,VVO,CLN,5/20/2022,8:42 PM,2765.16,360,449.64,Delayed,C1
+QF5189,Qantas,Sydney Airport,Thị Trấn Na Hang,Vietnam,6:32 PM,Melbourne Airport,Concord,Canada,16,QF,IBR,PGL,8/24/2022,3:17 PM,4029.34,228,60.68,On Time,B1
+UA5741,United Airlines,Los Angeles International,Eksjö,Sweden,12:21 PM,San Francisco International,Sirnasari,Indonesia,11,UA,WYB,CRD,1/8/2022,12:27 AM,9874.58,69,288.79,On Time,C4
+LA1659,LATAM Airlines,São Paulo/Guarulhos International,Kragan,Indonesia,8:45 AM,Ministro Pistarini International,Balīlā,Jordan,16,LA,AKM,KCN,6/11/2022,9:46 PM,4307.94,379,65.93,On Time,A2
+AA1542,American Airlines,John F. Kennedy International,Kirovgrad,Russia,12:40 AM,Hartsfield-Jackson Atlanta,Xing’an,China,8,AA,CSF,RSD,6/11/2022,1:05 PM,5623.99,424,260.26,On Time,C2
+EK7011,Emirates,Dubai International,Pehčevo,Macedonia,4:11 AM,Hamad International,Ulyanovsk,Russia,10,EK,CLT,ALF,9/12/2022,8:43 PM,1327.24,459,498.85,Delayed,B2
+QR1441,Qatar Airways,Hamad International,San Roque,Philippines,12:21 PM,Bole International,Masoyila,Sierra Leone,22,QR,YFL,WNH,4/28/2022,4:45 AM,8286.76,393,418.99,On Time,B2
+EK1892,Emirates,Dubai International,Lubāna,Latvia,8:24 AM,Leonardo da Vinci International,Nangtang,Indonesia,24,EK,DAV,VRB,5/8/2022,11:15 AM,5380.83,442,218.94,On Time,A1
+IB2065,Iberia,Adolfo Suárez Madrid–Barajas,Matagami,Canada,12:38 AM,Cape Town International,Basseterre,Saint Kitts and Nevis,19,IB,AOG,AHL,9/17/2022,12:51 AM,431.36,472,399.86,Delayed,C3
+SA8513,South African Airways,O.R. Tambo International,Phoenix,United States,3:26 AM,Charles de Gaulle,Velizh,Russia,6,SA,MOL,MFA,10/1/2022,10:32 PM,5196.31,216,385.3,On Time,C3
+QF5881,Qantas,Sydney Airport,Mubende,Uganda,5:02 PM,Bole International,Pilzno,Poland,16,QF,UWA,MBU,8/21/2022,11:53 AM,8894.77,356,438.79,On Time,A1
+SQ6672,Singapore Airlines,Changi,Vallenar,Chile,5:09 PM,Beijing Capital International,Budapest,Hungary,20,SQ,KUX,AGJ,6/18/2022,8:08 PM,721.53,496,434.87,Delayed,C3
+SA5492,South African Airways,O.R. Tambo International,Sel’tso,Russia,7:33 PM,Bole International,Kaliprak,Indonesia,21,SA,ABX,0,3/28/2022,8:58 PM,403.41,465,397.88,On Time,A3
+AZ9175,Alitalia,Leonardo da Vinci International,Khorixas,Namibia,10:03 AM,Charles de Gaulle,Roissy Charles-de-Gaulle,France,13,AZ,LLU,ERN,7/17/2022,5:58 AM,9223.72,59,367.09,Delayed,C3
+AM3367,Aeroméxico,Benito Juárez International,Markovo,Russia,6:47 AM,O'Hare International,Touho,New Caledonia,10,AM,LNJ,PTJ,11/7/2022,4:11 PM,4239.9,198,90.57,On Time,A3
+SQ5078,Singapore Airlines,Changi,Weishanzhuang,China,11:15 PM,Beijing Capital International,Şirrīn ash Shamālīyah,Syria,8,SQ,OKG,MLU,10/4/2022,7:11 PM,8524.22,62,81.2,Delayed,B1
+NZ1432,Air New Zealand,Auckland Airport,Itambé,Brazil,3:15 PM,Sydney Airport,Nakajah,Indonesia,2,NZ,TKJ,UMY,1/31/2022,5:22 AM,6261.23,182,221.66,On Time,B1
+NZ6282,Air New Zealand,Auckland Airport,San Juan de Limay,Nicaragua,3:17 AM,Sydney Airport,Soubré,Ivory Coast,11,NZ,ARB,VLS,12/14/2022,8:09 AM,9938.68,390,185.14,On Time,C4
+BA2312,British Airways,Heathrow,Khāngāh Dogrān,Pakistan,2:56 PM,Vienna International,Vetlanda,Sweden,7,BA,IHR,OKN,10/18/2022,8:06 AM,5634.54,133,421.39,On Time,A3
+IB3933,Iberia,Adolfo Suárez Madrid–Barajas,Ochakiv,Ukraine,9:00 PM,Frankfurt Airport,Makin Village,Kiribati,17,IB,NPA,KDR,2/25/2022,10:43 AM,1026.5,69,468.76,Delayed,C3
+EK6878,Emirates,Dubai International,Sumuranyar,Indonesia,1:48 AM,Hamad International,Kusak,Russia,2,EK,EAE,UMU,7/18/2022,12:47 PM,3972.85,211,271.67,On Time,C1
+AM7841,Aeroméxico,Benito Juárez International,Kuybyshevo,Russia,3:25 AM,O'Hare International,Tower,Ireland,20,AM,KOC,MJN,6/8/2022,9:36 AM,2377.31,467,251.94,On Time,A1
+QF3855,Qantas,Sydney Airport,Karangbaru,Indonesia,6:18 PM,Melbourne Airport,Xiongchi,China,22,QF,NZA,XTR,11/17/2022,7:42 PM,6321.15,274,297.59,Delayed,B2
+BA6603,British Airways,Heathrow,Nansheng,China,11:08 PM,Copenhagen Airport,Sparwood,Canada,3,BA,ANP,JNA,1/4/2022,12:13 PM,9438.7,433,113.25,On Time,C4
+AA1144,American Airlines,John F. Kennedy International,Qifang,China,12:14 PM,Hartsfield-Jackson Atlanta,Nanying,China,24,AA,MOQ,OJC,5/21/2022,4:11 AM,6759.4,493,468.06,On Time,C4
+AV5379,Avianca,El Dorado International,Carquefou,France,1:10 AM,Jorge Chávez International,Tarbes,France,14,AV,HVR,SLT,1/15/2022,8:58 PM,3574.67,498,224.65,On Time,A1
+AI4480,Air India,Indira Gandhi International,Khon Buri,Thailand,8:10 AM,Changi,Jinshandian,China,21,AI,KHC,DGD,10/8/2022,3:40 AM,1220.39,415,405.63,On Time,A1
+IB8461,Iberia,Adolfo Suárez Madrid–Barajas,Xianyuan,China,6:54 AM,Charles de Gaulle,Fak Tha,Thailand,18,IB,CND,RSN,6/7/2022,6:04 PM,9378.83,56,360.46,On Time,A3
+AF4908,Air France,Charles de Gaulle,Jinshi,China,6:39 PM,Frankfurt Airport,Gantang,China,21,AF,USA,BQE,7/22/2022,4:59 PM,4216.36,183,265.64,On Time,C4
+EK2641,Emirates,Dubai International,Medzhibozh,Ukraine,1:54 AM,Hamad International,Xijiadian,China,4,EK,FEA,NOM,10/19/2022,12:40 PM,1416.73,383,276.54,On Time,B1
+UA6626,United Airlines,Los Angeles International,Luozhou,China,11:05 AM,San Francisco International,Zelenogorsk,Russia,13,UA,DOG,CRU,11/10/2022,5:33 AM,4994.23,477,105.02,On Time,B2
+AF5545,Air France,Charles de Gaulle,Kogota,Japan,8:13 PM,Toronto Pearson,Nuasepu,Indonesia,10,AF,RJK,VGZ,2/7/2022,2:25 AM,5111.1,107,353.65,On Time,B1
+WN8596,Southwest Airlines,Los Angeles International,Ulichnoye,Ukraine,5:27 PM,San Francisco International,Subusub,Philippines,16,WN,JIK,KSJ,12/21/2022,6:28 AM,4964.98,322,141.82,On Time,B2
+LH2110,Lufthansa,Frankfurt Airport,Goyty,Russia,3:44 PM,Charles de Gaulle,Chengbei,China,8,LH,GVP,DTI,11/25/2022,4:05 PM,2378.01,101,172.59,On Time,A1
+WN9889,Southwest Airlines,Los Angeles International,Tazhuang,China,9:23 AM,San Francisco International,Perstorp,Sweden,2,WN,BWT,HNN,10/11/2022,11:27 PM,1912.2,393,448.99,Delayed,B2
+AV1168,Avianca,El Dorado International,Usogorsk,Russia,7:40 AM,O'Hare International,Isojoki,Finland,14,AV,LBN,EUX,8/29/2022,4:55 PM,5934.62,461,103.15,On Time,C1
+AZ5428,Alitalia,Leonardo da Vinci International,Gongdanglegi Kulon,Indonesia,5:58 AM,Charles de Gaulle,Tegalgede Kulon,Indonesia,10,AZ,AZL,CAW,6/12/2022,1:32 AM,5382.15,429,267.38,Delayed,A3
+LA5411,LATAM Airlines,São Paulo/Guarulhos International,Marília,Brazil,9:26 PM,Ministro Pistarini International,Pacasmayo,Peru,19,LA,SEY,GLV,4/23/2022,5:17 AM,9728.08,63,201.16,On Time,A1
+AC3027,Air Canada,Toronto Pearson,Ngamba,Indonesia,7:49 AM,São Paulo/Guarulhos International,Tangchijie,China,8,AC,GMO,VCV,4/27/2022,4:49 AM,2887.26,412,470.92,On Time,C2
+AC2255,Air Canada,Toronto Pearson,Korczew,Poland,7:31 PM,John F. Kennedy International,Mikhaylovka,Russia,19,AC,GPZ,ASZ,3/22/2022,12:59 AM,2605.66,423,321.29,On Time,B2
+CX1598,Cathay Pacific,Hong Kong International,Fakaifou Village,Tuvalu,6:56 PM,Leonardo da Vinci International,Lingshan,China,19,CX,HDM,JLR,7/17/2022,4:46 AM,2771.36,428,224.63,On Time,B2
+SA3812,South African Airways,O.R. Tambo International,Řečany nad Labem,Czech Republic,10:12 AM,Charles de Gaulle,Preserje pri Radomljah,Slovenia,24,SA,IXQ,OCM,2/10/2022,4:51 AM,5071.02,179,174.01,On Time,B1
+WN7177,Southwest Airlines,Los Angeles International,Yegorlykskaya,Russia,4:57 PM,John F. Kennedy International,Tafí Viejo,Argentina,1,WN,YDG,FBE,12/4/2022,2:16 AM,561.38,94,94.86,On Time,B1
+SQ2917,Singapore Airlines,Changi,Miguel Hidalgo,Mexico,4:16 AM,Beijing Capital International,Valence,France,20,SQ,NCN,ULM,4/15/2022,7:46 PM,1443.13,246,288.04,Delayed,C3
+SQ3139,Singapore Airlines,Changi,Tunasbaru,Indonesia,7:40 AM,Beijing Capital International,Compiègne,France,5,SQ,URD,TUF,1/21/2022,11:10 PM,3907.46,192,51.36,Delayed,A3
+SQ4591,Singapore Airlines,Changi,Ituiutaba,Brazil,2:45 PM,Bole International,Mriyunan,Indonesia,17,SQ,USU,EDA,7/29/2022,1:39 AM,5801.71,415,333.69,On Time,A2
+AI1305,Air India,Indira Gandhi International,Thomazeau,Haiti,8:05 PM,Kuala Lumpur International,Laguna de Perlas,Nicaragua,10,AI,RTY,CCR,1/31/2022,7:56 PM,7854.17,167,383.75,On Time,A3
+AM4189,Aeroméxico,Benito Juárez International,Gading,Indonesia,11:41 AM,O'Hare International,Krajan Pocangan,Indonesia,21,AM,WME,CNB,9/19/2022,12:49 PM,5698.7,246,95.34,Delayed,A1
+KL4848,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Sake,Democratic Republic of the Congo,12:52 PM,Charles de Gaulle,Gualeguay,Argentina,8,KL,HPT,EJH,11/10/2022,6:05 PM,2858.08,342,375.46,On Time,C1
+LA4936,LATAM Airlines,São Paulo/Guarulhos International,Terawas,Indonesia,2:48 PM,Ministro Pistarini International,Lagoa,Portugal,7,LA,UKT,VST,11/16/2022,4:36 AM,4839.59,154,275.63,On Time,C4
+NZ6084,Air New Zealand,Auckland Airport,Meishan,China,12:54 PM,Sydney Airport,Pivka,Slovenia,20,NZ,VEE,CXA,2/3/2022,3:28 AM,8777.91,474,329.74,On Time,C4
+AA6821,American Airlines,John F. Kennedy International,Ilanskiy,Russia,10:47 AM,Hartsfield-Jackson Atlanta,Nantes,France,17,AA,RST,MXR,8/1/2022,2:25 AM,2400.98,408,354.58,On Time,A2
+NZ2284,Air New Zealand,Auckland Airport,Thị Trấn Bắc Yên,Vietnam,1:44 PM,Sydney Airport,San Juan,Philippines,12,NZ,PAJ,KNT,5/30/2022,12:54 AM,1267.17,124,212.96,On Time,B2
+TG3796,Thai Airways,Suvarnabhumi,Sindong,South Korea,6:54 PM,Jomo Kenyatta International,Marathon,Canada,2,TG,NDK,EPH,8/26/2022,9:01 PM,1380.35,146,382.12,On Time,B2
+LH5458,Lufthansa,Frankfurt Airport,Hortolândia,Brazil,11:43 PM,Charles de Gaulle,Daveluyville,Canada,7,LH,DGF,MBY,10/5/2022,9:32 AM,7792.1,383,96.29,Delayed,B1
+KL1093,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Sendang,Indonesia,4:18 AM,Charles de Gaulle,Kohtla-Järve,Estonia,16,KL,URS,GZI,5/17/2022,8:37 AM,6099.69,79,430.71,Delayed,B2
+EK4878,Emirates,Dubai International,Shangyong,China,10:03 AM,Hamad International,Szemud,Poland,4,EK,AMS,MFH,2/10/2022,11:46 AM,7483.56,431,436.99,On Time,B2
+AC6753,Air Canada,Toronto Pearson,Ejidal,Mexico,9:41 AM,John F. Kennedy International,Radzanów,Poland,15,AC,RSS,NRR,5/31/2022,5:02 AM,3517.31,367,123.77,On Time,C3
+LH2536,Lufthansa,Frankfurt Airport,Jinchang,China,2:53 PM,Amsterdam Airport Schiphol,Saint Louis,United States,22,LH,BFN,HDN,2/27/2022,11:36 PM,6529.9,349,491.98,Delayed,C4
+AM7778,Aeroméxico,Benito Juárez International,Ruyigi,Burundi,5:51 AM,O'Hare International,Chalamarca,Peru,24,AM,BKE,SBW,1/5/2022,2:46 AM,4620.11,158,323.5,On Time,A2
+AF5186,Air France,Charles de Gaulle,Salegading,Indonesia,9:47 PM,Frankfurt Airport,Kumo,Nigeria,21,AF,HAQ,ROV,8/17/2022,12:36 AM,4312.33,199,449.89,Cancelled,A3
+KE5277,Korean Air,Incheon International,Linpu,China,11:35 PM,Haneda,Niaojin,China,1,KE,LCI,GTG,2/28/2022,8:30 AM,2919.54,382,177.27,Delayed,A2
+UA1293,United Airlines,Los Angeles International,Kalipucang,Indonesia,10:56 PM,San Francisco International,Qitan,China,22,UA,OOR,MJW,2/15/2022,12:12 AM,8834.31,432,142.61,On Time,C2
+AM5336,Aeroméxico,Benito Juárez International,Ellös,Sweden,6:27 AM,O'Hare International,Carletonville,South Africa,20,AM,NTT,AIW,2/13/2022,4:39 AM,3912.09,393,196.95,Cancelled,C2
+KE9571,Korean Air,Incheon International,Linköping,Sweden,9:16 PM,Haneda,Marelesu,China,19,KE,WBW,ZAT,3/23/2022,11:18 PM,9196.32,256,455.31,Delayed,C3
+LA9082,LATAM Airlines,São Paulo/Guarulhos International,Abū Sunbul,Egypt,1:08 PM,Ministro Pistarini International,Kyra,Russia,7,LA,FOC,ZLT,6/5/2022,7:17 AM,4106.82,315,296.72,On Time,A3
+AC9935,Air Canada,Toronto Pearson,Tarariras,Uruguay,2:59 PM,Vancouver International,Yoshkar-Ola,Russia,11,AC,HLP,LMZ,7/3/2022,7:53 PM,1932.0,268,303.05,On Time,C3
+SK2389,SAS Scandinavian,Copenhagen Airport,Majur,Serbia,10:53 PM,Charles de Gaulle,Sabóia,Portugal,17,SK,IXC,HIG,7/6/2022,12:41 AM,126.58,452,297.85,On Time,A1
+AF7505,Air France,Charles de Gaulle,Aemura,Indonesia,9:38 PM,Frankfurt Airport,Sattahip,Thailand,21,AF,AFT,CFI,7/13/2022,4:34 PM,6845.81,257,218.38,On Time,B2
+AZ7460,Alitalia,Leonardo da Vinci International,Zhoujiang,China,5:33 PM,Cairo International,Sumberagung,Indonesia,20,AZ,UAQ,MWO,12/3/2022,2:53 PM,981.3,478,407.05,Delayed,C3
+SQ8500,Singapore Airlines,Changi,Mukun,Indonesia,4:39 PM,Beijing Capital International,Miskindzha,Russia,5,SQ,SUS,JAK,11/1/2022,7:29 PM,1593.32,206,212.13,On Time,C3
+AM8252,Aeroméxico,Benito Juárez International,Shuiquan,China,6:36 PM,O'Hare International,Billa,Indonesia,1,AM,QSI,EAA,1/14/2022,6:35 AM,614.69,427,412.14,On Time,C2
+NH2007,All Nippon Airways,Haneda,Haozigang,China,3:00 AM,Incheon International,Obninsk,Russia,9,NH,MTN,LLJ,8/4/2022,1:58 AM,4069.06,407,252.51,Delayed,B1
+AV1393,Avianca,El Dorado International,Omaha,United States,6:27 PM,Auckland Airport,Quillo,Peru,1,AV,UOS,MRB,6/25/2022,10:46 PM,5514.9,298,179.74,On Time,B2
+BA2361,British Airways,Heathrow,Xingguo,China,8:44 PM,Charles de Gaulle,Mae Chan,Thailand,2,BA,KCK,APR,3/16/2022,9:17 AM,6521.66,378,255.42,Delayed,A2
+LH7027,Lufthansa,Frankfurt Airport,Leran Wetan,Indonesia,6:20 PM,Amsterdam Airport Schiphol,Kireyevsk,Russia,10,LH,BUV,LZC,6/14/2022,3:48 PM,8169.39,144,150.88,On Time,C2
+AI6572,Air India,Indira Gandhi International,Gunajaya,Indonesia,8:17 PM,Chhatrapati Shivaji International,Mboursou Léré,Chad,4,AI,AKE,NRE,1/19/2022,1:20 PM,2740.16,117,127.69,On Time,C2
+AV2122,Avianca,El Dorado International,Szczecin,Poland,11:54 AM,O'Hare International,Carhuac,Peru,3,AV,ICY,IXT,6/17/2022,10:37 PM,2615.13,153,453.19,On Time,B2
+LH3854,Lufthansa,Frankfurt Airport,Mercedes,Costa Rica,5:09 PM,Charles de Gaulle,Castanheira de Pêra,Portugal,23,LH,ZCN,ACH,10/9/2022,1:46 PM,2722.63,413,474.84,Delayed,C1
+NZ4633,Air New Zealand,Auckland Airport,Jasienica Rosielna,Poland,9:13 PM,Melbourne Airport,San Juan,Puerto Rico,12,NZ,GAX,BFW,6/22/2022,7:47 PM,9590.19,198,92.59,Delayed,A1
+ET6038,Ethiopian Airlines,Bole International,Kamo,Japan,2:24 PM,Hamad International,East End,Cayman Islands,6,ET,LHW,BHO,7/11/2022,10:02 AM,7324.72,313,213.24,Delayed,C3
+TG2237,Thai Airways,Suvarnabhumi,Mungkin,Indonesia,1:45 PM,Changi,Weiyang,China,24,TG,CRH,ORW,3/15/2022,5:06 AM,4106.31,338,277.64,Delayed,C2
+AI4480,Air India,Indira Gandhi International,Vardablur,Armenia,7:39 PM,Changi,Nailong,Philippines,2,AI,IZO,CME,5/13/2022,6:08 AM,1924.95,435,359.43,On Time,C3
+TG8512,Thai Airways,Suvarnabhumi,San Narciso,Philippines,1:30 PM,Changi,Lysychovo,Ukraine,8,TG,RBQ,ATU,1/8/2022,2:29 AM,5819.26,146,414.53,On Time,C1
+SA1654,South African Airways,O.R. Tambo International,Poroj,Macedonia,7:53 PM,Charles de Gaulle,Żółkiewka,Poland,11,SA,OBI,HNM,9/4/2022,1:01 AM,2280.17,500,443.45,Delayed,B1
+WN8861,Southwest Airlines,Los Angeles International,Heidelberg,South Africa,2:36 PM,Seattle-Tacoma International,Mondorf-les-Bains,Luxembourg,18,WN,IDA,ZCN,11/19/2022,12:43 AM,6094.42,297,115.7,On Time,C4
+WN9905,Southwest Airlines,Los Angeles International,Roubaix,France,10:10 AM,San Francisco International,Encañada,Peru,1,WN,WNS,HOA,12/20/2022,5:09 PM,4667.05,428,492.85,Cancelled,A1
+AZ4962,Alitalia,Leonardo da Vinci International,Watuweri,Indonesia,1:12 AM,Charles de Gaulle,Challas,Peru,2,AZ,AUW,HRG,8/12/2022,8:48 AM,1884.14,413,113.11,On Time,A3
+SQ3260,Singapore Airlines,Changi,Azilal,Morocco,7:32 PM,Beijing Capital International,Sukamulya,Indonesia,3,SQ,0,GPD,9/1/2022,3:51 PM,5059.88,389,90.75,On Time,C3
+AF6790,Air France,Charles de Gaulle,Campaka,Indonesia,1:29 AM,Frankfurt Airport,Joutseno,Finland,13,AF,HJT,MSW,1/25/2022,11:29 AM,121.64,192,254.6,Delayed,B2
+LH2054,Lufthansa,Frankfurt Airport,Hacienda La Calera,Chile,3:46 AM,Charles de Gaulle,Corujeira,Portugal,14,LH,GUE,NQY,1/23/2022,12:31 PM,3782.39,84,404.85,Delayed,B2
+IB5135,Iberia,Adolfo Suárez Madrid–Barajas,Minador do Negrão,Brazil,8:38 AM,Dallas/Fort Worth International,Katyuzhanka,Ukraine,24,IB,NRG,TCJ,9/28/2022,2:55 AM,8559.67,156,215.32,On Time,A2
+SQ6943,Singapore Airlines,Changi,Kořenov,Czech Republic,5:19 AM,Beijing Capital International,Xiamao,China,1,SQ,NUS,MOY,1/17/2022,5:00 PM,1391.51,401,65.95,Cancelled,B1
+LA2448,LATAM Airlines,São Paulo/Guarulhos International,Bājitpur,Bangladesh,6:23 AM,Ministro Pistarini International,Victoria,Philippines,13,LA,PMX,SXF,3/2/2022,10:56 AM,3297.24,235,199.02,On Time,C3
+QF7612,Qantas,Sydney Airport,Gaogu,China,10:08 PM,Leonardo da Vinci International,Binitayan,Philippines,7,QF,MLO,ASQ,9/27/2022,2:46 PM,2684.1,280,55.41,Delayed,B2
+AC4052,Air Canada,Toronto Pearson,Rožna Dolina,Slovenia,12:52 AM,John F. Kennedy International,Armação,Brazil,13,AC,DMK,LPQ,4/8/2022,2:12 PM,917.49,268,166.91,Delayed,A1
+UA9951,United Airlines,Los Angeles International,Petoa,Honduras,4:00 PM,San Francisco International,Penteado,Portugal,2,UA,ZQZ,AVN,11/20/2022,3:37 PM,1371.85,89,153.9,Cancelled,A3
+AZ8339,Alitalia,Leonardo da Vinci International,Guacarí,Colombia,10:22 AM,Zurich Airport,Cangshan,China,15,AZ,EDR,KFA,12/8/2022,2:41 PM,3417.46,120,378.64,On Time,C3
+AV8136,Avianca,El Dorado International,Telengsari,Indonesia,12:24 PM,O'Hare International,Fundão,Portugal,13,AV,MKZ,MWR,10/2/2022,11:57 AM,7816.22,231,416.03,On Time,C4
+CX5881,Cathay Pacific,Hong Kong International,Pomahan,Indonesia,4:05 AM,Changi,Nobinobi,Indonesia,12,CX,BWH,BRP,2/16/2022,11:08 PM,9349.64,493,380.97,On Time,A2
+LA7200,LATAM Airlines,São Paulo/Guarulhos International,Zhangjiawan,China,7:05 AM,Ministro Pistarini International,Santa Rita,Philippines,15,LA,SPJ,PPN,6/30/2022,3:59 AM,2398.76,494,270.32,Cancelled,C3
+SK3209,SAS Scandinavian,Copenhagen Airport,Balzar,Ecuador,5:38 PM,Charles de Gaulle,Repušnica,Croatia,19,SK,TIN,DOI,11/8/2022,10:46 PM,5803.68,169,217.75,On Time,A3
+IB9744,Iberia,Adolfo Suárez Madrid–Barajas,Calimete,Cuba,12:15 PM,Charles de Gaulle,Songhae,South Korea,3,IB,ADY,MLW,8/11/2022,8:38 PM,2446.24,86,319.85,Delayed,C2
+LA2324,LATAM Airlines,São Paulo/Guarulhos International,Miami Beach,United States,8:14 AM,Ministro Pistarini International,Potou,China,18,LA,SMI,KCB,6/20/2022,12:45 AM,356.76,415,276.05,On Time,C2
+BA9018,British Airways,Heathrow,Smederevska Palanka,Serbia,4:16 AM,Charles de Gaulle,Jiulian,China,10,BA,PAV,LST,11/28/2022,12:22 AM,9858.58,194,205.54,On Time,A2
+TG3333,Thai Airways,Suvarnabhumi,Paripiranga,Brazil,1:27 AM,Sydney Airport,Berck,France,12,TG,ULB,CUR,8/18/2022,5:19 AM,3709.2,352,374.82,On Time,C4
+SA5902,South African Airways,O.R. Tambo International,Ushuaia,Argentina,8:21 PM,Charles de Gaulle,Myronivka,Ukraine,21,SA,YSA,ODD,6/2/2022,10:38 PM,1057.93,406,244.7,Delayed,C3
+KL9709,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Denov,Uzbekistan,12:42 PM,Copenhagen Airport,Budapest,Hungary,19,KL,YKU,APZ,4/16/2022,9:23 AM,1756.03,300,318.0,Delayed,C1
+SQ1577,Singapore Airlines,Changi,Cikajang,Indonesia,4:29 PM,Melbourne Airport,Dijon,France,10,SQ,VHV,ERV,5/7/2022,11:26 AM,256.45,420,352.94,Cancelled,C4
+BA8723,British Airways,Heathrow,Kalaxilike,China,1:28 PM,Charles de Gaulle,Reinaldes,Portugal,24,BA,YYW,CFK,9/19/2022,7:30 AM,3889.69,94,67.98,On Time,C4
+SK4327,SAS Scandinavian,Copenhagen Airport,Moret-sur-Loing,France,3:15 PM,Charles de Gaulle,Jinja,Uganda,2,SK,OGM,BRL,2/1/2022,5:17 AM,2813.39,384,352.39,On Time,C3
+SK4327,SAS Scandinavian,Copenhagen Airport,Ningshan Chengguanzhen,China,5:02 AM,Charles de Gaulle,Pomahuaca,Peru,6,SK,QOQ,FGD,2/9/2022,8:29 PM,3766.2,224,444.45,On Time,A2
+AV1393,Avianca,El Dorado International,Lima,Peru,7:27 AM,Auckland Airport,Bhimbar,Pakistan,3,AV,HLB,HEW,12/29/2022,8:50 AM,3739.4,317,380.39,Delayed,A2
+AC5311,Air Canada,Toronto Pearson,Batutulis,Indonesia,10:13 AM,John F. Kennedy International,Gorna Oryakhovitsa,Bulgaria,12,AC,SCQ,TDK,1/18/2022,5:58 AM,4946.06,364,213.2,On Time,C1
+ET6234,Ethiopian Airlines,Bole International,Shuiji,China,7:42 PM,Hamad International,Bamusso,Cameroon,11,ET,O62,MEZ,5/16/2022,11:13 PM,8132.0,77,478.61,Delayed,C1
+EK5171,Emirates,Dubai International,Nangahale,Indonesia,12:03 AM,Hamad International,Starcevica,Bosnia and Herzegovina,16,EK,FDY,RYN,9/10/2022,7:29 AM,6142.79,421,464.93,Delayed,A3
+WN9468,Southwest Airlines,Los Angeles International,Honolulu,United States,5:47 PM,San Francisco International,Mountain View,United States,6,WN,ZFN,KPT,9/3/2022,2:04 AM,8726.13,464,323.05,On Time,A1
+AM7742,Aeroméxico,Benito Juárez International,Floda,Sweden,3:52 AM,O'Hare International,Kovel’,Ukraine,17,AM,STW,LPY,12/26/2022,7:11 PM,618.91,168,481.22,Delayed,B1
+BA9490,British Airways,Heathrow,Imeni Tsyurupy,Russia,5:42 PM,Charles de Gaulle,Garhi Yāsīn,Pakistan,17,BA,CUM,ANV,4/27/2022,5:22 PM,4945.13,249,433.53,On Time,A2
+TG5949,Thai Airways,Suvarnabhumi,Santa Maria Oliveira,Portugal,8:13 PM,Changi,Liuliping,China,21,TG,MUE,BIA,8/19/2022,6:20 PM,6510.13,284,319.67,On Time,B1
+SA1473,South African Airways,O.R. Tambo International,Potoci,Bosnia and Herzegovina,2:17 PM,Frankfurt Airport,Sokol,Russia,7,SA,TID,TIC,3/10/2022,2:02 PM,4482.37,191,497.44,On Time,C4
+KL2554,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Pumai,Indonesia,11:17 PM,Leonardo da Vinci International,Sumbergedong,Indonesia,13,KL,TIQ,YDU,6/16/2022,4:51 PM,1279.57,97,248.55,On Time,B2
+NH4113,All Nippon Airways,Haneda,Ust-Kamenogorsk,Kazakhstan,6:17 PM,Incheon International,Little Rock,United States,19,NH,YST,QRA,4/16/2022,3:53 PM,8850.6,449,428.0,Delayed,C3
+DL4448,Delta Air Lines,John F. Kennedy International,Niort,France,3:08 AM,Hartsfield-Jackson Atlanta,Sungai Nyamuk,Indonesia,10,DL,TEY,NAO,3/25/2022,8:33 AM,8363.56,78,157.64,On Time,C3
+SK8444,SAS Scandinavian,Copenhagen Airport,Melekyne,Ukraine,6:19 PM,Ministro Pistarini International,Bektemir,Uzbekistan,16,SK,SMH,YTR,1/25/2022,7:36 PM,3091.11,67,222.85,Delayed,A2
+AV3679,Avianca,El Dorado International,Ngaoundéré,Cameroon,3:28 PM,Los Angeles International,Karangboyo,Indonesia,17,AV,QRY,KLY,10/9/2022,6:56 PM,6497.48,194,231.41,On Time,C1
+LA1659,LATAM Airlines,São Paulo/Guarulhos International,Plast,Russia,8:07 AM,Ministro Pistarini International,Dishnā,Egypt,11,LA,FIN,TRQ,5/1/2022,7:07 AM,9765.53,317,356.63,On Time,C3
+QF3938,Qantas,Sydney Airport,Jaciara,Brazil,5:43 PM,Melbourne Airport,Wajir,Kenya,14,QF,AYP,CMJ,6/27/2022,3:30 AM,7272.25,493,65.27,On Time,B1
+KL5073,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Březová,Czech Republic,4:40 AM,Benito Juárez International,Mingguang,China,6,KL,RNS,NCI,11/4/2022,6:49 PM,3497.13,475,101.77,On Time,A3
+AV2432,Avianca,El Dorado International,Puno,Peru,6:03 AM,O'Hare International,Thāru Shāh,Pakistan,1,AV,NGS,TKB,2/5/2022,2:53 PM,4302.75,456,398.93,Delayed,A3
+NZ6574,Air New Zealand,Auckland Airport,Muskegon,United States,4:16 PM,Sydney Airport,El Socorro,Honduras,23,NZ,URT,YTU,1/11/2022,7:41 AM,7446.38,145,492.64,On Time,A3
+AA1935,American Airlines,John F. Kennedy International,Campos do Jordão,Brazil,2:54 PM,Hartsfield-Jackson Atlanta,Gugark’,Armenia,21,AA,PHI,AWB,11/18/2022,1:47 AM,9432.2,353,110.55,Delayed,C2
+UA1144,United Airlines,Los Angeles International,Đắk Song,Vietnam,5:01 AM,San Francisco International,Contraalmirante Cordero,Argentina,3,UA,HTI,ILA,7/31/2022,7:17 AM,5870.23,436,208.24,On Time,B1
+TG5404,Thai Airways,Suvarnabhumi,Lunec,Philippines,11:13 AM,Changi,Santa Elena de Uairén,Venezuela,11,TG,HBK,MID,10/19/2022,11:03 PM,4371.1,163,203.43,On Time,A1
+NH4302,All Nippon Airways,Haneda,Torre,Portugal,8:55 AM,Incheon International,Rumburk,Czech Republic,6,NH,BXK,TNX,7/28/2022,6:31 PM,2347.64,266,438.58,On Time,C2
+AA5136,American Airlines,John F. Kennedy International,Ijuí,Brazil,7:23 PM,Hartsfield-Jackson Atlanta,Miaotang,China,7,AA,KTH,SCK,6/5/2022,7:25 PM,3255.46,255,315.61,On Time,B2
+IB3960,Iberia,Adolfo Suárez Madrid–Barajas,Fontenay-sous-Bois,France,1:54 AM,Charles de Gaulle,Prey Veng,Cambodia,15,IB,CBW,FDY,6/6/2022,5:30 AM,1475.89,476,359.24,On Time,A2
+SQ7616,Singapore Airlines,Changi,Yinhe,China,11:48 AM,Beijing Capital International,Wonosari,Indonesia,18,SQ,DBU,RAF,12/22/2022,9:50 PM,572.78,405,227.1,On Time,A1
+BA8026,British Airways,Heathrow,Donan,Indonesia,1:18 AM,Vancouver International,Santa Brigida,Philippines,9,BA,WBC,WSH,12/26/2022,7:04 PM,6618.68,85,169.53,On Time,A2
+AA9987,American Airlines,John F. Kennedy International,San Lucas,Philippines,5:40 PM,Hartsfield-Jackson Atlanta,La Gloria,Mexico,15,AA,NGZ,BTR,3/24/2022,12:19 PM,593.55,64,179.22,Delayed,C1
+NH2978,All Nippon Airways,Haneda,Baranti,Indonesia,3:38 PM,Hong Kong International,Sang-e Māshah,Afghanistan,22,NH,PUK,FCA,4/6/2022,12:15 AM,9774.35,216,87.28,On Time,B2
+LA5725,LATAM Airlines,São Paulo/Guarulhos International,Campaka,Indonesia,12:57 PM,Denver International,Rakai,Uganda,14,LA,LTB,YDU,11/3/2022,6:32 AM,7574.57,163,264.38,Delayed,C2
+BA9697,British Airways,Heathrow,High Point,United States,3:58 PM,Frankfurt Airport,Yangyuan,China,14,BA,IFN,AHY,11/24/2022,1:13 PM,2970.01,436,460.97,On Time,B1
+LA8666,LATAM Airlines,São Paulo/Guarulhos International,Saint-Quentin,France,5:32 AM,Ministro Pistarini International,Urshel’skiy,Russia,15,LA,TFS,KOP,9/8/2022,12:31 AM,2264.26,408,114.39,Delayed,C1
+NZ5909,Air New Zealand,Auckland Airport,Winschoten,Netherlands,11:19 AM,Vancouver International,Trới,Vietnam,6,NZ,FEA,EMM,12/6/2022,6:21 PM,2410.99,115,351.03,On Time,A3
+TG5279,Thai Airways,Suvarnabhumi,Mueang Nonthaburi,Thailand,1:33 PM,Changi,Danyang,China,15,TG,THN,CHY,9/17/2022,6:51 PM,2596.15,363,416.31,On Time,C1
+AA9129,American Airlines,John F. Kennedy International,Solna,Sweden,10:52 PM,Hartsfield-Jackson Atlanta,Dikirnis,Egypt,14,AA,RDM,BXP,9/10/2022,6:50 PM,4445.54,345,67.58,On Time,B1
+KL1655,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Atalaia,Brazil,9:05 PM,Charles de Gaulle,Amgalang,China,24,KL,OYL,BTD,6/1/2022,12:49 PM,8574.58,185,162.47,On Time,C4
+NH5199,All Nippon Airways,Haneda,Heshengbao,China,6:31 PM,Incheon International,Hongqi Yingzi,China,6,NH,YGB,GCN,4/30/2022,10:19 AM,852.83,375,298.99,On Time,C1
+ET1495,Ethiopian Airlines,Bole International,Stenungsund,Sweden,3:26 PM,Frankfurt Airport,Yaring,Thailand,14,ET,DWO,WID,1/1/2022,3:45 PM,4881.51,314,76.92,Delayed,C3
+IB8675,Iberia,Adolfo Suárez Madrid–Barajas,Shanling,China,3:07 PM,Charles de Gaulle,Minneapolis,United States,19,IB,ETS,BNW,3/22/2022,9:20 PM,1807.9,71,360.96,On Time,B2
+AF6961,Air France,Charles de Gaulle,Kushiro,Japan,4:55 PM,Frankfurt Airport,Kibondo,Tanzania,10,AF,DLD,GON,1/18/2022,8:00 AM,4995.73,95,410.15,On Time,C4
+KL8406,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Novyy Svit,Ukraine,8:20 PM,Charles de Gaulle,Nabeul,Tunisia,21,KL,DMK,KBF,12/15/2022,10:40 PM,221.32,207,218.87,Delayed,A1
+EK5821,Emirates,Dubai International,Wanareja,Indonesia,4:02 AM,Hamad International,Bergen,Norway,9,EK,SEO,KVR,9/27/2022,6:13 AM,8283.76,165,328.16,On Time,C2
+IB2906,Iberia,Adolfo Suárez Madrid–Barajas,Deqing,China,1:17 AM,Charles de Gaulle,Kuncen,Indonesia,24,IB,UHE,NPL,8/29/2022,7:01 PM,8718.61,67,195.03,On Time,A2
+AA5127,American Airlines,John F. Kennedy International,Xinan,China,5:54 PM,Miami International,Gangbei,China,13,AA,HKD,FRD,4/27/2022,8:49 PM,5691.88,129,50.82,Delayed,A3
+AA7069,American Airlines,John F. Kennedy International,Hollola,Finland,8:41 PM,Cape Town International,Taiobeiras,Brazil,18,AA,BMF,BQA,7/28/2022,6:20 PM,2396.18,215,201.05,Delayed,C4
+CX9197,Cathay Pacific,Hong Kong International,Nanlu,China,10:11 AM,Amsterdam Airport Schiphol,Arcos,Brazil,13,CX,KTR,KLC,11/19/2022,5:25 PM,6700.65,451,219.78,On Time,A2
+LH7260,Lufthansa,Frankfurt Airport,Boussé,Burkina Faso,11:15 AM,Amsterdam Airport Schiphol,Novolugovoye,Russia,17,LH,STT,LPS,4/11/2022,5:05 PM,7633.33,394,147.47,On Time,A2
+SK5287,SAS Scandinavian,Copenhagen Airport,Moholm,Sweden,11:27 AM,Charles de Gaulle,Kastornoye,Russia,11,SK,LSP,PEN,2/28/2022,7:43 PM,4995.21,465,349.37,On Time,C4
+QF1241,Qantas,Sydney Airport,Joaçaba,Brazil,2:40 PM,Melbourne Airport,Qinjiang,China,16,QF,KDD,AGO,9/10/2022,5:19 PM,4992.98,435,139.15,On Time,C4
+SQ1972,Singapore Airlines,Changi,Pasirlaja,Indonesia,7:03 PM,Beijing Capital International,Witkowo,Poland,5,SQ,TKW,LYX,9/11/2022,6:42 AM,9435.4,340,251.66,On Time,C3
+DL5422,Delta Air Lines,John F. Kennedy International,Gereykhanovskoye,Russia,10:48 PM,O'Hare International,Kobarid,Slovenia,13,DL,OND,PCO,2/10/2022,1:51 PM,1594.79,60,156.73,Delayed,A2
+QR5659,Qatar Airways,Hamad International,Santiago do Cacém,Portugal,2:15 AM,Bole International,Bayanan,Philippines,12,QR,POV,NDY,3/11/2022,5:57 PM,306.17,69,460.7,Delayed,C1
+WN4957,Southwest Airlines,Los Angeles International,Nao,Indonesia,3:37 AM,San Francisco International,Lille,France,1,WN,ZPB,JEF,7/16/2022,12:10 AM,9772.84,125,135.13,On Time,C2
+WN8883,Southwest Airlines,Los Angeles International,Golacir,Indonesia,1:09 AM,Chhatrapati Shivaji International,Bistrica ob Sotli,Slovenia,15,WN,BSJ,OGE,4/16/2022,1:13 PM,6912.65,402,323.19,Delayed,C2
+DL3161,Delta Air Lines,John F. Kennedy International,Bamban,Indonesia,7:44 AM,Logan International,Xieyang,China,8,DL,IRS,VCA,9/6/2022,5:23 AM,4928.87,260,327.38,On Time,B1
+CX9197,Cathay Pacific,Hong Kong International,Guantang,China,4:19 AM,Amsterdam Airport Schiphol,Murmashi,Russia,14,CX,JRF,MQX,7/28/2022,11:55 AM,2198.95,402,281.5,Delayed,A2
+AM9222,Aeroméxico,Benito Juárez International,Bielsk Podlaski,Poland,2:14 PM,O'Hare International,Shihuajian,China,14,AM,BTT,GVI,5/19/2022,7:05 PM,7901.75,169,90.53,On Time,C4
+KL7530,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Postřekov,Czech Republic,2:02 AM,Charles de Gaulle,Achiras,Argentina,19,KL,NVR,LWY,12/3/2022,7:40 PM,6848.58,107,410.91,Delayed,B2
+AF5854,Air France,Charles de Gaulle,Tsaghveri,Georgia,7:44 AM,Frankfurt Airport,Xinshi,China,1,AF,BSY,PHN,11/25/2022,8:49 PM,5933.63,77,369.27,On Time,B2
+DL5548,Delta Air Lines,John F. Kennedy International,Juwana,Indonesia,11:18 AM,Hartsfield-Jackson Atlanta,Log pri Brezovici,Slovenia,17,DL,EDK,BLI,5/24/2022,2:16 PM,1160.8,65,270.99,On Time,A1
+NZ4078,Air New Zealand,Auckland Airport,San Andrés,Guatemala,7:17 AM,Sydney Airport,Villa Las Rosas,Argentina,2,NZ,YIF,AWD,2/16/2022,11:28 AM,8297.64,228,326.76,On Time,A2
+KL5768,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Agustín Codazzi,Colombia,11:15 AM,Charles de Gaulle,Krajan Satu,Indonesia,20,KL,SMG,APR,11/3/2022,1:50 PM,2838.96,143,69.79,On Time,B2
+SK4238,SAS Scandinavian,Copenhagen Airport,Eskifjörður,Iceland,2:59 PM,Charles de Gaulle,Nova Prata,Brazil,9,SK,PIZ,BSB,2/13/2022,5:43 PM,4486.69,408,173.03,On Time,C1
+AV4300,Avianca,El Dorado International,Heishan,China,6:38 PM,O'Hare International,Sepanjang,Indonesia,4,AV,PYH,OTU,12/29/2022,2:09 AM,7866.42,70,65.74,Delayed,C3
+QR4953,Qatar Airways,Hamad International,Pasar,Indonesia,11:51 PM,Bole International,Katipunan,Philippines,6,QR,GRP,MKC,12/5/2022,9:39 AM,4542.5,230,322.02,On Time,C4
+AZ7219,Alitalia,Leonardo da Vinci International,Saint Louis,United States,5:18 AM,Charles de Gaulle,Zīrakī,Afghanistan,8,AZ,WUA,KUX,10/27/2022,9:18 AM,8822.35,151,334.1,On Time,A3
+TG8211,Thai Airways,Suvarnabhumi,Byala Slatina,Bulgaria,4:15 AM,Changi,Jamaica,United States,8,TG,0,AUJ,9/6/2022,11:18 PM,1254.99,415,77.93,On Time,A1
+AI5502,Air India,Indira Gandhi International,Gunungkoneng,Indonesia,6:08 AM,Chhatrapati Shivaji International,Saint-Eustache,Canada,5,AI,BSK,0,1/19/2022,2:32 PM,5597.87,409,438.56,Delayed,C4
+AA7774,American Airlines,John F. Kennedy International,Boa Esperança,Brazil,8:06 AM,Hartsfield-Jackson Atlanta,Krasnokholmskiy,Russia,11,AA,NAR,LNO,11/10/2022,11:11 AM,2482.55,244,117.9,On Time,C2
+AA4031,American Airlines,John F. Kennedy International,Attard,Malta,9:18 AM,Hartsfield-Jackson Atlanta,Bila,Bosnia and Herzegovina,10,AA,TBO,MGI,11/1/2022,12:19 AM,338.66,168,401.88,Delayed,C2
+IB9744,Iberia,Adolfo Suárez Madrid–Barajas,Jönköping,Sweden,10:25 AM,Charles de Gaulle,Ziftá,Egypt,6,IB,VRU,MPH,10/30/2022,4:11 AM,7073.12,283,288.51,On Time,B1
+AZ9985,Alitalia,Leonardo da Vinci International,Purong,China,10:10 AM,Charles de Gaulle,Altay sumu,Mongolia,2,AZ,SAU,AMM,6/12/2022,5:29 PM,7339.53,349,199.27,Delayed,C4
+QF2813,Qantas,Sydney Airport,Želetava,Czech Republic,5:42 PM,Melbourne Airport,Prinza,Philippines,6,QF,MEY,KRG,1/3/2022,8:28 AM,5582.22,90,481.41,Delayed,C2
+NZ1302,Air New Zealand,Auckland Airport,Jingchuan Chengguanzhen,China,2:26 PM,Changi,Gandusari,Indonesia,23,NZ,WEP,GRX,3/17/2022,10:49 PM,7385.02,132,110.53,On Time,A3
+UA5817,United Airlines,Los Angeles International,Musashino,Japan,12:30 PM,San Francisco International,Filipstad,Sweden,4,UA,WRA,ZZO,10/31/2022,12:56 AM,2043.5,91,200.33,On Time,A3
+IB3411,Iberia,Adolfo Suárez Madrid–Barajas,Qiaozhen,China,1:59 AM,Charles de Gaulle,Tukums,Latvia,4,IB,YMW,YNC,6/29/2022,3:02 AM,1466.8,130,349.08,On Time,C3
+AV5598,Avianca,El Dorado International,Shewopo,China,2:08 AM,O'Hare International,Majengo,Tanzania,15,AV,UUS,LTG,11/23/2022,11:29 PM,1427.2,112,63.62,On Time,A1
+BA7461,British Airways,Heathrow,Onsŏng,North Korea,6:43 AM,Bole International,Aglipay,Philippines,14,BA,PHD,YDL,3/16/2022,10:21 PM,4686.81,281,245.51,Delayed,A3
+AC2322,Air Canada,Toronto Pearson,Douala,Cameroon,11:10 AM,John F. Kennedy International,Yajin,China,8,AC,GDP,TEY,4/29/2022,3:11 PM,8855.51,69,163.79,On Time,B1
+KL5923,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Jieheshi,China,10:47 AM,Charles de Gaulle,Otterburn Park,Canada,21,KL,SWQ,SGL,7/15/2022,11:49 PM,7949.27,465,260.67,On Time,C4
+EK8169,Emirates,Dubai International,Bayanhoshuu,Mongolia,7:59 AM,Hamad International,Monastirákion,Greece,1,EK,MYQ,YZY,6/9/2022,10:44 PM,1517.98,189,475.76,Delayed,C2
+SK3316,SAS Scandinavian,Copenhagen Airport,Oke Mesi,Nigeria,11:19 PM,Charles de Gaulle,Chengguan,China,9,SK,CUR,KUT,1/15/2022,5:00 PM,2137.04,151,312.26,Delayed,A3
+BA7948,British Airways,Heathrow,Zgornje Pirniče,Slovenia,5:07 AM,Leonardo da Vinci International,Shah Alam,Malaysia,21,BA,ERQ,DMU,3/6/2022,2:33 PM,7337.15,180,55.34,On Time,C4
+AZ8270,Alitalia,Leonardo da Vinci International,Cijayana,Indonesia,6:00 PM,Charles de Gaulle,Yuzawa,Japan,13,AZ,OGZ,BCA,9/13/2022,7:26 PM,9556.95,126,164.56,Delayed,C1
+KL5248,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Torkanivka,Ukraine,9:32 AM,Toronto Pearson,Oberá,Argentina,15,KL,MSP,BBG,6/12/2022,3:15 AM,8886.16,89,172.84,On Time,B1
+BA6160,British Airways,Heathrow,Villa Castelli,Argentina,8:45 PM,Charles de Gaulle,Créteil,France,2,BA,TNT,DNK,11/17/2022,9:59 PM,3896.61,232,247.52,On Time,C1
+NH2995,All Nippon Airways,Haneda,Khvānsār,Iran,9:58 PM,Changi,Rennes,France,17,NH,CTU,YKT,2/22/2022,12:52 PM,5703.32,83,390.65,On Time,C1
+SA4851,South African Airways,O.R. Tambo International,Šentrupert,Slovenia,8:20 AM,Charles de Gaulle,Rennes,France,4,SA,CBB,XLO,12/24/2022,3:53 AM,7537.51,59,255.05,Delayed,C4
+KE3954,Korean Air,Incheon International,Sambongpari,Indonesia,9:54 AM,Hong Kong International,Magisterial,Mexico,5,KE,KXA,BVM,5/3/2022,8:42 AM,927.48,98,281.04,On Time,C2
+WN4924,Southwest Airlines,Los Angeles International,Huolianpo,China,1:43 PM,San Francisco International,Narawayong,Indonesia,23,WN,LLG,KLI,12/28/2022,3:13 PM,5518.46,440,61.77,On Time,C2
+ET8279,Ethiopian Airlines,Bole International,Malino,Philippines,2:12 AM,Leonardo da Vinci International,Andamui,Indonesia,10,ET,YKO,GRV,4/8/2022,7:47 AM,9324.81,248,235.87,On Time,A2
+AI6757,Air India,Indira Gandhi International,Châteauroux,France,7:01 PM,Incheon International,Hengduo,China,6,AI,GYI,HLP,3/27/2022,8:50 AM,876.73,373,403.73,On Time,C2
+KL5768,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Bunirasa,Indonesia,8:38 PM,Charles de Gaulle,Allanridge,South Africa,9,KL,NTX,HER,12/5/2022,4:56 PM,6599.52,500,73.36,Delayed,C2
+BA4592,British Airways,Heathrow,Bessonovka,Russia,8:58 AM,Stockholm Arlanda,Luxor,Egypt,22,BA,SDL,OUL,3/8/2022,6:01 AM,9200.35,276,306.21,On Time,A3
+TG2649,Thai Airways,Suvarnabhumi,Konkwesso,Nigeria,10:46 AM,Melbourne Airport,Guaratuba,Brazil,9,TG,CXN,ABJ,7/15/2022,7:30 PM,4948.62,104,210.98,On Time,B1
+QF7728,Qantas,Sydney Airport,Shengshan,China,1:19 AM,O'Hare International,Oxelösund,Sweden,16,QF,NAG,QRT,8/10/2022,10:32 PM,7756.71,96,216.42,On Time,C3
+AC8903,Air Canada,Toronto Pearson,Yangji,China,8:46 PM,John F. Kennedy International,La Rochelle,France,4,AC,FOD,HIS,8/21/2022,7:01 PM,9700.45,101,141.25,Cancelled,C4
+AV6614,Avianca,El Dorado International,Markovo,Russia,9:57 AM,O'Hare International,Beloeil,Canada,8,AV,AOO,YMM,10/11/2022,10:17 PM,4563.29,194,494.11,Delayed,B1
+SA1355,South African Airways,O.R. Tambo International,Nageswari,Bangladesh,6:34 PM,Charles de Gaulle,Dongtuan,China,10,SA,TOZ,BZP,5/22/2022,8:08 AM,1317.97,404,424.81,On Time,A1
+LA5144,LATAM Airlines,São Paulo/Guarulhos International,Sélestat,France,7:04 PM,Jomo Kenyatta International,Corrego Grande,Brazil,20,LA,MNG,QDJ,7/7/2022,2:18 AM,4130.06,186,176.1,Delayed,B2
+KE8581,Korean Air,Incheon International,Diébougou,Burkina Faso,10:57 PM,Suvarnabhumi,Thiers,France,20,KE,LAM,KGX,8/10/2022,6:18 PM,6353.96,281,335.93,On Time,C3
+DL2865,Delta Air Lines,John F. Kennedy International,Jingtan,China,7:50 PM,Hartsfield-Jackson Atlanta,Sutton,Canada,11,DL,WHU,JKR,12/14/2022,8:12 AM,165.69,305,223.97,Cancelled,B1
+DL3070,Delta Air Lines,John F. Kennedy International,Rueil-Malmaison,France,7:51 AM,Zurich Airport,Mabua,Philippines,19,DL,AXV,JHQ,4/13/2022,9:57 PM,1932.05,455,425.22,Cancelled,C2
+CX4626,Cathay Pacific,Hong Kong International,Phan Rang-Tháp Chàm,Vietnam,7:46 PM,Changi,Khorramābād,Iran,4,CX,KMO,PTQ,11/7/2022,8:23 PM,4725.63,438,350.59,On Time,A3
+QR5361,Qatar Airways,Hamad International,Langsa,Indonesia,10:55 AM,Jomo Kenyatta International,Paris La Défense,France,16,QR,ZVK,KOV,1/30/2022,10:58 AM,9686.57,231,379.62,On Time,C4
+IB1115,Iberia,Adolfo Suárez Madrid–Barajas,Herne,Germany,6:55 AM,Charles de Gaulle,Podbuzh,Ukraine,9,IB,TDW,OES,4/8/2022,4:59 PM,318.18,233,135.83,Delayed,B2
+AA1630,American Airlines,John F. Kennedy International,Lichtenburg,South Africa,10:38 PM,Hartsfield-Jackson Atlanta,Cairima,China,7,AA,TIM,EST,11/21/2022,3:49 AM,6511.26,285,112.09,Delayed,C4
+KL6990,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Ongandjera,Namibia,11:12 PM,Charles de Gaulle,Lubumbashi,Democratic Republic of the Congo,14,KL,HIO,SLT,4/27/2022,10:10 PM,6684.69,498,225.81,On Time,C1
+AM4317,Aeroméxico,Benito Juárez International,Kuching,Malaysia,2:08 PM,O'Hare International,Si Bun Rueang,Thailand,3,AM,YVZ,ARJ,5/19/2022,2:52 PM,7702.45,214,121.02,On Time,A1
+AI1298,Air India,Indira Gandhi International,Sukamahi Satu,Indonesia,5:38 AM,Chhatrapati Shivaji International,Maoshan,China,24,AI,BJB,SUK,9/15/2022,3:34 PM,9230.2,302,277.84,Delayed,B2
+DL2500,Delta Air Lines,John F. Kennedy International,Kolor,Indonesia,11:28 PM,Hartsfield-Jackson Atlanta,Pryazha,Russia,12,DL,LUP,LOW,1/21/2022,2:35 AM,1682.35,346,410.66,Delayed,C2
+AF6795,Air France,Charles de Gaulle,Abaetetuba,Brazil,9:30 AM,Frankfurt Airport,Kuching,Malaysia,4,AF,PKR,GAD,9/10/2022,11:00 PM,9309.18,186,63.51,On Time,B1
+KE2503,Korean Air,Incheon International,Shihuiqiao,China,6:54 AM,Haneda,Žatec,Czech Republic,23,KE,TIX,GPD,8/13/2022,11:25 AM,8992.54,140,53.81,Cancelled,C4
+EK4464,Emirates,Dubai International,Oibioin,Indonesia,4:43 AM,Bole International,Si Narong,Thailand,17,EK,NGO,UIR,6/8/2022,5:13 AM,3132.31,165,363.24,On Time,C1
+KE2298,Korean Air,Incheon International,Cergy-Pontoise,France,2:18 PM,Chhatrapati Shivaji International,Chilly-Mazarin,France,3,KE,VBG,MCG,8/12/2022,10:42 PM,4151.6,489,163.93,On Time,C1
+AI4678,Air India,Indira Gandhi International,Velagići,Bosnia and Herzegovina,6:47 PM,Chhatrapati Shivaji International,Axioúpoli,Greece,14,AI,AVW,ALF,6/16/2022,11:44 PM,7972.9,101,156.48,Cancelled,C4
+LA4273,LATAM Airlines,São Paulo/Guarulhos International,Sadao,Thailand,7:50 PM,Ministro Pistarini International,Nishio,Japan,5,LA,HLU,ARG,12/17/2022,2:28 PM,262.89,190,297.93,On Time,C4
+IB7768,Iberia,Adolfo Suárez Madrid–Barajas,Itaúna,Brazil,3:47 AM,O.R. Tambo International,Yangiyŭl,Uzbekistan,1,IB,LNC,LAR,11/2/2022,5:36 AM,8109.57,297,368.89,On Time,C4
+LH3940,Lufthansa,Frankfurt Airport,Qaffīn,Palestinian Territory,9:17 AM,Charles de Gaulle,Sriwing,Indonesia,9,LH,XKY,PTT,4/10/2022,6:35 AM,3179.43,371,85.85,On Time,B2
+QR5924,Qatar Airways,Hamad International,Huanggong,China,12:30 AM,Bole International,Tādif,Syria,4,QR,JNJ,ZIG,8/13/2022,2:35 PM,5255.8,466,444.0,On Time,A2
+EK8076,Emirates,Dubai International,Zárate,Argentina,4:18 AM,Hamad International,Tabalong,Philippines,10,EK,KVA,MEH,7/29/2022,10:49 PM,2986.88,457,293.64,Cancelled,C3
+QF9271,Qantas,Sydney Airport,Pathum Ratchawongsa,Thailand,2:03 PM,Melbourne Airport,Aykol,China,7,QF,HOD,EUM,9/6/2022,12:47 AM,7985.24,259,246.28,Cancelled,B2
+AC4052,Air Canada,Toronto Pearson,Ōyama,Japan,9:58 PM,John F. Kennedy International,Lazarat,Albania,6,AC,TOG,ZEM,2/12/2022,6:18 PM,7083.09,358,417.33,Delayed,B2
+UA9950,United Airlines,Los Angeles International,Kaem,Indonesia,2:56 PM,San Francisco International,Melaka,Malaysia,7,UA,HED,CBX,9/7/2022,2:00 AM,165.37,338,89.84,On Time,C1
+DL8128,Delta Air Lines,John F. Kennedy International,Anchau,Nigeria,5:41 AM,Hartsfield-Jackson Atlanta,Kuaro,Indonesia,21,DL,TDW,CRM,3/8/2022,4:43 AM,8090.49,72,304.38,On Time,A1
+AZ8773,Alitalia,Leonardo da Vinci International,Skuodas,Lithuania,12:48 AM,Charles de Gaulle,Las Lajas,Argentina,7,AZ,KEG,EPL,2/23/2022,5:23 PM,9175.8,296,142.26,Delayed,A3
+NZ5573,Air New Zealand,Auckland Airport,Klimontów,Poland,3:13 AM,Changi,Kusheriki,Nigeria,14,NZ,CRM,LII,5/9/2022,12:44 AM,5462.75,452,498.81,Delayed,C4
+LA4035,LATAM Airlines,São Paulo/Guarulhos International,Caldas da Felgueira,Portugal,1:19 AM,Hamad International,General Arenales,Argentina,23,LA,MGU,UDI,6/26/2022,8:40 PM,2101.32,500,406.54,On Time,B1
+AV1487,Avianca,El Dorado International,Gulariyā,Nepal,10:01 PM,O'Hare International,Huaqiao,China,16,AV,MRK,KTS,2/2/2022,6:50 PM,1294.19,75,401.09,Delayed,B1
+KE1149,Korean Air,Incheon International,Hŭngju-dong,North Korea,8:19 AM,Haneda,Midland,United States,5,KE,TTH,MBQ,12/27/2022,9:43 PM,5424.41,393,388.28,On Time,C3
+QF2015,Qantas,Sydney Airport,Dek’emhāre,Eritrea,3:02 PM,Melbourne Airport,Huaihe,China,13,QF,FSD,YGR,3/7/2022,4:19 AM,1273.11,80,120.95,On Time,A2
+TG2641,Thai Airways,Suvarnabhumi,Porto Seguro,Brazil,12:52 PM,Changi,Daixi,China,8,TG,TYA,KLO,3/4/2022,6:06 PM,2072.58,265,155.06,On Time,B2
+QF5081,Qantas,Sydney Airport,Mikulovice,Czech Republic,5:28 PM,Melbourne Airport,Lethbridge,Canada,13,QF,RDN,YBH,9/10/2022,10:58 AM,3226.59,97,90.25,On Time,C3
+AF1538,Air France,Charles de Gaulle,Shaliangzi,China,4:44 AM,Frankfurt Airport,Tianchi,China,19,AF,MYG,AFI,2/11/2022,4:21 AM,9848.07,143,419.1,On Time,B1
+UA1770,United Airlines,Los Angeles International,Alebtong,Uganda,8:18 AM,Dubai International,Zeqin,China,14,UA,VIT,AAG,5/22/2022,12:35 AM,1387.12,391,88.46,Cancelled,B2
+AF7505,Air France,Charles de Gaulle,Czernikowo,Poland,8:23 PM,Frankfurt Airport,Singgugu,Indonesia,7,AF,0,OVD,12/14/2022,10:52 AM,849.73,126,422.95,On Time,A2
+KL9285,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Ziway,Ethiopia,11:38 AM,Leonardo da Vinci International,Boracéia,Brazil,21,KL,MJT,UDI,1/25/2022,12:56 PM,1159.24,326,136.84,On Time,C3
+AM6577,Aeroméxico,Benito Juárez International,Kanchanaburi,Thailand,6:42 PM,O'Hare International,Bilozerka,Ukraine,14,AM,EDO,MZD,9/20/2022,10:31 AM,6949.3,361,298.75,On Time,C3
+DL5099,Delta Air Lines,John F. Kennedy International,Pedro II,Brazil,9:40 AM,Hartsfield-Jackson Atlanta,São Sepé,Brazil,21,DL,CSA,UHE,1/30/2022,11:31 AM,3779.54,263,376.57,On Time,C4
+AM4717,Aeroméxico,Benito Juárez International,Pantang,China,7:51 PM,O'Hare International,Wanfu,China,16,AM,MBB,JQA,12/15/2022,7:16 PM,8044.38,76,462.73,On Time,C3
+WN8883,Southwest Airlines,Los Angeles International,Ketanggi,Indonesia,1:00 AM,Chhatrapati Shivaji International,Ḩabūr,Yemen,7,WN,OSW,NOG,11/28/2022,8:00 PM,4659.14,66,182.82,On Time,C2
+DL4345,Delta Air Lines,John F. Kennedy International,Karlskoga,Sweden,7:17 PM,Copenhagen Airport,Chernigovka,Russia,9,DL,EVV,DEB,11/23/2022,6:36 AM,6839.72,398,413.54,Delayed,C2
+LA9176,LATAM Airlines,São Paulo/Guarulhos International,Obo,Central African Republic,2:12 PM,Ministro Pistarini International,Xinxikou,China,23,LA,OKC,SYM,1/12/2022,10:38 PM,1063.16,103,457.31,On Time,B1
+NZ9438,Air New Zealand,Auckland Airport,Purwokerto,Indonesia,8:43 AM,Sydney Airport,Kulutan,Indonesia,4,NZ,HSV,OGS,9/30/2022,12:31 PM,4692.03,436,146.82,On Time,B2
+SK5933,SAS Scandinavian,Copenhagen Airport,Satuba,Brazil,2:28 PM,Munich Airport,Buliu,China,23,SK,EUC,KML,7/23/2022,11:27 PM,6458.47,255,377.4,On Time,C4
+ET6681,Ethiopian Airlines,Bole International,Várzea,Portugal,3:13 AM,Hamad International,Buruanga,Philippines,18,ET,DRU,GAG,7/17/2022,7:37 AM,1995.87,282,68.61,On Time,C1
+TG9115,Thai Airways,Suvarnabhumi,Shalizhai,China,12:32 AM,Changi,Nunsena,Indonesia,22,TG,ULD,NSH,9/23/2022,6:25 PM,6253.77,199,448.52,On Time,A2
+SA8676,South African Airways,O.R. Tambo International,Féres,Greece,7:33 PM,Hartsfield-Jackson Atlanta,Pangao,Philippines,16,SA,SJO,BEK,1/17/2022,2:35 PM,4534.36,71,226.63,Delayed,C2
+TG7112,Thai Airways,Suvarnabhumi,Reforma,Mexico,3:58 AM,Dubai International,George Hill,Anguilla,14,TG,DCG,IGA,10/25/2022,10:05 AM,8269.15,429,292.17,On Time,C2
+SA3103,South African Airways,O.R. Tambo International,Fubin,China,7:17 PM,Charles de Gaulle,Katwijk,Netherlands,23,SA,MQE,KGY,10/15/2022,1:12 PM,6781.99,190,345.34,Delayed,B1
+AC1444,Air Canada,Toronto Pearson,Kaliwates,Indonesia,10:43 AM,John F. Kennedy International,Ruma,Serbia,6,AC,PVU,CXA,12/19/2022,6:11 AM,4445.93,237,368.75,On Time,C1
+NH6079,All Nippon Airways,Haneda,Golema Rečica,Macedonia,2:00 AM,Incheon International,Wilkes Barre,United States,14,NH,HYN,OMD,3/18/2022,2:42 PM,6144.38,218,52.87,Delayed,C2
+EK8848,Emirates,Dubai International,Xubu,China,2:18 AM,Logan International,Tutayev,Russia,2,EK,CTO,FRR,10/18/2022,12:25 AM,7807.39,490,276.56,On Time,C4
+AM5515,Aeroméxico,Benito Juárez International,Tarikolot,Indonesia,1:31 PM,O'Hare International,Khodasy,Belarus,1,AM,SUT,NDG,7/26/2022,2:29 PM,3870.14,214,383.69,On Time,A2
+NH6836,All Nippon Airways,Haneda,Valencia,Spain,10:58 AM,Incheon International,Kayanza,Burundi,21,NH,HIW,RMA,5/1/2022,5:06 PM,3226.19,339,494.76,On Time,A2
+SK9204,SAS Scandinavian,Copenhagen Airport,Lugulu,Kenya,6:03 AM,Charles de Gaulle,Salinas,Brazil,12,SK,LPK,KPF,11/14/2022,8:35 AM,1446.55,339,394.29,On Time,C1
+AM5280,Aeroméxico,Benito Juárez International,Mingfeng,China,10:15 AM,Leonardo da Vinci International,Mesopotam,Albania,5,AM,JOS,CWW,9/19/2022,12:43 AM,9738.79,169,384.4,On Time,C4
+AM5743,Aeroméxico,Benito Juárez International,Saray,Azerbaijan,3:09 AM,Jomo Kenyatta International,Velká Bíteš,Czech Republic,12,AM,RKY,SKX,8/3/2022,8:06 PM,4840.12,50,84.59,On Time,A3
+NZ4614,Air New Zealand,Auckland Airport,Miguel Hidalgo,Mexico,11:26 PM,Sydney Airport,Marne-la-Vallée,France,11,NZ,CVF,RKP,10/19/2022,5:44 PM,7273.4,262,449.2,On Time,C3
+NH8164,All Nippon Airways,Haneda,Sanli,China,3:51 PM,Leonardo da Vinci International,Ryczywół,Poland,1,NH,DGP,OKQ,7/12/2022,5:48 PM,141.58,465,422.12,Delayed,B1
+QR7949,Qatar Airways,Hamad International,Niquinohomo,Nicaragua,11:09 PM,Jomo Kenyatta International,Nazca,Peru,12,QR,SFZ,PME,1/31/2022,8:17 PM,2643.57,303,258.48,Delayed,A1
+NZ5033,Air New Zealand,Auckland Airport,Pyskowice,Poland,11:20 AM,Hamad International,Yamen,China,24,NZ,CSN,BGP,9/6/2022,2:30 AM,3187.76,147,456.19,On Time,B2
+WN4007,Southwest Airlines,Los Angeles International,Kohlu,Pakistan,12:30 PM,San Francisco International,Pindangan Centro,Philippines,15,WN,BZZ,TKP,10/26/2022,11:16 AM,6686.76,435,261.0,Delayed,A1
+AI6849,Air India,Indira Gandhi International,Nabīnagar,Bangladesh,1:03 PM,Chhatrapati Shivaji International,Fort-de-France,Martinique,11,AI,MBU,UUA,6/15/2022,1:35 AM,4499.0,89,421.59,On Time,A1
+AZ3832,Alitalia,Leonardo da Vinci International,Magoúla,Greece,7:44 PM,Charles de Gaulle,Miranda,Colombia,24,AZ,HBE,COH,1/23/2022,12:41 AM,1898.47,175,69.56,On Time,B1
+CX3660,Cathay Pacific,Hong Kong International,Kalinovskaya,Russia,5:30 AM,Changi,Santa Cruz da Graciosa,Portugal,16,CX,CWS,CKG,1/11/2022,2:06 AM,1084.1,230,349.95,On Time,A3
+KL8992,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Galapa,Colombia,8:50 AM,Charles de Gaulle,Changliang,China,13,KL,WBW,YYF,9/6/2022,7:05 AM,5011.87,392,288.49,Cancelled,A1
+AA1876,American Airlines,John F. Kennedy International,Novyy Uoyan,Russia,2:25 AM,Dallas/Fort Worth International,Panacan,Philippines,9,AA,ATE,HOG,11/1/2022,2:06 PM,1349.7,135,78.27,Delayed,B2
+AZ5754,Alitalia,Leonardo da Vinci International,Ampara,Sri Lanka,6:20 PM,Charles de Gaulle,Sevilla,Spain,13,AZ,VME,YZR,4/3/2022,1:08 AM,6394.39,224,358.99,On Time,B2
+AA9066,American Airlines,John F. Kennedy International,Chiscas,Colombia,8:36 AM,Hartsfield-Jackson Atlanta,Washington,United States,9,AA,TEG,MBH,1/19/2022,11:58 AM,4753.0,153,178.71,Delayed,C4
+TG7596,Thai Airways,Suvarnabhumi,Kasaoka,Japan,7:40 PM,Seattle-Tacoma International,Pasirpanjang,Indonesia,3,TG,TEG,YQX,8/17/2022,12:31 PM,7895.89,262,363.48,On Time,C1
+CX2642,Cathay Pacific,Hong Kong International,Velké Němčice,Czech Republic,5:51 PM,Changi,Bela Vista,Brazil,19,CX,HNI,NVR,12/30/2022,9:00 AM,5195.5,490,380.54,On Time,A3
+WN3451,Southwest Airlines,Los Angeles International,Azua,Dominican Republic,7:48 AM,Jomo Kenyatta International,Elverum,Norway,14,WN,IOK,ESB,3/16/2022,2:11 AM,5729.41,267,253.06,Delayed,B1
+NZ5791,Air New Zealand,Auckland Airport,Kněžpole,Czech Republic,8:47 AM,Toronto Pearson,Kabar Utara,Indonesia,5,NZ,LEF,WPC,9/29/2022,3:23 PM,6116.81,134,184.91,Delayed,B1
+SA1355,South African Airways,O.R. Tambo International,Mairiporã,Brazil,11:08 PM,Charles de Gaulle,Jelcz,Poland,23,SA,GXH,BBQ,6/2/2022,10:16 PM,962.13,162,57.01,Delayed,C1
+AC5745,Air Canada,Toronto Pearson,Mogi Guaçu,Brazil,8:42 AM,Logan International,Mātli,Pakistan,24,AC,WUX,LBB,3/22/2022,10:21 AM,9098.87,87,125.3,On Time,C2
+AC7315,Air Canada,Toronto Pearson,Kadudampit,Indonesia,8:21 PM,John F. Kennedy International,El Progreso,Honduras,21,AC,LOO,LCQ,4/6/2022,11:40 PM,2020.53,299,75.92,On Time,C4
+CX7663,Cathay Pacific,Hong Kong International,Talanga,Honduras,3:36 PM,Changi,Sanghan,Philippines,15,CX,UKB,ZQN,6/17/2022,8:07 AM,5543.64,432,298.64,Delayed,A1
+AC7112,Air Canada,Toronto Pearson,Muara,Indonesia,6:06 PM,John F. Kennedy International,Acarigua,Venezuela,10,AC,KBJ,PCV,11/25/2022,5:10 PM,2584.62,107,285.25,On Time,A2
+BA3914,British Airways,Heathrow,Moyynkum,Kazakhstan,12:52 PM,Charles de Gaulle,Dole,France,1,BA,XIN,SOY,2/12/2022,2:12 AM,859.2,205,228.64,On Time,C3
+AC5311,Air Canada,Toronto Pearson,Concepcion,Philippines,8:30 AM,John F. Kennedy International,Barranquilla,Colombia,13,AC,PPK,WLG,11/2/2022,12:36 AM,4985.66,494,96.19,On Time,A1
+QR3183,Qatar Airways,Hamad International,Seshcha,Russia,6:05 AM,Bole International,Helsingborg,Sweden,2,QR,AAU,0,10/20/2022,11:19 PM,4377.0,291,391.64,On Time,C4
+DL3149,Delta Air Lines,John F. Kennedy International,North Perth,Canada,11:32 AM,Hartsfield-Jackson Atlanta,Yuanling,China,1,DL,BOJ,YRS,9/16/2022,8:34 PM,179.65,373,325.05,On Time,B1
+NZ3376,Air New Zealand,Auckland Airport,Qiaosi,China,7:21 AM,Brisbane Airport,Dongguang,China,15,NZ,GNV,PHA,12/8/2022,6:16 PM,1820.71,451,193.64,On Time,C1
+UA6353,United Airlines,Los Angeles International,Warudoyong,Indonesia,11:46 PM,San Francisco International,Toba,Serbia,8,UA,PKW,BMO,12/1/2022,4:56 PM,7854.5,298,414.97,Delayed,C4
+KE3490,Korean Air,Incheon International,Xiongchi,China,6:20 AM,Haneda,Rongdoi,China,19,KE,WCH,JAD,7/2/2022,12:10 AM,3351.14,89,202.84,Cancelled,B2
+AV9889,Avianca,El Dorado International,Cabangahan,Philippines,6:06 PM,O'Hare International,Pandaan,Indonesia,24,AV,MNK,ASB,10/21/2022,4:43 PM,8481.41,336,392.49,On Time,C3
+AF6128,Air France,Charles de Gaulle,Shardara,Kazakhstan,4:11 PM,Munich Airport,Piracanjuba,Brazil,3,AF,SWS,BZF,6/5/2022,8:01 PM,1328.57,239,444.73,On Time,C4
+NZ6764,Air New Zealand,Auckland Airport,Salinas,Brazil,2:05 PM,Sydney Airport,Konde,Tanzania,6,NZ,LBE,LZR,6/27/2022,9:57 PM,6787.21,443,81.51,Delayed,C1
+AM5814,Aeroméxico,Benito Juárez International,Ånge,Sweden,11:48 PM,O'Hare International,Na Yong,Thailand,8,AM,UNA,DLR,1/21/2022,9:33 AM,9490.56,91,61.45,On Time,B2
+AM3107,Aeroméxico,Benito Juárez International,Mönchengladbach,Germany,12:54 AM,O'Hare International,Macatuba,Brazil,11,AM,JDN,JOL,7/3/2022,10:42 AM,3678.43,460,97.66,On Time,C1
+KE3458,Korean Air,Incheon International,Wujingfu,China,8:16 AM,Haneda,Itambacuri,Brazil,9,KE,WJR,DQM,6/17/2022,4:33 PM,6262.77,344,363.13,On Time,C3
+QF1141,Qantas,Sydney Airport,Moroni,Comoros,6:26 PM,Melbourne Airport,Kariya,Japan,9,QF,KLZ,NDI,10/27/2022,7:44 PM,5606.2,129,392.01,On Time,A3
+LA7890,LATAM Airlines,São Paulo/Guarulhos International,Poroçan,Albania,2:11 AM,Ministro Pistarini International,Fangxi,China,1,LA,BWX,ETR,9/6/2022,3:09 AM,2993.01,359,222.54,Delayed,C2
+AM7778,Aeroméxico,Benito Juárez International,Khānaqāh,Afghanistan,10:38 PM,O'Hare International,Cala,South Africa,9,AM,DAP,MGS,6/24/2022,8:36 AM,1453.02,496,73.29,On Time,B2
+EK4464,Emirates,Dubai International,Kanália,Greece,3:09 PM,Bole International,Touama,Morocco,12,EK,LGL,YVE,3/26/2022,4:23 AM,2266.35,225,82.68,On Time,A2
+KL7317,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Florencia,Colombia,4:52 PM,Charles de Gaulle,Cernache do Bonjardim,Portugal,11,KL,PGK,KGM,10/19/2022,3:50 PM,4422.84,152,248.63,On Time,B1
+AF7307,Air France,Charles de Gaulle,Suizhong,China,9:53 PM,Frankfurt Airport,Marseille,France,6,AF,GYL,TFL,6/20/2022,4:02 PM,9218.55,174,70.92,On Time,A2
+QR6945,Qatar Airways,Hamad International,Ponte,Portugal,2:50 PM,Adolfo Suárez Madrid–Barajas,Chiri-Yurt,Russia,8,QR,NYU,GSM,7/13/2022,2:09 PM,6196.92,64,76.34,On Time,A3
+CX2504,Cathay Pacific,Hong Kong International,Putina,Peru,6:02 AM,Kuala Lumpur International,Santa Rita do Sapucaí,Brazil,14,CX,MDL,YUD,6/7/2022,9:28 PM,3302.49,496,414.66,On Time,A3
+LH4515,Lufthansa,Frankfurt Airport,Palaiópyrgos,Greece,6:25 AM,Charles de Gaulle,Guandiping,China,16,LH,GMS,AOG,12/23/2022,1:06 AM,4101.37,260,460.48,On Time,C4
+LH9130,Lufthansa,Frankfurt Airport,Pogórze,Poland,4:05 PM,Charles de Gaulle,Moijabana,Botswana,13,LH,HEW,LXR,9/23/2022,3:24 AM,6614.79,306,344.95,On Time,A2
+NH2978,All Nippon Airways,Haneda,Mushu,China,11:36 PM,Hong Kong International,Srinagarindra,Thailand,16,NH,CGM,MQD,9/21/2022,5:37 AM,8485.88,158,119.99,On Time,C3
+ET5802,Ethiopian Airlines,Bole International,Hangou,China,4:36 AM,Hamad International,Kota Kinabalu,Malaysia,7,ET,CLT,MER,12/5/2022,2:22 AM,7612.81,467,334.74,Delayed,B2
+BA7976,British Airways,Heathrow,Sendafa,Ethiopia,1:10 PM,Adolfo Suárez Madrid–Barajas,Chunyang,China,15,BA,TNK,BVX,2/21/2022,10:40 PM,8139.6,414,326.42,On Time,A2
+NZ7374,Air New Zealand,Auckland Airport,Liushan,China,4:40 AM,Sydney Airport,Talitsy,Russia,2,NZ,BHO,SEO,8/31/2022,8:39 AM,6811.87,190,55.53,On Time,C1
+AI8540,Air India,Indira Gandhi International,Zinat,Morocco,8:46 PM,Chhatrapati Shivaji International,Cabungan,Philippines,2,AI,FPY,THU,11/10/2022,10:23 AM,560.21,371,447.54,Delayed,B1
+LA1185,LATAM Airlines,São Paulo/Guarulhos International,Ar Rass,Saudi Arabia,5:32 AM,Munich Airport,Malaga,Spain,18,LA,BQB,GXH,3/10/2022,4:29 PM,2950.16,461,390.29,On Time,C2
+AC2304,Air Canada,Toronto Pearson,Geshan,China,8:44 PM,Miami International,Rancagadog,Indonesia,4,AC,VOG,KLD,12/3/2022,5:29 PM,3056.73,265,66.08,On Time,A3
+NZ4265,Air New Zealand,Auckland Airport,Alangalang,Philippines,10:08 PM,Miami International,Luisiana,Philippines,13,NZ,FRS,MBK,4/7/2022,9:00 AM,7049.44,67,186.61,Delayed,B2
+ET1905,Ethiopian Airlines,Bole International,Washington,United States,2:59 PM,Hamad International,Huimin,China,2,ET,ABP,CDT,5/5/2022,1:30 PM,111.09,414,186.96,On Time,A1
+SK2196,SAS Scandinavian,Copenhagen Airport,Kanginan,Indonesia,5:27 AM,El Dorado International,Citundun,Indonesia,22,SK,BEE,MER,8/7/2022,7:41 AM,4564.18,262,224.23,Delayed,C2
+AM9301,Aeroméxico,Benito Juárez International,Lewolang,Indonesia,9:20 PM,O'Hare International,Klippan,Sweden,12,AM,BBC,ABF,9/6/2022,5:50 AM,1820.93,374,237.69,Delayed,B2
+AM9071,Aeroméxico,Benito Juárez International,Bowang,China,3:59 AM,O'Hare International,Mathambgwane,Botswana,14,AM,AOG,KAJ,8/25/2022,8:29 AM,4332.41,472,368.38,Cancelled,C3
+AI5059,Air India,Indira Gandhi International,Cô Tô,Vietnam,3:30 PM,Suvarnabhumi,Kalengwa,Zambia,18,AI,OTC,KLA,11/7/2022,12:16 AM,4466.31,268,101.17,On Time,B2
+SA6084,South African Airways,O.R. Tambo International,Bayt Ūlā,Palestinian Territory,6:04 PM,Charles de Gaulle,Oenunu,Indonesia,8,SA,BVW,WML,6/18/2022,4:36 PM,2944.33,309,329.65,Delayed,C3
+SK8608,SAS Scandinavian,Copenhagen Airport,Lanta Timur,Indonesia,12:29 PM,Charles de Gaulle,Nularan,Indonesia,6,SK,CBS,ROZ,9/7/2022,12:57 AM,907.5,183,63.28,On Time,C1
+CX7596,Cathay Pacific,Hong Kong International,Fundación,Colombia,2:04 AM,Leonardo da Vinci International,Karítsa,Greece,18,CX,MYW,FRB,10/16/2022,11:36 AM,9632.25,62,366.58,On Time,C3
+ET9826,Ethiopian Airlines,Bole International,Qiqian,China,8:31 PM,Hamad International,Pacaembu,Brazil,11,ET,WUH,CKD,12/23/2022,6:22 AM,1226.76,436,339.52,On Time,B2
+AC6932,Air Canada,Toronto Pearson,Kladi,Indonesia,5:50 AM,John F. Kennedy International,Ishikari,Japan,6,AC,JAA,SBU,2/1/2022,8:14 PM,6484.68,121,488.93,On Time,B2
+ET1460,Ethiopian Airlines,Bole International,Nova Olímpia,Brazil,8:43 AM,Munich Airport,Xingshou,China,13,ET,KJP,SNJ,12/23/2022,12:55 AM,8130.86,413,202.13,Delayed,C2
+IB1115,Iberia,Adolfo Suárez Madrid–Barajas,Vukatanë,Albania,3:40 PM,Charles de Gaulle,Bálsamo Oriental,Honduras,19,IB,JUN,RBK,4/19/2022,6:01 AM,8386.03,349,431.38,On Time,A1
+AC9441,Air Canada,Toronto Pearson,Monte Francisco,Portugal,10:48 AM,John F. Kennedy International,Pomahan,Indonesia,17,AC,OLI,CLH,6/22/2022,7:59 PM,6091.88,278,317.71,On Time,C4
+UA9363,United Airlines,Los Angeles International,Sharan,Russia,2:52 AM,San Francisco International,Gongnong,China,23,UA,BIW,ZFD,5/15/2022,7:08 AM,742.1,402,415.78,On Time,C1
+LA6064,LATAM Airlines,São Paulo/Guarulhos International,Sheshan,China,4:13 AM,Miami International,Dukla,Poland,16,LA,CMM,IAO,11/7/2022,6:15 PM,7367.33,297,250.35,On Time,B1
+AI5828,Air India,Indira Gandhi International,Puji,China,6:23 AM,Chhatrapati Shivaji International,Unión,Paraguay,3,AI,LSY,PHM,6/1/2022,7:12 AM,7987.86,422,367.63,On Time,C2
+NZ3217,Air New Zealand,Auckland Airport,Kinmparana,Mali,4:32 PM,Sydney Airport,Boca Raton,United States,7,NZ,CLL,KPT,9/20/2022,9:53 AM,1451.93,120,262.08,Delayed,C2
+QR4142,Qatar Airways,Hamad International,Ishim,Russia,8:56 AM,Jomo Kenyatta International,Villa del Carmen,Uruguay,1,QR,TSY,SSC,4/9/2022,10:20 PM,672.53,433,490.76,On Time,A1
+NH3534,All Nippon Airways,Haneda,Berezna,Ukraine,7:43 AM,Incheon International,Kharp,Russia,17,NH,LCL,FBD,12/25/2022,12:08 PM,2963.01,75,460.17,Delayed,B1
+NH9577,All Nippon Airways,Haneda,Shangpai,China,5:01 AM,Incheon International,Managua,Nicaragua,12,NH,BQW,TTE,9/13/2022,10:03 PM,4689.79,227,114.46,On Time,C4
+AV9867,Avianca,El Dorado International,Tulungagung,Indonesia,6:37 AM,Miami International,Marki,Poland,5,AV,VCR,ATW,10/2/2022,12:31 AM,8763.78,442,429.38,On Time,C4
+UA1770,United Airlines,Los Angeles International,Zborište,Bosnia and Herzegovina,10:59 AM,Dubai International,Brusartsi,Bulgaria,24,UA,YAZ,MML,1/4/2022,9:23 PM,252.49,401,435.9,On Time,A1
+AA4577,American Airlines,John F. Kennedy International,Erdao,China,1:25 PM,Dubai International,Jabonga,Philippines,6,AA,CWF,ISI,7/6/2022,3:50 PM,7886.68,98,191.95,On Time,A3
+BA1547,British Airways,Heathrow,Sundsvall,Sweden,3:17 AM,Charles de Gaulle,Sotteville-lès-Rouen,France,3,BA,PLD,MJA,1/14/2022,11:01 AM,8115.52,487,77.22,On Time,C3
+TG3079,Thai Airways,Suvarnabhumi,Paris 14,France,1:44 PM,Hong Kong International,Kokoshkino,Russia,2,TG,DON,HTI,2/28/2022,5:11 PM,324.78,110,183.99,Delayed,C3
+KE3686,Korean Air,Incheon International,Iúna,Brazil,11:40 AM,Haneda,Honglu,China,7,KE,ZVK,SMU,1/17/2022,6:22 AM,9630.21,266,55.03,Delayed,C2
+AC6547,Air Canada,Toronto Pearson,Qīrah,Palestinian Territory,4:08 AM,John F. Kennedy International,Waerana,Indonesia,24,AC,RRL,LTR,5/2/2022,1:30 PM,5004.67,437,144.99,On Time,C2
+LA9122,LATAM Airlines,São Paulo/Guarulhos International,Melati,Indonesia,7:51 PM,Dallas/Fort Worth International,Hengling,China,20,LA,NIT,XRY,4/11/2022,10:08 PM,2041.59,214,314.28,Cancelled,C4
+NH9718,All Nippon Airways,Haneda,Pavlodar,Kazakhstan,12:04 AM,Incheon International,Casal Novo,Portugal,9,NH,WZQ,SHJ,7/8/2022,9:21 AM,9627.78,165,410.35,On Time,A3
+KL5312,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Sukarara Utara,Indonesia,10:22 AM,Charles de Gaulle,Qingdao,China,4,KL,MFT,SZK,4/19/2022,3:23 PM,660.4,304,351.69,Delayed,B1
+DL8533,Delta Air Lines,John F. Kennedy International,Molodizhne,Ukraine,1:10 AM,Hartsfield-Jackson Atlanta,Midrand,South Africa,3,DL,SAH,NCA,12/12/2022,11:51 AM,2601.95,354,413.4,Delayed,A3
+WN3456,Southwest Airlines,Los Angeles International,Montemor-o-Velho,Portugal,10:09 AM,San Francisco International,Wanghu,China,6,WN,QRT,DVL,7/20/2022,4:33 AM,3143.19,385,407.05,Delayed,B2
+AI1195,Air India,Indira Gandhi International,Pembroke,Canada,7:06 PM,Chhatrapati Shivaji International,Basel,Switzerland,18,AI,KRP,BEB,6/28/2022,6:21 PM,1160.72,55,294.08,On Time,C4
+KE8445,Korean Air,Incheon International,Pesucen,Indonesia,1:20 AM,Miami International,Orléans,France,9,KE,IYK,YDW,4/4/2022,1:06 PM,6870.86,136,53.75,Delayed,B1
+LH8334,Lufthansa,Frankfurt Airport,Wang Sam Mo,Thailand,9:32 AM,Charles de Gaulle,Vancouver,United States,23,LH,CIV,LUA,2/25/2022,10:51 PM,6198.14,451,496.06,Delayed,C3
+NH7322,All Nippon Airways,Haneda,Florestópolis,Brazil,1:46 PM,Incheon International,Wucheng,China,11,NH,MMK,MGY,6/14/2022,12:17 AM,5676.84,282,287.2,Delayed,A2
+CX9238,Cathay Pacific,Hong Kong International,Wukeshu,China,8:15 AM,Logan International,Wenlin,China,6,CX,BSD,CSX,8/23/2022,7:48 AM,2321.91,431,254.04,On Time,C3
+LH4237,Lufthansa,Frankfurt Airport,Halteu,Indonesia,3:36 PM,Charles de Gaulle,Saari,Finland,14,LH,MUW,MAM,10/17/2022,8:52 PM,5008.82,335,393.13,Cancelled,C4
+SA6127,South African Airways,O.R. Tambo International,Wujing,China,12:07 AM,Charles de Gaulle,Zhuoshui,China,18,SA,CSH,APS,11/20/2022,8:01 PM,9356.12,247,339.21,Delayed,A3
+SA2497,South African Airways,O.R. Tambo International,Marco,Brazil,6:39 PM,Charles de Gaulle,Marihatag,Philippines,5,SA,TPT,GVT,6/1/2022,2:22 PM,415.06,468,475.52,On Time,B1
+SA5199,South African Airways,O.R. Tambo International,Sandaohezi,China,6:25 AM,Charles de Gaulle,Nanxindian,China,18,SA,CWX,LHW,4/21/2022,3:04 PM,1271.55,396,69.42,Delayed,A2
+KL9874,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Stockholm,Sweden,8:17 PM,Hamad International,Jatake,Indonesia,18,KL,FAK,FSC,6/14/2022,9:15 PM,1934.8,386,207.17,Delayed,C2
+ET6876,Ethiopian Airlines,Bole International,Agua Fría,Honduras,11:42 AM,Hamad International,Siborong-borong,Indonesia,16,ET,MJI,CFF,8/4/2022,11:51 PM,1492.97,66,272.51,On Time,C1
+TG6514,Thai Airways,Suvarnabhumi,El Paraiso,Mexico,1:55 PM,Changi,Amado Nervo,Mexico,14,TG,CAB,VGT,2/1/2022,5:53 PM,1687.79,148,350.84,On Time,C2
+AC9723,Air Canada,Toronto Pearson,Lyskovo,Russia,11:07 AM,Vienna International,Sơn Tây,Vietnam,8,AC,JIN,FIK,4/2/2022,9:45 PM,1934.51,369,213.52,On Time,B2
+CX1720,Cathay Pacific,Hong Kong International,Daulatpur,Pakistan,6:22 AM,Changi,Sudo,Indonesia,17,CX,KDV,XYE,4/18/2022,1:03 AM,5418.36,148,419.57,Cancelled,A2
+SK2916,SAS Scandinavian,Copenhagen Airport,Utabi,Philippines,5:58 PM,Charles de Gaulle,Saumur,France,5,SK,FMU,MSD,3/28/2022,5:51 PM,3065.21,433,461.76,On Time,A2
+DL7004,Delta Air Lines,John F. Kennedy International,Kalimati,Indonesia,5:00 PM,Los Angeles International,Dacheng,China,9,DL,TCH,GFN,2/12/2022,11:25 AM,5672.19,361,386.12,Delayed,A2
+AV6446,Avianca,El Dorado International,Zhouyuan,China,2:49 AM,O'Hare International,Matadi,Democratic Republic of the Congo,20,AV,JJM,RJI,9/15/2022,1:22 AM,5459.0,51,441.6,Delayed,C1
+KL9667,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Mikuni,Japan,3:38 AM,Charles de Gaulle,Yunhe,China,23,KL,KVX,TUM,11/6/2022,1:59 PM,7659.96,85,196.73,Delayed,A2
+AA8666,American Airlines,John F. Kennedy International,Pingdingbu,China,8:50 PM,Hartsfield-Jackson Atlanta,Moutsamoudou,Comoros,8,AA,SIP,MSZ,3/13/2022,10:43 PM,7611.38,495,326.62,Delayed,C4
+DL5644,Delta Air Lines,John F. Kennedy International,Mekarsari,Indonesia,1:24 PM,Denver International,Wuyang,China,3,DL,UTI,FLB,2/9/2022,6:26 AM,6213.37,145,342.76,Delayed,A2
+EK7739,Emirates,Dubai International,Shitan,China,5:27 PM,Hamad International,Caridade,Portugal,5,EK,GKD,SGT,9/1/2022,6:21 AM,7303.01,299,211.75,On Time,C3
+EK5119,Emirates,Dubai International,Dardhas,Albania,11:07 AM,Jomo Kenyatta International,Marechal Deodoro,Brazil,13,EK,KUQ,BML,6/18/2022,6:52 PM,6503.35,81,402.1,On Time,C1
+QF1326,Qantas,Sydney Airport,Bellavista,Mexico,1:38 PM,Melbourne Airport,Lagangilang,Philippines,18,QF,SXM,CCN,3/28/2022,2:00 PM,865.41,480,467.8,On Time,C3
+KE9114,Korean Air,Incheon International,Pego Longo,Portugal,7:14 AM,Denver International,Huangcai,China,15,KE,PPX,YPI,3/4/2022,7:55 AM,4351.85,220,113.16,On Time,B1
+SA1292,South African Airways,O.R. Tambo International,Caeté,Brazil,12:01 PM,Charles de Gaulle,Shuikou,China,23,SA,PIR,RBT,1/30/2022,12:46 PM,1490.63,215,318.07,On Time,C4
+KE1276,Korean Air,Incheon International,Otaru,Japan,9:38 PM,Haneda,Sukamanah,Indonesia,13,KE,CLD,GEO,1/10/2022,10:22 AM,5659.39,420,315.14,Delayed,A2
+TG9377,Thai Airways,Suvarnabhumi,Kwekwe,Zimbabwe,7:30 PM,Changi,Urus-Martan,Russia,10,TG,NDM,LML,4/20/2022,11:38 AM,3483.74,387,143.71,On Time,B2
+LA3026,LATAM Airlines,São Paulo/Guarulhos International,Yangtan,China,1:39 PM,Ministro Pistarini International,Orvalho,Portugal,9,LA,OMR,TME,9/9/2022,5:40 AM,3892.07,246,394.88,Cancelled,A1
+SQ1939,Singapore Airlines,Changi,Vargem Grande do Sul,Brazil,11:26 AM,Beijing Capital International,Otok,Croatia,7,SQ,SBQ,OER,7/13/2022,4:31 AM,271.87,202,130.51,Cancelled,C4
+SK4059,SAS Scandinavian,Copenhagen Airport,Sadovo,Bulgaria,7:36 AM,Hamad International,Heishan,China,15,SK,DLN,PDE,6/21/2022,3:08 AM,4574.9,376,133.84,Delayed,B1
+EK9711,Emirates,Dubai International,El Retén,Colombia,5:14 AM,Hamad International,Hecun,China,6,EK,ZCO,ODY,7/15/2022,3:51 PM,9447.61,93,477.08,On Time,C4
+NH4262,All Nippon Airways,Haneda,Sanchahe,China,1:42 PM,Incheon International,Zhaoyuan,China,4,NH,SUB,MEH,3/9/2022,7:57 PM,5409.15,156,95.15,On Time,C2
+TG2442,Thai Airways,Suvarnabhumi,Gakem,Nigeria,11:59 AM,Changi,Acomayo,Peru,21,TG,TJH,ABH,2/6/2022,11:52 AM,5316.53,264,275.45,On Time,B2
+EK8895,Emirates,Dubai International,Bolotnoye,Russia,3:04 PM,Jomo Kenyatta International,Winburg,South Africa,16,EK,AFL,MJG,10/17/2022,9:04 AM,9991.22,358,75.61,On Time,A1
+AV3392,Avianca,El Dorado International,Martingança,Portugal,8:16 AM,O'Hare International,Laç,Albania,12,AV,TXG,SDS,1/12/2022,2:31 AM,5015.08,253,291.27,Delayed,C4
+EK4646,Emirates,Dubai International,La Caleta Culebras,Peru,5:36 AM,Hamad International,Bungo-Takada-shi,Japan,8,EK,CTC,ADT,4/29/2022,6:40 PM,2375.36,457,257.47,On Time,B2
+AC7189,Air Canada,Toronto Pearson,Karangmelok,Indonesia,1:13 AM,Ministro Pistarini International,Basco,Philippines,12,AC,MRZ,MMK,2/26/2022,2:19 PM,8265.31,209,123.28,On Time,C2
+IB3698,Iberia,Adolfo Suárez Madrid–Barajas,Xiagong,China,11:34 AM,Charles de Gaulle,Wulipu,China,22,IB,STS,EEK,8/23/2022,3:35 AM,1490.08,475,328.59,On Time,A3
+AC5450,Air Canada,Toronto Pearson,Paços,Portugal,8:19 AM,Suvarnabhumi,Yuankeng,China,11,AC,ORD,REX,5/24/2022,12:42 PM,5450.75,497,312.9,Delayed,A2
+DL5548,Delta Air Lines,John F. Kennedy International,Nakatsu,Japan,6:07 PM,Hartsfield-Jackson Atlanta,Sande Vila Nova,Portugal,24,DL,CXB,UTE,3/30/2022,11:57 AM,2277.95,444,440.47,On Time,A2
+SK7657,SAS Scandinavian,Copenhagen Airport,Wierzawice,Poland,9:37 PM,Charles de Gaulle,Belo Horizonte,Brazil,16,SK,DBY,YRC,3/3/2022,11:00 PM,2453.67,234,407.3,On Time,A1
+AA1542,American Airlines,John F. Kennedy International,Harper,Liberia,1:30 PM,Hartsfield-Jackson Atlanta,Independencia,Mexico,19,AA,LUD,AEI,1/31/2022,8:37 PM,4375.56,144,416.46,On Time,B1
+IB2927,Iberia,Adolfo Suárez Madrid–Barajas,Vale da Serra,Portugal,5:39 PM,Charles de Gaulle,Ozerki,Russia,16,IB,TKY,CIG,7/23/2022,12:14 PM,3956.45,229,477.97,On Time,B2
+LH4869,Lufthansa,Frankfurt Airport,Xinrong,China,4:38 AM,Charles de Gaulle,Colmeal,Portugal,3,LH,BNF,KSG,11/7/2022,7:37 AM,5142.02,122,368.21,Delayed,B1
+NZ6084,Air New Zealand,Auckland Airport,Charxin,Uzbekistan,6:47 PM,Sydney Airport,Victoria,Chile,4,NZ,ARH,JLS,9/23/2022,2:28 PM,2892.82,348,474.43,On Time,C1
+KL4658,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Bulupayung,Indonesia,8:28 AM,Charles de Gaulle,Miguel Aleman,Mexico,1,KL,SHX,VPZ,7/4/2022,5:01 PM,1497.7,318,108.26,Delayed,B2
+AM1046,Aeroméxico,Benito Juárez International,Nyimba,Zambia,3:13 AM,O'Hare International,Little Baguio,Philippines,5,AM,VHY,AKT,6/25/2022,10:14 AM,2314.08,266,209.9,On Time,A2
+AV4884,Avianca,El Dorado International,Cartagena,Spain,5:46 PM,O'Hare International,Śniadowo,Poland,2,AV,YXT,BOU,5/1/2022,9:08 AM,6360.52,381,219.1,Cancelled,C2
+SA2233,South African Airways,O.R. Tambo International,Jamaica,United States,3:31 AM,Charles de Gaulle,Nha Trang,Vietnam,1,SA,PGA,LNM,6/19/2022,8:16 AM,2266.13,146,204.83,On Time,C1
+ET2023,Ethiopian Airlines,Bole International,Villejuif,France,3:15 PM,Vienna International,Ōmuta,Japan,21,ET,SIJ,HRT,11/15/2022,10:13 PM,7516.5,330,433.11,Delayed,B2
+AA1876,American Airlines,John F. Kennedy International,Sanjiang,China,7:00 PM,Dallas/Fort Worth International,Marzhing,China,5,AA,BOV,DNV,9/17/2022,6:44 AM,5879.2,500,385.34,On Time,C3
